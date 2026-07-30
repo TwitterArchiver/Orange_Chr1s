@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1321912164496470016",
+          "name": "Saving money"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1321912164496470016",
+          "name": "Saving money"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity includes all conversations about travel and vacation.",
+          "id": "839161975712067584",
+          "name": "Travel Actions"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Travel Deals",
+          "id": "908653509062533120",
+          "name": "Travel Deals"
+        }
+      }
+    ],
+    "conversation_id": "2054512939634434078",
+    "created_at": "2026-05-13T10:43:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T11:43:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054512939634434078"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "存款"
+        },
+        {
+          "end": 76,
+          "start": 66,
+          "tag": "SaveMoney"
+        },
+        {
+          "end": 84,
+          "start": 77,
+          "tag": "Travel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054512939634434078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "用了那么久推都没发过一个帖子,给自己当存钱日记算了\n[Mission Log #001]\n目标：去香港玩会\n(0/800)\n#存款 #SaveMoney #Travel🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1321912164496470016",
+              "name": "Saving money"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1321912164496470016",
+              "name": "Saving money"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Travel Deals",
+              "id": "908653509062533120",
+              "name": "Travel Deals"
+            }
+          }
+        ],
+        "conversation_id": "2054512939634434078",
+        "created_at": "2026-05-13T10:43:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:43:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054512939634434078"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "存款"
+            },
+            {
+              "end": 76,
+              "start": 66,
+              "tag": "SaveMoney"
+            },
+            {
+              "end": 84,
+              "start": 77,
+              "tag": "Travel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054512939634434078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用了那么久推都没发过一个帖子,给自己当存钱日记算了\n[Mission Log #001]\n目标：去香港玩会\n(0/800)\n#存款 #SaveMoney #Travel🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.",
+        "id": "1545782617240653825",
+        "name": "MysticOrange",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 56,
+          "like_count": 119,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

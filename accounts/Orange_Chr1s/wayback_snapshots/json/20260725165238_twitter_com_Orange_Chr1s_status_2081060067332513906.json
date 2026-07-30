@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2081055327936741430",
+    "created_at": "2026-07-25T16:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T17:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081060067332513906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1388885035927834625",
+          "start": 0,
+          "username": "Triticale_eyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081060067332513906",
+    "in_reply_to_user_id": "1388885035927834625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081059958771327423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Triticale_eyyy 牛魔的我这里我哪里没去过😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2081055327936741430",
+        "created_at": "2026-07-25T16:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081060067332513906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1388885035927834625",
+              "start": 0,
+              "username": "Triticale_eyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081060067332513906",
+        "in_reply_to_user_id": "1388885035927834625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081059958771327423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Triticale_eyyy 牛魔的我这里我哪里没去过😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388885035927834625",
+        "conversation_id": "2081055327936741430",
+        "created_at": "2026-07-25T16:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081059958771327423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081059958771327423",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081058889328701705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 那就找找有兴趣的地方🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 134,
+          "like_count": 5382,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 1981
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T15:56:28.000Z",
+        "description": "喵帕斯～\n我们所度过的每个平凡的日常，也许就是连续发生的奇迹。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/triticale_eyyy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/triticale_eyyy",
+                "start": 0,
+                "url": "https://t.co/tq2dRuGsAi"
+              }
+            ]
+          }
+        },
+        "id": "1388885035927834625",
+        "location": "Rhodes Island Pharmaceutical",
+        "name": "小黑麦",
+        "pinned_tweet_id": "2058260256095166750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069377555753562112/cMuVF5Xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 901,
+          "like_count": 25694,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/tq2dRuGsAi",
+        "username": "Triticale_eyyy",
+        "verified": true
+      }
+    ]
+  }
+}

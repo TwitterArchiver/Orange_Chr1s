@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068092238677389312"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2068092253281923539",
+    "created_at": "2026-06-19T22:03:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T23:03:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068092253281923539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6deNo92Zle",
+          "end": 47,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2068092253281923539/photo/1",
+          "media_key": "3_2068092238677389312",
+          "start": 24,
+          "url": "https://t.co/6deNo92Zle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068092253281923539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "？抖音我真求你了，流量那么低怎么让我看到的？😅 https://t.co/6deNo92Zle"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2068092238677389312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLNW7xEbsAASziA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068092238677389312"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2068092253281923539",
+        "created_at": "2026-06-19T22:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T23:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068092253281923539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6deNo92Zle",
+              "end": 47,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2068092253281923539/photo/1",
+              "media_key": "3_2068092238677389312",
+              "start": 24,
+              "url": "https://t.co/6deNo92Zle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068092253281923539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？抖音我真求你了，流量那么低怎么让我看到的？😅 https://t.co/6deNo92Zle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 130,
+          "like_count": 4071,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 1681
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

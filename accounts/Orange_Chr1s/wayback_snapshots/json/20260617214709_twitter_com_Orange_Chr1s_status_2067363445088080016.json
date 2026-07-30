@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067363373940162560"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067359736266379396",
+    "created_at": "2026-06-17T21:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T22:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067363445088080016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927018923649564674",
+          "start": 0,
+          "username": "dddddd10792941"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ea5BcMmXYK",
+          "end": 53,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2067363445088080016/photo/1",
+          "media_key": "3_2067363373940162560",
+          "start": 30,
+          "url": "https://t.co/Ea5BcMmXYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067363445088080016",
+    "in_reply_to_user_id": "1927018923649564674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067362790697021919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddd10792941 好哦！不知道等会几点会困😇 https://t.co/Ea5BcMmXYK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2460,
+        "media_key": "3_2067363373940162560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLDACQVbQAAEWOD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067362772938305536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLC_fRbasAAEHu8.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067363373940162560"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067359736266379396",
+        "created_at": "2026-06-17T21:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T22:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067363445088080016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927018923649564674",
+              "start": 0,
+              "username": "dddddd10792941"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ea5BcMmXYK",
+              "end": 53,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2067363445088080016/photo/1",
+              "media_key": "3_2067363373940162560",
+              "start": 30,
+              "url": "https://t.co/Ea5BcMmXYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067363445088080016",
+        "in_reply_to_user_id": "1927018923649564674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067362790697021919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddd10792941 好哦！不知道等会几点会困😇 https://t.co/Ea5BcMmXYK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067362772938305536"
+          ]
+        },
+        "author_id": "1927018923649564674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067359736266379396",
+        "created_at": "2026-06-17T21:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T22:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067362790697021919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0HpWBsHbN",
+              "end": 45,
+              "expanded_url": "https://x.com/dddddd10792941/status/2067362790697021919/photo/1",
+              "media_key": "3_2067362772938305536",
+              "start": 22,
+              "url": "https://t.co/j0HpWBsHbN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067362790697021919",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067362236805579168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 现在就在听呢😊 https://t.co/j0HpWBsHbN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 130,
+          "like_count": 3888,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1640
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:08:23.000Z",
+        "description": "一个无建模，无经济，无背景的外道魔像一枚捏\n如果看到哪位宝宝关注我我都会回关的\n想去死想去死想去死\n很缺爱的一个入，很希望有个依靠，但想起自己那丑陋的皮囊还是算了吧\n梦想就是下辈子变成腿白，身材不胖建模好，声音中性的男生然后穿上女装当男娘发好看的白丝黑丝和cos服给推友们看豪堪的喵\n希望两年后会倒在自己的血泊中无人在意",
+        "id": "1927018923649564674",
+        "location": "躺上去肯定会舒服的地方",
+        "name": "缺爱哥布林想要重生为建模优美男娘",
+        "pinned_tweet_id": "2063468670790291840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066609635038285824/mO2wEwt7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 191,
+          "like_count": 1143,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 933
+        },
+        "username": "dddddd10792941",
+        "verified": false
+      }
+    ]
+  }
+}

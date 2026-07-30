@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055293867487068390",
+    "created_at": "2026-05-15T14:29:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:29:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055294625037033798"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055294625037033798",
+    "in_reply_to_user_id": "1545782617240653825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055293867487068390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是不是老了( ・◇・)?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055293867487068390",
+        "created_at": "2026-05-15T14:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055294625037033798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055294625037033798",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055293867487068390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是不是老了( ・◇・)?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055293867487068390",
+        "created_at": "2026-05-15T14:26:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055293867487068390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055293867487068390",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可否再繼續發著青春夢\n不知道光陰飛蹤\n道理沒法聽懂\n一再落泊街中\n\n十個美夢蓋過了天空\n溫馨的愛滲透了微風\n熱愛競逐每秒每分鐘\n輕輕一笑挫折再用功\n\n逝去日子 經過多少\n逝去日子 打算 是多麼遠\n\n仲系老歌好聽,講真嘅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 92,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 107
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

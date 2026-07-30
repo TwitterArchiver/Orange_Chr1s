@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2058121257330282924",
+    "created_at": "2026-05-23T15:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058209332941164955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058209332941164955",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058121257330282924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen 恭喜🥳🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 856,
+        "media_key": "3_2058121249340149760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_qXzOaUAAJCbr.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2058121257330282924",
+        "created_at": "2026-05-23T15:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058209332941164955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058209332941164955",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058121257330282924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 恭喜🥳🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058121249340149760"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2058121257330282924",
+        "created_at": "2026-05-23T09:42:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:42:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058121257330282924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8P5jlVhni",
+              "end": 46,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2058121257330282924/photo/1",
+              "media_key": "3_2058121249340149760",
+              "start": 23,
+              "url": "https://t.co/Y8P5jlVhni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058121257330282924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1073,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "4k fo 啦！\n感谢支持サイバー環状線喵！ https://t.co/Y8P5jlVhni"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 103,
+          "like_count": 1318,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 837
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4033,
+          "following_count": 847,
+          "like_count": 21657,
+          "listed_count": 10,
+          "media_count": 1153,
+          "tweet_count": 6458
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

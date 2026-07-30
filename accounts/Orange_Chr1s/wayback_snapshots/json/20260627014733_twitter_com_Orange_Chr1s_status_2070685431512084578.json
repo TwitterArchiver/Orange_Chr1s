@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2070673134437769494",
+    "created_at": "2026-06-27T01:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070685431512084578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2061934893295419392",
+          "start": 0,
+          "username": "changhangon3413"
+        },
+        {
+          "end": 32,
+          "id": "1388885035927834625",
+          "start": 17,
+          "username": "Triticale_eyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070685431512084578",
+    "in_reply_to_user_id": "2061934893295419392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070684842984149358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@changhangon3413 @Triticale_eyyy 是啊,没吃过咸的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2070673134437769494",
+        "created_at": "2026-06-27T01:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070685431512084578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2061934893295419392",
+              "start": 0,
+              "username": "changhangon3413"
+            },
+            {
+              "end": 32,
+              "id": "1388885035927834625",
+              "start": 17,
+              "username": "Triticale_eyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070685431512084578",
+        "in_reply_to_user_id": "2061934893295419392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070684842984149358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@changhangon3413 @Triticale_eyyy 是啊,没吃过咸的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061934893295419392",
+        "conversation_id": "2070673134437769494",
+        "created_at": "2026-06-27T01:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070684842984149358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            },
+            {
+              "end": 29,
+              "id": "1388885035927834625",
+              "start": 14,
+              "username": "Triticale_eyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070684842984149358",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070684708909027696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s @Triticale_eyyy 左边那个只吃甜的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 131,
+          "like_count": 4571,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1826
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T22:17:08.000Z",
+        "description": "这是一个无聊的小孩，试图在这上面分享一些日常和无聊的碎碎念。如果有人看的话不胜感激～～～～欢迎私信骚扰（\n手游主要玩舟/终/084 主玩电脑端游戏，最近沉迷于深海迷航2、都市天际线",
+        "id": "2061934893295419392",
+        "location": "Hong Kong",
+        "name": "寒蝉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061935605882470400/KGS7qQ3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 564,
+          "like_count": 2935,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 523
+        },
+        "url": "",
+        "username": "changhangon3413",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T15:56:28.000Z",
+        "description": "喵帕斯～\n我们所度过的每个平凡的日常，也许就是连续发生的奇迹。\n此次新增：匿名投信箱！\nhttps://t.co/tq2dRuGsAi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/triticale_eyyy",
+                "end": 67,
+                "expanded_url": "https://ngl.link/triticale_eyyy",
+                "start": 44,
+                "url": "https://t.co/tq2dRuGsAi"
+              }
+            ]
+          }
+        },
+        "id": "1388885035927834625",
+        "location": "Rhodes Island Pharmaceutical",
+        "name": "小黑麦",
+        "pinned_tweet_id": "2058260256095166750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069377555753562112/cMuVF5Xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 833,
+          "like_count": 18107,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1047
+        },
+        "url": "",
+        "username": "Triticale_eyyy",
+        "verified": true
+      }
+    ]
+  }
+}

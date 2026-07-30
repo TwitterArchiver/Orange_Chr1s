@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055596634218905600"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055596780642078733",
+    "created_at": "2026-05-16T10:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T11:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055596780642078733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3NQBkeOt4Z",
+          "end": 43,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2055596780642078733/video/1",
+          "media_key": "13_2055596634218905600",
+          "start": 20,
+          "url": "https://t.co/3NQBkeOt4Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055596780642078733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前跟朋友玩MC的录屏,hhhh好好笑 https://t.co/3NQBkeOt4Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 137514,
+        "height": 1600,
+        "media_key": "13_2055596634218905600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055596634218905600/img/ach47JWla2HQa7Ia.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055596634218905600/vid/avc1/432x270/cZGy9z454VJkG8iw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055596634218905600/vid/avc1/576x360/3CBJSv55GHqXtI_8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055596634218905600/vid/avc1/1152x720/jAi_B0It-RH4FMnA.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055596634218905600/pl/Y6hxHnydx07ICloP.m3u8?tag=14"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055596634218905600"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055596780642078733",
+        "created_at": "2026-05-16T10:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055596780642078733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NQBkeOt4Z",
+              "end": 43,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2055596780642078733/video/1",
+              "media_key": "13_2055596634218905600",
+              "start": 20,
+              "url": "https://t.co/3NQBkeOt4Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055596780642078733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前跟朋友玩MC的录屏,hhhh好好笑 https://t.co/3NQBkeOt4Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 107,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 231
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069920533135945729",
+        "13_2069920542103408640"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2069920623099543975",
+    "created_at": "2026-06-24T23:08:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T00:08:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069920623099543975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wFAODTY2ca",
+          "end": 68,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2069920623099543975/video/1",
+          "media_key": "3_2069920533135945729",
+          "start": 45,
+          "url": "https://t.co/wFAODTY2ca"
+        },
+        {
+          "display_url": "pic.x.com/wFAODTY2ca",
+          "end": 68,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2069920623099543975/video/1",
+          "media_key": "13_2069920542103408640",
+          "start": 45,
+          "url": "https://t.co/wFAODTY2ca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069920623099543975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "30日推歌 DAY 25 \n你喜欢的一个逝去了的艺术家的歌\n\nBeyond - 无尽空虚 https://t.co/wFAODTY2ca"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2069920533135945729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnVwgra8AE4NxE.jpg",
+        "width": 1260
+      },
+      {
+        "duration_ms": 276245,
+        "height": 744,
+        "media_key": "13_2069920542103408640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069920542103408640/img/8itCa6o9_lpn6WEs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069920542103408640/vid/avc1/320x320/xbMgN4AZAe7KDwSI.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069920542103408640/vid/avc1/540x540/EifuahYNcf2IBnXO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069920542103408640/vid/avc1/720x720/VXCAx6Wzk57i-mu_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069920542103408640/pl/PpRPCtWOOoP64StG.m3u8?tag=14"
+          }
+        ],
+        "width": 744
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069920533135945729",
+            "13_2069920542103408640"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2069920623099543975",
+        "created_at": "2026-06-24T23:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T00:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069920623099543975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFAODTY2ca",
+              "end": 68,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2069920623099543975/video/1",
+              "media_key": "3_2069920533135945729",
+              "start": 45,
+              "url": "https://t.co/wFAODTY2ca"
+            },
+            {
+              "display_url": "pic.x.com/wFAODTY2ca",
+              "end": 68,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2069920623099543975/video/1",
+              "media_key": "13_2069920542103408640",
+              "start": 45,
+              "url": "https://t.co/wFAODTY2ca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069920623099543975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30日推歌 DAY 25 \n你喜欢的一个逝去了的艺术家的歌\n\nBeyond - 无尽空虚 https://t.co/wFAODTY2ca"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 133,
+          "like_count": 4435,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1797
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

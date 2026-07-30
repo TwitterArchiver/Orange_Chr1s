@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055300774918594560"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055300839993208854",
+    "created_at": "2026-05-15T14:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055300839993208854"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 16,
+          "tag": "synthwave"
+        },
+        {
+          "end": 37,
+          "start": 27,
+          "tag": "retrowave"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oJX5ZuENNK",
+          "end": 61,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2055300839993208854/photo/1",
+          "media_key": "3_2055300774918594560",
+          "start": 38,
+          "url": "https://t.co/oJX5ZuENNK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055300839993208854",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Synthwave time！\n#synthwave #retrowave https://t.co/oJX5ZuENNK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2055300774918594560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXlKlOboAANCSn.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055300774918594560"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055300839993208854",
+        "created_at": "2026-05-15T14:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055300839993208854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 16,
+              "tag": "synthwave"
+            },
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "retrowave"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oJX5ZuENNK",
+              "end": 61,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2055300839993208854/photo/1",
+              "media_key": "3_2055300774918594560",
+              "start": 38,
+              "url": "https://t.co/oJX5ZuENNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055300839993208854",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Synthwave time！\n#synthwave #retrowave https://t.co/oJX5ZuENNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 92,
+          "like_count": 231,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 111
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2056276743913447656",
+    "created_at": "2026-05-18T07:39:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056278411174420749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1514955957515784193",
+          "start": 0,
+          "username": "FuzzyndLatency"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056278411174420749",
+    "in_reply_to_user_id": "1514955957515784193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056278314462105985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuzzyndLatency 迅速回家了，还好麦当劳离我家就100m"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2056276743913447656",
+        "created_at": "2026-05-18T07:39:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056278411174420749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1514955957515784193",
+              "start": 0,
+              "username": "FuzzyndLatency"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056278411174420749",
+        "in_reply_to_user_id": "1514955957515784193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056278314462105985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuzzyndLatency 迅速回家了，还好麦当劳离我家就100m"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514955957515784193",
+        "conversation_id": "2056276743913447656",
+        "created_at": "2026-05-18T07:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056278314462105985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056278314462105985",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056278147570786740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 💀💀💀💀💀卧槽\n能回家躺下休息吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 101,
+          "like_count": 565,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 422
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:09.000Z",
+        "description": "",
+        "id": "1514955957515784193",
+        "name": ", . ?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984606581141745664/V67p_IJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 2374,
+          "like_count": 10570,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 2468
+        },
+        "username": "FuzzyndLatency",
+        "verified": false
+      }
+    ]
+  }
+}

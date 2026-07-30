@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055363160396189956",
+    "created_at": "2026-05-16T18:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T19:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055721804157845816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051761383197339648",
+          "start": 0,
+          "username": "TSimehpo"
+        },
+        {
+          "end": 18,
+          "id": "2053227236321599489",
+          "start": 10,
+          "username": "axhg7pe"
+        },
+        {
+          "end": 27,
+          "id": "1944989354239385600",
+          "start": 19,
+          "username": "123mp27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055721804157845816",
+    "in_reply_to_user_id": "2051761383197339648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055720221789536353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSimehpo @axhg7pe @123mp27 真的说句不好听的，这是我第一次在推上骂的那么难听，气得我要死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055363160396189956",
+        "created_at": "2026-05-16T18:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055721804157845816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051761383197339648",
+              "start": 0,
+              "username": "TSimehpo"
+            },
+            {
+              "end": 18,
+              "id": "2053227236321599489",
+              "start": 10,
+              "username": "axhg7pe"
+            },
+            {
+              "end": 27,
+              "id": "1944989354239385600",
+              "start": 19,
+              "username": "123mp27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055721804157845816",
+        "in_reply_to_user_id": "2051761383197339648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055720221789536353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSimehpo @axhg7pe @123mp27 真的说句不好听的，这是我第一次在推上骂的那么难听，气得我要死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051761383197339648",
+        "conversation_id": "2055363160396189956",
+        "created_at": "2026-05-16T18:41:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:41:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055720221789536353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            },
+            {
+              "end": 22,
+              "id": "2053227236321599489",
+              "start": 14,
+              "username": "axhg7pe"
+            },
+            {
+              "end": 31,
+              "id": "1944989354239385600",
+              "start": 23,
+              "username": "123mp27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055720221789536353",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055719443616194964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s @axhg7pe @123mp27 感觉这种人好莫名其妙啊…自己做的决定结果亏钱了跑来骂别人…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 109,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 286
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T20:30:26.000Z",
+        "description": "用善意对待他人uwu 友跨uwu",
+        "id": "2051761383197339648",
+        "name": "小麦面包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052826594633494529/LjkZT3TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 252,
+          "like_count": 2190,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 676
+        },
+        "username": "TSimehpo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T21:35:25.000Z",
+        "description": "",
+        "id": "2053227236321599489",
+        "name": "a",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053998365583781888/dGkADv4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 60,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 153
+        },
+        "username": "axhg7pe",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:16:48.000Z",
+        "description": "11年落地组装在河北承德，现居辽宁朝阳(intp)\n/欢迎私信，接受宣泄和游戏，不会泄露\n/实名王艳阳\n/我是低龄大傻逼\n/温和好猫！\n/匿名消息https://t.co/bvZlqGL5P2\n咪~",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/123mp27",
+                "end": 96,
+                "expanded_url": "https://ngl.link/123mp27",
+                "start": 73,
+                "url": "https://t.co/bvZlqGL5P2"
+              }
+            ]
+          }
+        },
+        "id": "1944989354239385600",
+        "location": "互fo需要查成分，只要不是傻逼和重度鉴证就可以",
+        "name": "Rana (痴呆版",
+        "pinned_tweet_id": "2052972523311042954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022327136024252416/SQnOL9qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 494,
+          "like_count": 5751,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 3380
+        },
+        "username": "123mp27",
+        "verified": false
+      }
+    ]
+  }
+}

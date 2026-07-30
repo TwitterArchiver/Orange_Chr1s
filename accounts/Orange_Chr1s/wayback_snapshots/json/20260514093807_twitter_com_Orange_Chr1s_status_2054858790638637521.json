@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2054857439577858248",
+    "created_at": "2026-05-14T09:38:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:38:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054858790638637521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1426079620906975232",
+          "start": 0,
+          "username": "fan_rbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054858790638637521",
+    "in_reply_to_user_id": "1426079620906975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054857439577858248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan_rbq 虽然我的不是共享电动车,我就是这样开着我的电动车给我锁骨摔了的😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2054857439577858248",
+        "created_at": "2026-05-14T09:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054858790638637521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426079620906975232",
+              "start": 0,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054858790638637521",
+        "in_reply_to_user_id": "1426079620906975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054857439577858248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_rbq 虽然我的不是共享电动车,我就是这样开着我的电动车给我锁骨摔了的😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426079620906975232",
+        "conversation_id": "2054857439577858248",
+        "created_at": "2026-05-14T09:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054857439577858248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054857439577858248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“hi我想分享一下下雨天骑共享电单车不要捏前刹，下雨天摩擦力低轻轻一捏前刹前轮就抱死了,给我摔了个大跟头,希望能分享出来大家不要在下雨天捏前刹！”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\n✨ Outrunner • Synth-head ✨\nThe Midnight fan 🎷\n\n不听歌就会死掉 7*24听着歌\nCantonese || 广东 »»»\n抑郁过，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 88,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 41
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "♂08  167/52  休学ing   intp  想发啥发啥👿",
+        "id": "1426079620906975232",
+        "name": "饭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 108,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 153
+        },
+        "username": "fan_rbq",
+        "verified": false
+      }
+    ]
+  }
+}

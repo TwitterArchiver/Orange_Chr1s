@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1116767629572591616",
+          "name": "Intel Extreme Masters (IEM)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291094662682271744",
+          "name": "Gaming events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2055347608915460236",
+    "created_at": "2026-05-15T18:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T19:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055347608915460236"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ESLCS/status/2…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/ESLCS/status/2055346833363505455",
+          "start": 16,
+          "url": "https://t.co/aOlA4UwBCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055347608915460236",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055346833363505455",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "This is America https://t.co/aOlA4UwBCx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10520,
+        "height": 1080,
+        "media_key": "13_2055344774987862017",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055344774987862017/img/rwKziF9xdn9OjYz5.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055344774987862017/pl/c0_rGxyPcVLgTgu4.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055344774987862017/vid/avc1/1280x720/jEJ3qiN2Xy4D5DZT.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055344774987862017/vid/avc1/640x360/1TCQzFAQMRWhzvob.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055344774987862017/vid/avc1/1920x1080/YgU29WgDMhzgQobg.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055344774987862017/vid/avc1/480x270/iLKld7ycKJC_GJWl.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767629572591616",
+              "name": "Intel Extreme Masters (IEM)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2055347608915460236",
+        "created_at": "2026-05-15T18:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T19:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055347608915460236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ESLCS/status/2…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/ESLCS/status/2055346833363505455",
+              "start": 16,
+              "url": "https://t.co/aOlA4UwBCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055347608915460236",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055346833363505455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "This is America https://t.co/aOlA4UwBCx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055344774987862017"
+          ]
+        },
+        "author_id": "34002876",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767629572591616",
+              "name": "Intel Extreme Masters (IEM)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1116767692646522880",
+              "name": "ESL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2055346833363505455",
+        "created_at": "2026-05-15T17:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055346833363505455"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "IEM"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkvA35tc8g",
+              "end": 68,
+              "expanded_url": "https://x.com/ESLCS/status/2055346833363505455/video/1",
+              "media_key": "13_2055344774987862017",
+              "start": 45,
+              "url": "https://t.co/KkvA35tc8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055346833363505455",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 656,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "WHAT THE F*** IS A KILOMETER? 🦅 🍻🤠 🇺🇸 \n\n#IEM https://t.co/KkvA35tc8g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 93,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 171
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-21T19:06:35.000Z",
+        "description": "The Home of Counter-Strike.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "esl.gg/ktw",
+                "end": 23,
+                "expanded_url": "https://esl.gg/ktw",
+                "start": 0,
+                "url": "https://t.co/HC5upP8yPc"
+              }
+            ]
+          }
+        },
+        "id": "34002876",
+        "location": "Worldwide",
+        "name": "ESL Counter-Strike",
+        "pinned_tweet_id": "2054758649990397972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051650348536696833/4C1tYr4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218614,
+          "following_count": 1175,
+          "like_count": 10816,
+          "listed_count": 1788,
+          "media_count": 62453,
+          "tweet_count": 89436
+        },
+        "url": "https://t.co/HC5upP8yPc",
+        "username": "ESLCS",
+        "verified": true
+      }
+    ]
+  }
+}

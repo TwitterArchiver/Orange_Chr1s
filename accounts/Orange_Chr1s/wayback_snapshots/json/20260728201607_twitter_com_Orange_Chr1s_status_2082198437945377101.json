@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2082103754363699613",
+    "created_at": "2026-07-28T20:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T21:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082198437945377101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016246570312990720",
+          "start": 0,
+          "username": "YuChenawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082198437945377101",
+    "in_reply_to_user_id": "2016246570312990720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082198042019799377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuChenawa 那我认同了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2169,
+        "media_key": "3_2082198039398383616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOV0FbpbAAA-s_o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2082103754363699613",
+        "created_at": "2026-07-28T20:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082198437945377101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016246570312990720",
+              "start": 0,
+              "username": "YuChenawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082198437945377101",
+        "in_reply_to_user_id": "2016246570312990720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082198042019799377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuChenawa 那我认同了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082198039398383616"
+          ]
+        },
+        "author_id": "2016246570312990720",
+        "conversation_id": "2082103754363699613",
+        "created_at": "2026-07-28T20:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T21:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082198042019799377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/puPl1G04sq",
+              "end": 50,
+              "expanded_url": "https://x.com/YuChenawa/status/2082198042019799377/photo/1",
+              "media_key": "3_2082198039398383616",
+              "start": 27,
+              "url": "https://t.co/puPl1G04sq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082198042019799377",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082197935752978798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 可是麦当劳真的很好吃啊😭 https://t.co/puPl1G04sq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥|| 对我很好的人 @fan_rbq =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 135,
+                "username": "fan_rbq"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 135,
+          "like_count": 5566,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2018
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T20:27:15.000Z",
+        "description": "这里的每一种颜色，都有属于你勇敢做自己的身影",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuchen86833",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuchen86833",
+                "start": 0,
+                "url": "https://t.co/vconkxHXnn"
+              }
+            ]
+          }
+        },
+        "id": "2016246570312990720",
+        "location": "天堂✝️",
+        "name": "𝒴𝓊𝒸𝒽ℯ𝓃",
+        "pinned_tweet_id": "2060749702883332402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017348660867305473/hJCnFu9n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 490,
+          "like_count": 3974,
+          "listed_count": 3,
+          "media_count": 97,
+          "tweet_count": 1320
+        },
+        "url": "https://t.co/vconkxHXnn",
+        "username": "YuChenawa",
+        "verified": true
+      }
+    ]
+  }
+}

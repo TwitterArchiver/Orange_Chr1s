@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2067369039438250180",
+    "created_at": "2026-06-17T22:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T23:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067369039438250180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TSimehpo/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/TSimehpo/status/2067368886199267614",
+          "start": 15,
+          "url": "https://t.co/PxrxTW6xan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067369039438250180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067368886199267614",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好难受啊躺了一晚上都没睡着😇 https://t.co/PxrxTW6xan"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2067369039438250180",
+        "created_at": "2026-06-17T22:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T23:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067369039438250180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TSimehpo/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/TSimehpo/status/2067368886199267614",
+              "start": 15,
+              "url": "https://t.co/PxrxTW6xan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067369039438250180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067368886199267614",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好难受啊躺了一晚上都没睡着😇 https://t.co/PxrxTW6xan"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051761383197339648",
+        "conversation_id": "2067368886199267614",
+        "created_at": "2026-06-17T22:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T23:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067368886199267614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067368886199267614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受啊躺了一晚上都没睡着😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 130,
+          "like_count": 3897,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1646
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T20:30:26.000Z",
+        "description": "用善意对待世界的小麦面包🍞 uwu | 日常碎碎念 | 友跨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tsimehpo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tsimehpo",
+                "start": 0,
+                "url": "https://t.co/NUTbcuJGZH"
+              }
+            ]
+          }
+        },
+        "id": "2051761383197339648",
+        "name": "小麦面包",
+        "pinned_tweet_id": "2062474232085483689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052826594633494529/LjkZT3TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 555,
+          "like_count": 6432,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 1246
+        },
+        "url": "https://t.co/NUTbcuJGZH",
+        "username": "TSimehpo",
+        "verified": true
+      }
+    ]
+  }
+}

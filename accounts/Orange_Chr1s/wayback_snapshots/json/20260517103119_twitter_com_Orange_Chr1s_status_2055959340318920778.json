@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2055959001968545792"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055959340318920778",
+    "created_at": "2026-05-17T10:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055959340318920778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zrb2h4l4Re",
+          "end": 61,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2055959340318920778/video/1",
+          "media_key": "13_2055959001968545792",
+          "start": 38,
+          "url": "https://t.co/zrb2h4l4Re"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055959340318920778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈哈哈哈每次玩恐鬼症总有些新的可以笑的东西(建议声音调小点,我声音太大了) https://t.co/zrb2h4l4Re"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30080,
+        "height": 1080,
+        "media_key": "13_2055959001968545792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2055959001968545792/img/3jsbFG_UG2fqm9uj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055959001968545792/vid/avc1/480x270/KCUe9gtFnRTXtbDr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055959001968545792/vid/avc1/640x360/72-eucXfLTfneypr.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2055959001968545792/vid/avc1/1280x720/6rBifKBUpTxyRNBc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2055959001968545792/pl/3-oXqy0A22Nox5Gr.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2055959001968545792"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055959340318920778",
+        "created_at": "2026-05-17T10:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055959340318920778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zrb2h4l4Re",
+              "end": 61,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2055959340318920778/video/1",
+              "media_key": "13_2055959001968545792",
+              "start": 38,
+              "url": "https://t.co/zrb2h4l4Re"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055959340318920778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈哈每次玩恐鬼症总有些新的可以笑的东西(建议声音调小点,我声音太大了) https://t.co/zrb2h4l4Re"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 101,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 327
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

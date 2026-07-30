@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2063631007623029060",
+    "created_at": "2026-06-07T14:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063631541163753735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1426079620906975232",
+          "start": 0,
+          "username": "fan_rbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063631541163753735",
+    "in_reply_to_user_id": "1426079620906975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063631007623029060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan_rbq 是的呢，实际上是每个阶段经历的事不一样，思考方式就会变化，所以这个是会变的🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2063631007623029060",
+        "created_at": "2026-06-07T14:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063631541163753735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426079620906975232",
+              "start": 0,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063631541163753735",
+        "in_reply_to_user_id": "1426079620906975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063631007623029060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_rbq 是的呢，实际上是每个阶段经历的事不一样，思考方式就会变化，所以这个是会变的🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426079620906975232",
+        "conversation_id": "2063631007623029060",
+        "created_at": "2026-06-07T14:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063631007623029060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063631007623029060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "测了2遍mbti我还是infp，人格居然会变诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 128,
+          "like_count": 2873,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1406
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  戒🔪  不od   intp  想发啥发啥👿  有一丢丢负能量 碎碎念 小号：@qiLu54522246",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "qiLu54522246"
+              }
+            ]
+          }
+        },
+        "id": "1426079620906975232",
+        "name": "饭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 138,
+          "like_count": 1375,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 408
+        },
+        "username": "fan_rbq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2065469187699707926",
+    "created_at": "2026-06-12T17:20:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:20:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065484320807297533"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1426079620906975232",
+          "start": 0,
+          "username": "fan_rbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065484320807297533",
+    "in_reply_to_user_id": "1426079620906975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065469187699707926",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan_rbq 晚安晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2065469187699707926",
+        "created_at": "2026-06-12T17:20:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:20:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065484320807297533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426079620906975232",
+              "start": 0,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065484320807297533",
+        "in_reply_to_user_id": "1426079620906975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065469187699707926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_rbq 晚安晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426079620906975232",
+        "conversation_id": "2065469187699707926",
+        "created_at": "2026-06-12T16:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T17:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065469187699707926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065469187699707926",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心情好低落"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 128,
+          "like_count": 3302,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 1522
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  戒🔪  不od   infp  想发啥发啥👿  有一丢丢负能量 碎碎念",
+        "id": "1426079620906975232",
+        "name": "饭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 144,
+          "like_count": 1510,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 487
+        },
+        "username": "fan_rbq",
+        "verified": false
+      }
+    ]
+  }
+}

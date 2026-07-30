@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2057139106518557121",
+    "created_at": "2026-05-20T16:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057139106518557121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "MysticOrange🌆’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1DGle…",
+          "end": 29,
+          "expanded_url": "https://x.com/i/spaces/1DGleEzqqamJL",
+          "start": 6,
+          "status": 200,
+          "title": "Happening now: 无聊 聊天",
+          "unwound_url": "https://twitter.com/i/spaces/1DGleEzqqamJL/peek",
+          "url": "https://t.co/LaQSpdZLyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057139106518557121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "无聊 聊天 https://t.co/LaQSpdZLyj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2057139106518557121",
+        "created_at": "2026-05-20T16:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057139106518557121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "MysticOrange🌆’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1DGle…",
+              "end": 29,
+              "expanded_url": "https://x.com/i/spaces/1DGleEzqqamJL",
+              "start": 6,
+              "status": 200,
+              "title": "Happening now: 无聊 聊天",
+              "unwound_url": "https://twitter.com/i/spaces/1DGleEzqqamJL/peek",
+              "url": "https://t.co/LaQSpdZLyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057139106518557121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无聊 聊天 https://t.co/LaQSpdZLyj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 106,
+          "like_count": 965,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 632
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

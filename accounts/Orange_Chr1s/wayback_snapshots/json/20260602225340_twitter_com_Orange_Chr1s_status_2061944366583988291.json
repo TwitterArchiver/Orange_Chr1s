@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061944026555899904",
+        "3_2061944107178864640",
+        "13_2061944319599345664"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2061944366583988291",
+    "created_at": "2026-06-02T22:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T23:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061944366583988291"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qqSBmDWJW1",
+          "end": 74,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2061944366583988291/video/1",
+          "media_key": "3_2061944026555899904",
+          "start": 51,
+          "url": "https://t.co/qqSBmDWJW1"
+        },
+        {
+          "display_url": "pic.x.com/qqSBmDWJW1",
+          "end": 74,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2061944366583988291/video/1",
+          "media_key": "3_2061944107178864640",
+          "start": 51,
+          "url": "https://t.co/qqSBmDWJW1"
+        },
+        {
+          "display_url": "pic.x.com/qqSBmDWJW1",
+          "end": 74,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2061944366583988291/video/1",
+          "media_key": "13_2061944319599345664",
+          "start": 51,
+          "url": "https://t.co/qqSBmDWJW1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061944366583988291",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三十日推歌,今天是\nVXLLAIN, iGRES - It’s a fine day\n可以点击视频听 https://t.co/qqSBmDWJW1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2061944026555899904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1_KuGaYAATto9.jpg",
+        "width": 1260
+      },
+      {
+        "height": 292,
+        "media_key": "3_2061944107178864640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ1_PacbMAAoTJg.png",
+        "width": 229
+      },
+      {
+        "duration_ms": 207040,
+        "height": 500,
+        "media_key": "13_2061944319599345664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061944319599345664/img/e7rZpKfsOJFbO3Et.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061944319599345664/vid/avc1/320x320/uNSfi__yGWIwZ7HT.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061944319599345664/vid/avc1/500x500/XsvqGjbCVIjMcNKa.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061944319599345664/pl/yk4nVMeetMzXhSlG.m3u8?tag=14"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061944026555899904",
+            "3_2061944107178864640",
+            "13_2061944319599345664"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2061944366583988291",
+        "created_at": "2026-06-02T22:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061944366583988291"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qqSBmDWJW1",
+              "end": 74,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2061944366583988291/video/1",
+              "media_key": "3_2061944026555899904",
+              "start": 51,
+              "url": "https://t.co/qqSBmDWJW1"
+            },
+            {
+              "display_url": "pic.x.com/qqSBmDWJW1",
+              "end": 74,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2061944366583988291/video/1",
+              "media_key": "3_2061944107178864640",
+              "start": 51,
+              "url": "https://t.co/qqSBmDWJW1"
+            },
+            {
+              "display_url": "pic.x.com/qqSBmDWJW1",
+              "end": 74,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2061944366583988291/video/1",
+              "media_key": "13_2061944319599345664",
+              "start": 51,
+              "url": "https://t.co/qqSBmDWJW1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061944366583988291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三十日推歌,今天是\nVXLLAIN, iGRES - It’s a fine day\n可以点击视频听 https://t.co/qqSBmDWJW1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 122,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1154
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

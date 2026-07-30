@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2061273405106921897",
+    "created_at": "2026-06-01T02:39:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T03:39:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061276383381508280"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061276383381508280",
+    "in_reply_to_user_id": "1545782617240653825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061273405106921897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ok，老师在，送他之后聊两下天就走了😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2061273398022651904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsdPAIaQAA3Te6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2061273405106921897",
+        "created_at": "2026-06-01T02:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061276383381508280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061276383381508280",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061273405106921897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ok，老师在，送他之后聊两下天就走了😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061273398022651904"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061273405106921897",
+        "created_at": "2026-06-01T02:27:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T03:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061273405106921897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EnUzhlNSxV",
+              "end": 68,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2061273405106921897/photo/1",
+              "media_key": "3_2061273398022651904",
+              "start": 45,
+              "url": "https://t.co/EnUzhlNSxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061273405106921897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正好快一年没回学校了，看看我熟悉的那个老师在不在，在的话柠檬茶就给他，不在就我自己独享😋 https://t.co/EnUzhlNSxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 121,
+          "like_count": 1970,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 1083
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

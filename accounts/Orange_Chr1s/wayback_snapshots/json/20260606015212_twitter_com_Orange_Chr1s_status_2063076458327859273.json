@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063075070701121536",
+        "13_2063076375515549696"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2063076458327859273",
+    "created_at": "2026-06-06T01:52:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T02:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063076458327859273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l4c29bsP8S",
+          "end": 142,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2063076458327859273/video/1",
+          "media_key": "3_2063075070701121536",
+          "start": 119,
+          "url": "https://t.co/l4c29bsP8S"
+        },
+        {
+          "display_url": "pic.x.com/l4c29bsP8S",
+          "end": 142,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2063076458327859273/video/1",
+          "media_key": "13_2063076375515549696",
+          "start": 119,
+          "url": "https://t.co/l4c29bsP8S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063076458327859273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三十日推歌 day6\n让你想尽情跳舞的歌\n\nThe Midnight,Timecop1983 - River of Darkness\n\n肯定得是The Midnight啊,听了6年synthwave了,The Midnight是永远的神 https://t.co/l4c29bsP8S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2063075070701121536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKGD2J4asAA_EAq.jpg",
+        "width": 1260
+      },
+      {
+        "duration_ms": 365760,
+        "height": 632,
+        "media_key": "13_2063076375515549696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2063076375515549696/img/wlsRVFLiskfbgxo1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063076375515549696/vid/avc1/320x320/xKtQrSrFjRs_Hhza.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2063076375515549696/vid/avc1/632x632/M7M0Ki_KOkH479Y9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2063076375515549696/pl/Jqcrj3-3PUWSrzeO.m3u8?tag=14"
+          }
+        ],
+        "width": 632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063075070701121536",
+            "13_2063076375515549696"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2063076458327859273",
+        "created_at": "2026-06-06T01:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T02:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063076458327859273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l4c29bsP8S",
+              "end": 142,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2063076458327859273/video/1",
+              "media_key": "3_2063075070701121536",
+              "start": 119,
+              "url": "https://t.co/l4c29bsP8S"
+            },
+            {
+              "display_url": "pic.x.com/l4c29bsP8S",
+              "end": 142,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2063076458327859273/video/1",
+              "media_key": "13_2063076375515549696",
+              "start": 119,
+              "url": "https://t.co/l4c29bsP8S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063076458327859273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三十日推歌 day6\n让你想尽情跳舞的歌\n\nThe Midnight,Timecop1983 - River of Darkness\n\n肯定得是The Midnight啊,听了6年synthwave了,The Midnight是永远的神 https://t.co/l4c29bsP8S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 127,
+          "like_count": 2716,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1346
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2059432339617538450",
+    "created_at": "2026-05-27T00:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T01:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059432339617538450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2051965726043635712",
+          "start": 3,
+          "username": "whatasiger"
+        },
+        {
+          "end": 66,
+          "id": "2033160782687731712",
+          "start": 53,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059432339617538450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059283251903230424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whatasiger: 【伪·讣告】（需转发？）\n\n跨圈搬史之神，一个月斩获3000粉丝的汐落姐姐@Shioochicqwq ，于今日被晶，遭到传唤，账号将无法继续使用。\n\n让我们怀着最深切的悲恸，感恩汐落这一个月来搬的史。也许某天，我们还会与她相见，继续欣赏着那些梗图…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2059432339617538450",
+        "created_at": "2026-05-27T00:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T01:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059432339617538450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2051965726043635712",
+              "start": 3,
+              "username": "whatasiger"
+            },
+            {
+              "end": 66,
+              "id": "2033160782687731712",
+              "start": 53,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059432339617538450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059283251903230424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whatasiger: 【伪·讣告】（需转发？）\n\n跨圈搬史之神，一个月斩获3000粉丝的汐落姐姐@Shioochicqwq ，于今日被晶，遭到传唤，账号将无法继续使用。\n\n让我们怀着最深切的悲恸，感恩汐落这一个月来搬的史。也许某天，我们还会与她相见，继续欣赏着那些梗图…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051965726043635712",
+        "conversation_id": "2059283251903230424",
+        "created_at": "2026-05-26T14:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059283251903230424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 50,
+              "id": "2033160782687731712",
+              "start": 37,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059283251903230424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9273,
+          "like_count": 58,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "【伪·讣告】（需转发？）\n\n跨圈搬史之神，一个月斩获3000粉丝的汐落姐姐@Shioochicqwq ，于今日被晶，遭到传唤，账号将无法继续使用。\n\n让我们怀着最深切的悲恸，感恩汐落这一个月来搬的史。也许某天，我们还会与她相见，继续欣赏着那些梗图。即使再也不见，让我们祝她早安、午安、晚安。\n\n2026-05-26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 117,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 949
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T10:02:16.000Z",
+        "description": "2008-10｜人类?｜LGBTQ+ 友好｜写点小说｜ACG 相关（Bangumi）：https://t.co/KrQeYLLYXa｜个人博客＆作品：https://t.co/EhqryVku36 ｜头发焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bgm.tv/user/whatasiger",
+                "end": 66,
+                "expanded_url": "https://bgm.tv/user/whatasiger",
+                "start": 43,
+                "url": "https://t.co/KrQeYLLYXa"
+              },
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 98,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 75,
+                "url": "https://t.co/EhqryVku36"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 23,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 0,
+                "url": "https://t.co/EhqryVku36"
+              }
+            ]
+          }
+        },
+        "id": "2051965726043635712",
+        "location": "Tokyo-to, Japan",
+        "name": "Whatasiger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051966277821022208/On2McT3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 85,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 313
+        },
+        "url": "https://t.co/EhqryVku36",
+        "username": "whatasiger",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@whatasiger｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "whatasiger"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 143,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 120,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3096,
+          "following_count": 1769,
+          "like_count": 6189,
+          "listed_count": 4,
+          "media_count": 601,
+          "tweet_count": 4446
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

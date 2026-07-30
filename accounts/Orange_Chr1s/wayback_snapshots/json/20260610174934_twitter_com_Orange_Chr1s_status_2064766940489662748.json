@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2064764438545420536",
+    "created_at": "2026-06-10T17:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T18:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064766940489662748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060050991370891265",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064766940489662748",
+    "in_reply_to_user_id": "2060050991370891265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064764438545420536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 所以你家里现在一共几个鲨鲨🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064764303195115520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKeEMbTaEAAtznN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2064764438545420536",
+        "created_at": "2026-06-10T17:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064766940489662748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060050991370891265",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064766940489662748",
+        "in_reply_to_user_id": "2060050991370891265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064764438545420536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 所以你家里现在一共几个鲨鲨🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064764303195115520"
+          ]
+        },
+        "author_id": "2060050991370891265",
+        "conversation_id": "2064764438545420536",
+        "created_at": "2026-06-10T17:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T18:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064764438545420536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fVIWNtIWC",
+              "end": 40,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2064764438545420536/photo/1",
+              "media_key": "3_2064764303195115520",
+              "start": 17,
+              "url": "https://t.co/0fVIWNtIWC"
+            },
+            {
+              "display_url": "x.com/Shioochicqwq/s…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Shioochicqwq/status/2064763924134977542",
+              "start": 41,
+              "url": "https://t.co/vkKfdP4rwI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064764438545420536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064763924134977542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在家里的话我就可以抱着鲨鲨睡了🥰 https://t.co/0fVIWNtIWC https://t.co/vkKfdP4rwI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 127,
+          "like_count": 3154,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1487
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜我草我怎么是爱德华多啊",
+        "id": "2060050991370891265",
+        "name": "汐落",
+        "pinned_tweet_id": "2060223149778817434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 244,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 269
+        },
+        "username": "Shioochicqwq",
+        "verified": false
+      }
+    ]
+  }
+}

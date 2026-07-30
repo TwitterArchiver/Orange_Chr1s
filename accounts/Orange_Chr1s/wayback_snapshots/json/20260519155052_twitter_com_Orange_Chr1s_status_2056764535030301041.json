@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2056762254411104681",
+    "created_at": "2026-05-19T15:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056764535030301041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1514955957515784193",
+          "start": 0,
+          "username": "FuzzyndLatency"
+        },
+        {
+          "end": 25,
+          "id": "1816508247651860480",
+          "start": 16,
+          "username": "DUAN4100"
+        },
+        {
+          "end": 39,
+          "id": "2034972955294539781",
+          "start": 26,
+          "username": "FliexLanPACZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056764535030301041",
+    "in_reply_to_user_id": "1514955957515784193",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056764311461306879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuzzyndLatency @DUAN4100 @FliexLanPACZ Yes sir!🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2056762254411104681",
+        "created_at": "2026-05-19T15:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056764535030301041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1514955957515784193",
+              "start": 0,
+              "username": "FuzzyndLatency"
+            },
+            {
+              "end": 25,
+              "id": "1816508247651860480",
+              "start": 16,
+              "username": "DUAN4100"
+            },
+            {
+              "end": 39,
+              "id": "2034972955294539781",
+              "start": 26,
+              "username": "FliexLanPACZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056764535030301041",
+        "in_reply_to_user_id": "1514955957515784193",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056764311461306879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuzzyndLatency @DUAN4100 @FliexLanPACZ Yes sir!🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514955957515784193",
+        "conversation_id": "2056762254411104681",
+        "created_at": "2026-05-19T15:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056764311461306879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            },
+            {
+              "end": 23,
+              "id": "1816508247651860480",
+              "start": 14,
+              "username": "DUAN4100"
+            },
+            {
+              "end": 37,
+              "id": "2034972955294539781",
+              "start": 24,
+              "username": "FliexLanPACZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056764311461306879",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056762608632672310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s @DUAN4100 @FliexLanPACZ 悼棺💔💔💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 101,
+          "like_count": 748,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 534
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:09.000Z",
+        "description": "",
+        "id": "1514955957515784193",
+        "name": ", . ?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984606581141745664/V67p_IJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 2384,
+          "like_count": 10630,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 2494
+        },
+        "username": "FuzzyndLatency",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T16:18:17.000Z",
+        "description": "我要转生了想找我的私信我会看\n他妈的我咋这么倒霉",
+        "id": "1816508247651860480",
+        "location": "门67/167/267纯绿无区别",
+        "name": "大骰目",
+        "pinned_tweet_id": "2055722409337200830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054204654331064320/4cq8X0jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 392,
+          "like_count": 13839,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 3389
+        },
+        "username": "DUAN4100",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-20T12:39:05.000Z",
+        "description": "是空二澜雨丫（日文真名） 中日混血   是个中国人异瞳（右眼白色，左眼红色）喜欢打游戏 梦想是组一支乐队当鼓手，接互fo\n双向情感障碍/中度抑郁（已转重度）/PTSD无性别主义者，友人@qianye_zhenyu  intp17 可乐仙人\nod（原本不o） 24岁自杀，2号机@PACZFliexLan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 92,
+                "username": "qianye_zhenyu"
+              },
+              {
+                "end": 151,
+                "start": 138,
+                "username": "PACZFliexLan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/FliexLan",
+                "end": 23,
+                "expanded_url": "https://t.me/FliexLan",
+                "start": 0,
+                "url": "https://t.co/j3No5Qc2AN"
+              }
+            ]
+          }
+        },
+        "id": "2034972955294539781",
+        "location": "Kanagawa-ken, Japan",
+        "name": "空二澜雨FliexRunVso-Lan",
+        "pinned_tweet_id": "2054225808231940599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053506570215202816/-j8XON6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 210,
+          "like_count": 552,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 629
+        },
+        "url": "https://t.co/j3No5Qc2AN",
+        "username": "FliexLanPACZ",
+        "verified": false
+      }
+    ]
+  }
+}

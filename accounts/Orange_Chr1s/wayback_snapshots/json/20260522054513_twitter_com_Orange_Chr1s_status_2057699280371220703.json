@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2057697850595897851",
+    "created_at": "2026-05-22T05:45:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057699280371220703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057699280371220703",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057697850595897851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 真搬💩啊😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1834,
+        "media_key": "3_2057697840806432768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5pSLhbEAACVaC.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2057697850595897851",
+        "created_at": "2026-05-22T05:45:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057699280371220703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057699280371220703",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057697850595897851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 真搬💩啊😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057697840806432768"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2057697850595897851",
+        "created_at": "2026-05-22T05:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057697850595897851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MfI6FSPTUM",
+              "end": 133,
+              "expanded_url": "https://x.com/Shioochicqwq/status/2057697850595897851/photo/1",
+              "media_key": "3_2057697840806432768",
+              "start": 110,
+              "url": "https://t.co/MfI6FSPTUM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057697850595897851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "1. 崇高与低俗的倒置\n粪便在传统观念中是绝对的污秽、禁忌之物，但作者却为其取名「小芳」精心照料，并从中获得「人生的意义」——将边缘、低级、被排斥的符号，抬升到中心与神圣的位置，从而消解传统价值体系。\n\n2. 叙事戏仿\n整段文字模仿了浪漫化的「邂逅—照料—感悟」情节，但对象却是粪便。这种戏仿暴露了意义本身的任意性——爱、意义、成长，不过是对同一叙事模板的替换填充。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1. 崇高与低俗的倒置\n粪便在传统观念中是绝对的污秽、禁忌之物，但作者却为其取名「小芳」精心照料，并从中获得「人生的意义」——将边缘、低级、被排斥的符号，抬升到中心与神圣的位置，从而消解传统价值体系。\n\n2. 叙事戏仿 https://t.co/MfI6FSPTUM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 103,
+          "like_count": 1165,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 745
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期2009.4.8｜hrt2025.7.20🍥｜小证2026.1.17｜choose life?！｜主页请看亮点｜石图提供者@hiotemaron41774｜友跨顺男@whatasiger｜友情链接:https//:https://t.co/lgff7NheVI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "whatasiger"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 143,
+                "expanded_url": "http://whatasiger.xyz",
+                "start": 120,
+                "url": "https://t.co/lgff7NheVI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落_shio",
+        "pinned_tweet_id": "2047250658261442860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2945,
+          "following_count": 1721,
+          "like_count": 5865,
+          "listed_count": 4,
+          "media_count": 563,
+          "tweet_count": 4204
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochicqwq",
+        "verified": true
+      }
+    ]
+  }
+}

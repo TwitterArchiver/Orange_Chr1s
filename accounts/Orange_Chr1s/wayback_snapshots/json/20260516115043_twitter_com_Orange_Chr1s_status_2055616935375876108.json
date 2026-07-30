@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055616935375876108",
+    "created_at": "2026-05-16T11:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T12:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055616935375876108"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Orange_Chr1s/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Orange_Chr1s/status/2055324802869792895",
+          "start": 8,
+          "url": "https://t.co/O9Oek8Sgir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055616935375876108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055324802869792895",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "广州禁摩cnm https://t.co/O9Oek8Sgir"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055616935375876108",
+        "created_at": "2026-05-16T11:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055616935375876108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Orange_Chr1s/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Orange_Chr1s/status/2055324802869792895",
+              "start": 8,
+              "url": "https://t.co/O9Oek8Sgir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055616935375876108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055324802869792895",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "广州禁摩cnm https://t.co/O9Oek8Sgir"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055324802869792895",
+        "created_at": "2026-05-15T16:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T17:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055324802869792895"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055324802869792895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等明年c1实习期过了得考个D然后买个巡航😓电动车减震太硬了，而且还没abs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 107,
+          "like_count": 378,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 236
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2059059086722048002",
+    "created_at": "2026-05-25T23:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T00:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059059086722048002"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TransYuwen/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/TransYuwen/status/2059056404804280761",
+          "start": 7,
+          "url": "https://t.co/6axNzqCfcE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059059086722048002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059056404804280761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "烧不上纸钱了 https://t.co/6axNzqCfcE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2059059086722048002",
+        "created_at": "2026-05-25T23:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059059086722048002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TransYuwen/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/TransYuwen/status/2059056404804280761",
+              "start": 7,
+              "url": "https://t.co/6axNzqCfcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059059086722048002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059056404804280761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "烧不上纸钱了 https://t.co/6axNzqCfcE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054877291633909760",
+        "conversation_id": "2059056404804280761",
+        "created_at": "2026-05-25T23:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T00:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059056404804280761"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059056404804280761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现代医学牛逼\n心率都尼玛220多给我救回来了\n还有\n谁她妈打的000\n好几把贵啊\n急诊2315\n救护车1386\n保险不报\n你m死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 117,
+          "like_count": 1497,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 916
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T10:51:46.000Z",
+        "description": "MtF 🏳️‍⚧️| 有证 🍥:2025/6/30|药娘小资历皇帝| ENFP| | 174厘米 | 75公斤 | 阿德莱德墨尔本游荡 |私信互fo | 不OD | 不自残 | 不抽烟 | 不喝酒 |轻度双相情感障碍| 爱人：@shaoxiancao1314 | She/Her |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 113,
+                "username": "shaoxiancao1314"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "XYN.LGBT",
+                "end": 23,
+                "expanded_url": "http://XYN.LGBT",
+                "start": 0,
+                "url": "https://t.co/fsTcNszBIX"
+              }
+            ]
+          }
+        },
+        "id": "2054877291633909760",
+        "location": "Melb",
+        "name": "唐毓文🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2058950147560944083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055209660245045248/r3mq9G7h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 42,
+          "like_count": 219,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 1031
+        },
+        "url": "https://t.co/fsTcNszBIX",
+        "username": "TransYuwen",
+        "verified": true
+      }
+    ]
+  }
+}

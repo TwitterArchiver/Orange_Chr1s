@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055305839985250541",
+    "created_at": "2026-05-15T15:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055308002979357128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816508247651860480",
+          "start": 0,
+          "username": "DUAN4100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055308002979357128",
+    "in_reply_to_user_id": "1816508247651860480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055305839985250541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DUAN4100 喝点啤的就行,微醺即可,珠江或者青岛都行🤔或者不想传统的话喝点Rio也行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055305839985250541",
+        "created_at": "2026-05-15T15:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055308002979357128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816508247651860480",
+              "start": 0,
+              "username": "DUAN4100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055308002979357128",
+        "in_reply_to_user_id": "1816508247651860480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055305839985250541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DUAN4100 喝点啤的就行,微醺即可,珠江或者青岛都行🤔或者不想传统的话喝点Rio也行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816508247651860480",
+        "conversation_id": "2055305839985250541",
+        "created_at": "2026-05-15T15:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055305839985250541"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055305839985250541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想喝酒了，有推荐吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 93,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 123
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T16:18:17.000Z",
+        "description": "我要转生了想找我的私信我会看\n他妈的我咋这么倒霉",
+        "id": "1816508247651860480",
+        "location": "门67/167/267纯绿无区别",
+        "name": "大骰目",
+        "pinned_tweet_id": "2054055285824852342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054204654331064320/4cq8X0jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 391,
+          "like_count": 13537,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 3272
+        },
+        "username": "DUAN4100",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2069786213255705079",
+    "created_at": "2026-06-24T16:48:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T17:48:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069824976551907824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1854736085068517376",
+          "start": 0,
+          "username": "RainEngine_2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069824976551907824",
+    "in_reply_to_user_id": "1854736085068517376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069786213255705079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine_2024 好喝的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069786202404782081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLlblbtXgAECvV-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2069786213255705079",
+        "created_at": "2026-06-24T16:48:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069824976551907824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854736085068517376",
+              "start": 0,
+              "username": "RainEngine_2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069824976551907824",
+        "in_reply_to_user_id": "1854736085068517376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069786213255705079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine_2024 好喝的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069786202404782081"
+          ]
+        },
+        "author_id": "1854736085068517376",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069786213255705079",
+        "created_at": "2026-06-24T14:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T15:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069786213255705079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHnUTiUvYh",
+              "end": 33,
+              "expanded_url": "https://x.com/RainEngine_2024/status/2069786213255705079/photo/1",
+              "media_key": "3_2069786202404782081",
+              "start": 10,
+              "url": "https://t.co/hHnUTiUvYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069786213255705079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "广式菠萝啤yyds https://t.co/hHnUTiUvYh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 133,
+          "like_count": 4416,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1786
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T04:02:15.000Z",
+        "description": "雨擎项目组设计总监/Dancing Line饭制作者/07年/曾小米合作伙伴/目前在学习u3d引擎技术/貌似不是学生/双相/HRT:2025.9.5/炸柜:2026.6.2/来自广东东莞/喜欢拍照记录生活/喜欢折腾各类的手机/很高兴认识大家/欢迎互fo",
+        "id": "1854736085068517376",
+        "name": "秋日葵_Official",
+        "pinned_tweet_id": "2069621211416727766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053488985306198016/M7IDcy9f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 308,
+          "like_count": 2463,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 291
+        },
+        "url": "",
+        "username": "RainEngine_2024",
+        "verified": false
+      }
+    ]
+  }
+}

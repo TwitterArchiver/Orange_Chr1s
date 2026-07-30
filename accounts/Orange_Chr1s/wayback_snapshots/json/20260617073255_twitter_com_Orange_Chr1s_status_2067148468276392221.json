@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2067148359731912704",
+        "3_2067148365746651136"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2067148468276392221",
+    "created_at": "2026-06-17T07:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067148468276392221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YSnnrH54cY",
+          "end": 42,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2067148468276392221/video/1",
+          "media_key": "13_2067148359731912704",
+          "start": 19,
+          "url": "https://t.co/YSnnrH54cY"
+        },
+        {
+          "display_url": "pic.x.com/YSnnrH54cY",
+          "end": 42,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2067148468276392221/video/1",
+          "media_key": "3_2067148365746651136",
+          "start": 19,
+          "url": "https://t.co/YSnnrH54cY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067148468276392221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是6/17 大家可以去麦当劳试下 https://t.co/YSnnrH54cY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17400,
+        "height": 1066,
+        "media_key": "13_2067148359731912704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067148359731912704/img/4bwDppMnQyxgfl1H.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067148359731912704/vid/avc1/320x592/Pu1-iOPAdL_KvJvl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067148359731912704/vid/avc1/480x888/nSTlgw0p0h0Z6twm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067148359731912704/vid/avc1/576x1066/k_mIuXf7uQS3U6kw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067148359731912704/pl/HMXUbNOynNDg-xWU.m3u8?tag=14"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "height": 864,
+        "media_key": "3_2067148365746651136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK_8fIZbwAA7zGd.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067148359731912704",
+            "3_2067148365746651136"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2067148468276392221",
+        "created_at": "2026-06-17T07:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067148468276392221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSnnrH54cY",
+              "end": 42,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2067148468276392221/video/1",
+              "media_key": "13_2067148359731912704",
+              "start": 19,
+              "url": "https://t.co/YSnnrH54cY"
+            },
+            {
+              "display_url": "pic.x.com/YSnnrH54cY",
+              "end": 42,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2067148468276392221/video/1",
+              "media_key": "3_2067148365746651136",
+              "start": 19,
+              "url": "https://t.co/YSnnrH54cY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067148468276392221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是6/17 大家可以去麦当劳试下 https://t.co/YSnnrH54cY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 130,
+          "like_count": 3812,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1615
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

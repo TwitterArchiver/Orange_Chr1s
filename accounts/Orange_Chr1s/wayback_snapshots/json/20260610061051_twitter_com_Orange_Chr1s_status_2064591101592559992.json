@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2064567220383207858",
+    "created_at": "2026-06-10T06:10:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T07:10:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064591101592559992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1576083963713503232",
+          "start": 0,
+          "username": "WhitesugarC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064591101592559992",
+    "in_reply_to_user_id": "1576083963713503232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064567220383207858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhitesugarC 麦麦麦麦麦麦麦麦麦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064567213408092161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbQ8SobgAEm8ns.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2064567220383207858",
+        "created_at": "2026-06-10T06:10:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T07:10:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064591101592559992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1576083963713503232",
+              "start": 0,
+              "username": "WhitesugarC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064591101592559992",
+        "in_reply_to_user_id": "1576083963713503232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064567220383207858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhitesugarC 麦麦麦麦麦麦麦麦麦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064567213408092161"
+          ]
+        },
+        "author_id": "1576083963713503232",
+        "conversation_id": "2064567220383207858",
+        "created_at": "2026-06-10T04:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064567220383207858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ewFfr2lNwN",
+              "end": 46,
+              "expanded_url": "https://x.com/WhitesugarC/status/2064567220383207858/photo/1",
+              "media_key": "3_2064567213408092161",
+              "start": 23,
+              "url": "https://t.co/ewFfr2lNwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064567220383207858",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真是蓝粉白。\n有一说一，蓝粉白拼接真好看吧。 https://t.co/ewFfr2lNwN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 128,
+          "like_count": 3102,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1473
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T05:37:59.000Z",
+        "description": "@Whatasiger 二阶段｜友男顺跨｜翻车概率为 0!｜「我们生来是为了燃烧的。我们是烟花。」｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Whatasiger"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 23,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 0,
+                "url": "https://t.co/XdFzuqLNUB"
+              }
+            ]
+          }
+        },
+        "id": "1576083963713503232",
+        "name": "Whatasigers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061855369761312768/lCV-grQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 36,
+          "like_count": 136,
+          "listed_count": 2,
+          "media_count": 19,
+          "tweet_count": 127
+        },
+        "url": "https://t.co/XdFzuqLNUB",
+        "username": "WhitesugarC",
+        "verified": false
+      }
+    ]
+  }
+}

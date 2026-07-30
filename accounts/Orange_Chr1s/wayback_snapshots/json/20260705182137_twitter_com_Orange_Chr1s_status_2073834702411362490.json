@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2073660022220054947",
+    "created_at": "2026-07-05T18:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073834702411362490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1711945664966582272",
+          "start": 0,
+          "username": "o0x80t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073834702411362490",
+    "in_reply_to_user_id": "1711945664966582272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073808497628832252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o0x80t 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2073660022220054947",
+        "created_at": "2026-07-05T18:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073834702411362490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1711945664966582272",
+              "start": 0,
+              "username": "o0x80t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073834702411362490",
+        "in_reply_to_user_id": "1711945664966582272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073808497628832252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o0x80t 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711945664966582272",
+        "conversation_id": "2073660022220054947",
+        "created_at": "2026-07-05T16:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073808497628832252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073808497628832252",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073660022220054947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 麦当劳9.9薯条给我吃顶了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 134,
+          "like_count": 4789,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1886
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T03:24:03.000Z",
+        "description": "ZH/EN/JP, NO POLITIC, Undergraduate college student in Asia\n友善交友🥰",
+        "id": "1711945664966582272",
+        "location": "Beijing",
+        "name": "Space75",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068273732586745856/MCTLKHr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 86,
+          "like_count": 420,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 188
+        },
+        "url": "",
+        "username": "o0x80t",
+        "verified": false
+      }
+    ]
+  }
+}

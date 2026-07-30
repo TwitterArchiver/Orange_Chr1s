@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2073823582296428743",
+    "created_at": "2026-07-05T18:35:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T19:35:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073838165367124158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1512456859776851972",
+          "start": 0,
+          "username": "wanliyan3"
+        },
+        {
+          "end": 24,
+          "id": "2040718731052015616",
+          "start": 11,
+          "username": "Qing__Yang__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073838165367124158",
+    "in_reply_to_user_id": "1512456859776851972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073833107103625554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanliyan3 @Qing__Yang__ 先关注了,我要看到腐蚀的时候😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2073823582296428743",
+        "created_at": "2026-07-05T18:35:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:35:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073838165367124158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1512456859776851972",
+              "start": 0,
+              "username": "wanliyan3"
+            },
+            {
+              "end": 24,
+              "id": "2040718731052015616",
+              "start": 11,
+              "username": "Qing__Yang__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073838165367124158",
+        "in_reply_to_user_id": "1512456859776851972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073833107103625554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanliyan3 @Qing__Yang__ 先关注了,我要看到腐蚀的时候😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512456859776851972",
+        "conversation_id": "2073823582296428743",
+        "created_at": "2026-07-05T18:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073833107103625554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2040718731052015616",
+              "start": 0,
+              "username": "Qing__Yang__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073833107103625554",
+        "in_reply_to_user_id": "2040718731052015616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073831724208025725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qing__Yang__ 共產黨倒台的時候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 135,
+          "like_count": 4795,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1887
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "高雄",
+        "id": "1512456859776851972",
+        "location": "台灣",
+        "name": "拿鐵🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044837652076322816/nH0Qk2dn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 239,
+          "like_count": 441,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T09:10:53.000Z",
+        "description": "cn：清氧⎮MBTI：infp-a-h⎮出生日期2008/04/18⎮生理性别男⎮心理性别女⎮可以当树洞，我很乐意倾听",
+        "id": "2040718731052015616",
+        "name": "清氧🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069477618345549824/y73YgRue_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 127,
+          "like_count": 864,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "Qing__Yang__",
+        "verified": false
+      }
+    ]
+  }
+}

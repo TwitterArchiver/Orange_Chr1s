@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074349149957521408"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074349370544443695",
+    "created_at": "2026-07-07T04:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T05:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074349370544443695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rNs3T9Lbg2",
+          "end": 85,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2074349370544443695/photo/1",
+          "media_key": "3_2074349149957521408",
+          "start": 62,
+          "url": "https://t.co/rNs3T9Lbg2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074349370544443695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "薯条薯条薯条薯条薯条😡你妈妈的，我把我喝的放麦当劳桌子上，然后被人偷了，我烟放着，火机放着不偷，偷我喝的你妈妈的😡😡😡😡😡 https://t.co/rNs3T9Lbg2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3076,
+        "media_key": "3_2074349149957521408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmRj79aAAA0fUC.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074349149957521408"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074349370544443695",
+        "created_at": "2026-07-07T04:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074349370544443695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rNs3T9Lbg2",
+              "end": 85,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2074349370544443695/photo/1",
+              "media_key": "3_2074349149957521408",
+              "start": 62,
+              "url": "https://t.co/rNs3T9Lbg2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074349370544443695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "薯条薯条薯条薯条薯条😡你妈妈的，我把我喝的放麦当劳桌子上，然后被人偷了，我烟放着，火机放着不偷，偷我喝的你妈妈的😡😡😡😡😡 https://t.co/rNs3T9Lbg2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 135,
+          "like_count": 4840,
+          "listed_count": 0,
+          "media_count": 256,
+          "tweet_count": 1903
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

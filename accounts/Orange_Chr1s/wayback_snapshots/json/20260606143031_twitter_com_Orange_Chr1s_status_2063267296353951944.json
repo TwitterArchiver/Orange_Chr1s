@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2063264872922849290",
+    "created_at": "2026-06-06T14:30:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T15:30:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063267296353951944"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2063267296353951944",
+    "in_reply_to_user_id": "1545782617240653825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063264872922849290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我不去工作呢,因为我是沙比,我害怕工作 \n\n为什么不去上学呢,因为还没到上学的时间,我九月就去上学,在这之前我已经在家呆了一年了,算上休学的两年,我已经在家呆了三年了 人都要呆傻了 \n\n写了那么多字为了什么呢 \n不为什么,我就是乐意写😋写出来心里就舒服多了 \n当然苦了看了这帖子的各位了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2063264862181175296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIwdePasAAazfF.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2063264872922849290",
+        "created_at": "2026-06-06T14:30:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:30:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063267296353951944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063267296353951944",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063264872922849290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我不去工作呢,因为我是沙比,我害怕工作 \n\n为什么不去上学呢,因为还没到上学的时间,我九月就去上学,在这之前我已经在家呆了一年了,算上休学的两年,我已经在家呆了三年了 人都要呆傻了 \n\n写了那么多字为了什么呢 \n不为什么,我就是乐意写😋写出来心里就舒服多了 \n当然苦了看了这帖子的各位了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063264862181175296"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063264872922849290",
+        "created_at": "2026-06-06T14:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063264872922849290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/URKzY4m84z",
+              "end": 172,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2063264872922849290/photo/1",
+              "media_key": "3_2063264862181175296",
+              "start": 149,
+              "url": "https://t.co/URKzY4m84z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063264872922849290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老样子,茶,烟,歌,晚上好\n正好在这个帖子发下牢骚反正没人看\n\n玩了游戏停下来后,我的内心就一直有个声音,一直在反问我,\"你在干什么\"\n我没法回答它,因为我也不知道我在干什么,干什么都只是因为无聊\n我想找朋友聊天,但发现我的朋友都在不同的地方读书,没法聊,而且他们也有自己的圈子,我没法融入进去了 https://t.co/URKzY4m84z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 127,
+          "like_count": 2769,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1363
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

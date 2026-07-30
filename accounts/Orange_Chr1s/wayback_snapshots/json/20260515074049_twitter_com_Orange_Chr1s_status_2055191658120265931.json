@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055191658120265931",
+    "created_at": "2026-05-15T07:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T08:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055191658120265931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2413186568",
+          "start": 3,
+          "username": "TheMidnightLA"
+        },
+        {
+          "end": 137,
+          "id": "924062926788595717",
+          "start": 121,
+          "username": "AvantrisLegends"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055191658120265931",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052841372613579048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheMidnightLA: Our new single “Neon Odyssey” is out now on all streaming platforms! Honored to contribute a song for @AvantrisLegends'…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21795,
+        "height": 1280,
+        "media_key": "13_2052841040063889408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052841040063889408/img/kTlm9PsDoHUU36P0.jpg",
+        "public_metrics": {
+          "view_count": 4682
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052841040063889408/vid/avc1/320x568/cOLB4ikivI3BmSr_.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052841040063889408/vid/avc1/480x852/ycm1lJTnEWRoGJ-d.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052841040063889408/vid/avc1/720x1280/KfbHJzm9Og-AARsz.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052841040063889408/pl/5nUCKPz6FsReEKqg.m3u8?tag=14&v=9d3"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055191658120265931",
+        "created_at": "2026-05-15T07:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T08:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055191658120265931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2413186568",
+              "start": 3,
+              "username": "TheMidnightLA"
+            },
+            {
+              "end": 137,
+              "id": "924062926788595717",
+              "start": 121,
+              "username": "AvantrisLegends"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055191658120265931",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052841372613579048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheMidnightLA: Our new single “Neon Odyssey” is out now on all streaming platforms! Honored to contribute a song for @AvantrisLegends'…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052841040063889408"
+          ]
+        },
+        "author_id": "2413186568",
+        "conversation_id": "2052841372613579048",
+        "created_at": "2026-05-08T20:01:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:01:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052841372613579048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 118,
+              "id": "924062926788595717",
+              "start": 102,
+              "username": "AvantrisLegends"
+            }
+          ],
+          "urls": [
+            {
+              "description": "*🚀Neon Odyssey,* a Space Opera Trilogy for D&D, is LIVE on Kickstarter! Early backers get FREE Dice! Make sure you back before 10am ET on Monday! https://ne...",
+              "display_url": "youtube.com/watch?v=JOGdEI…",
+              "end": 206,
+              "expanded_url": "http://youtube.com/watch?v=JOGdEIaa_V4",
+              "start": 183,
+              "status": 200,
+              "title": "Neon Odyssey Official Trailer | Animated Music Video",
+              "unwound_url": "https://www.youtube.com/watch?v=JOGdEIaa_V4",
+              "url": "https://t.co/j8iTyvSCJG"
+            },
+            {
+              "display_url": "pic.x.com/GJdNeJyPXU",
+              "end": 230,
+              "expanded_url": "https://x.com/TheMidnightLA/status/2052841372613579048/video/1",
+              "media_key": "13_2052841040063889408",
+              "start": 207,
+              "url": "https://t.co/GJdNeJyPXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052841372613579048",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 15360,
+          "like_count": 349,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "Our new single “Neon Odyssey” is out now on all streaming platforms! Honored to contribute a song for @AvantrisLegends' new Space Opera Trilogy for D&amp;D. Watch the official video: https://t.co/j8iTyvSCJG https://t.co/GJdNeJyPXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 91,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 70
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-26T21:10:16.000Z",
+        "description": "New album ‘Syndicate’ out now. North American Tour 2026 on sale now: https://t.co/XMed5kcInA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "themidnightofficial.com",
+                "end": 92,
+                "expanded_url": "http://themidnightofficial.com",
+                "start": 69,
+                "url": "https://t.co/XMed5kcInA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/themidnightoff…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/themidnightofficial",
+                "start": 0,
+                "url": "https://t.co/S9m3V0hYbh"
+              }
+            ]
+          }
+        },
+        "id": "2413186568",
+        "location": "－ｍｏｎｏ　ｎｏ　ａｗａｒｅ－",
+        "name": "ｔｈｅ　ｍｉｄｎｉｇｈｔ",
+        "pinned_tweet_id": "1974112891390603290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976685289667235840/dXsuvgqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48939,
+          "following_count": 106,
+          "like_count": 14182,
+          "listed_count": 212,
+          "media_count": 971,
+          "tweet_count": 6624
+        },
+        "url": "https://t.co/S9m3V0hYbh",
+        "username": "TheMidnightLA",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-27T23:59:04.000Z",
+        "description": "Seven best friends who play a lot of D&D together. \n\nPublisher of The Crooked Moon and Neon Odyssey.\n\nFor Support: help@avantris.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "neonrpg.com",
+                "end": 23,
+                "expanded_url": "https://neonrpg.com",
+                "start": 0,
+                "url": "https://t.co/XPxDv8aUW7"
+              }
+            ]
+          }
+        },
+        "id": "924062926788595717",
+        "location": "Avantris",
+        "name": "Legends of Avantris",
+        "pinned_tweet_id": "2054681101978005893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005519728077357056/uUyIkC7E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104089,
+          "following_count": 2924,
+          "like_count": 4146,
+          "listed_count": 66,
+          "media_count": 2454,
+          "tweet_count": 4291
+        },
+        "url": "https://t.co/XPxDv8aUW7",
+        "username": "AvantrisLegends",
+        "verified": true
+      }
+    ]
+  }
+}

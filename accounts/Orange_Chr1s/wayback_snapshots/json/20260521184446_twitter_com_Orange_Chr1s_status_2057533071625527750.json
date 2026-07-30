@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2057533071625527750",
+    "created_at": "2026-05-21T18:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057533071625527750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2048646811439738880",
+          "start": 3,
+          "username": "maomaojianga_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057533071625527750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057532274502152563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maomaojianga_: 谁和我互fo喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2057533071625527750",
+        "created_at": "2026-05-21T18:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057533071625527750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2048646811439738880",
+              "start": 3,
+              "username": "maomaojianga_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057533071625527750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057532274502152563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maomaojianga_: 谁和我互fo喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048646811439738880",
+        "conversation_id": "2057532274502152563",
+        "created_at": "2026-05-21T18:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057532274502152563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057532274502152563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谁和我互fo喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 103,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 705
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T06:19:52.000Z",
+        "description": "想交朋友，有没有药圈的可以和我交朋友，xyn，xnn之类的我都想交，多来点人和我交朋友，越多越好",
+        "id": "2048646811439738880",
+        "name": "猫猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048648306482696192/-EYKrYk__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 28,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "maomaojianga_",
+        "verified": false
+      }
+    ]
+  }
+}

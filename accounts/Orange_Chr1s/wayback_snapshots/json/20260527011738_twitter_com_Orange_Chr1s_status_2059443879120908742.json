@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2059443658513162731",
+    "created_at": "2026-05-27T01:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T02:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059443879120908742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013776155166539776",
+          "start": 0,
+          "username": "l3010045822"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059443879120908742",
+    "in_reply_to_user_id": "2013776155166539776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059443658513162731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l3010045822 百万英金"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2059443658513162731",
+        "created_at": "2026-05-27T01:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059443879120908742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013776155166539776",
+              "start": 0,
+              "username": "l3010045822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059443879120908742",
+        "in_reply_to_user_id": "2013776155166539776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059443658513162731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l3010045822 百万英金"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013776155166539776",
+        "conversation_id": "2059443658513162731",
+        "created_at": "2026-05-27T01:16:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T02:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059443658513162731"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059443658513162731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我要一些男娘和大屌萝莉，一只天赋党xyn加上所有形状的幻龙，再配上强劲的郊狼。”\n“哦，先生，这需要很多的魔爪。”\n“我知道，再来个futa，要这么粗的（比划）”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 118,
+          "like_count": 1558,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 953
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T00:51:27.000Z",
+        "description": "04年男生喵，下定决心成为小男娘。\n丨小证含糖丨 HRT since2026.1.17｜暂定目标：去势｜家长党｜不od不割手｜中度性瘾（？）｜坐标河北｜欢迎同类互fo（私我私我私我喵）｜",
+        "id": "2013776155166539776",
+        "name": "冰雪聪明の琪露诺🍥",
+        "pinned_tweet_id": "2058172351544734207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013776536395227136/JifqNwkN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 84,
+          "like_count": 706,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 480
+        },
+        "username": "l3010045822",
+        "verified": true
+      }
+    ]
+  }
+}

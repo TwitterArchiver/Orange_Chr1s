@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2061834833169723588",
+    "created_at": "2026-06-02T21:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T22:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061927775947325764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1576083963713503232",
+          "start": 0,
+          "username": "WhitesugarC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061927775947325764",
+    "in_reply_to_user_id": "1576083963713503232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061834833169723588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WhitesugarC 哇哇哇，都开始了☺️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1229,
+        "media_key": "3_2061834815935275008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0b101a4AAE2ft.jpg",
+        "width": 1280
+      },
+      {
+        "height": 936,
+        "media_key": "3_2061834816069488640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ0b11Va0AAKEAS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2061834833169723588",
+        "created_at": "2026-06-02T21:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T22:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061927775947325764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1576083963713503232",
+              "start": 0,
+              "username": "WhitesugarC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061927775947325764",
+        "in_reply_to_user_id": "1576083963713503232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061834833169723588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WhitesugarC 哇哇哇，都开始了☺️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061834815935275008",
+            "3_2061834816069488640"
+          ]
+        },
+        "author_id": "1576083963713503232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2061834833169723588",
+        "created_at": "2026-06-02T15:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061834833169723588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fyjB1zfNjY",
+              "end": 168,
+              "expanded_url": "https://x.com/WhitesugarC/status/2061834833169723588/photo/1",
+              "media_key": "3_2061834815935275008",
+              "start": 145,
+              "url": "https://t.co/fyjB1zfNjY"
+            },
+            {
+              "display_url": "pic.x.com/fyjB1zfNjY",
+              "end": 168,
+              "expanded_url": "https://x.com/WhitesugarC/status/2061834833169723588/photo/1",
+              "media_key": "3_2061834816069488640",
+              "start": 145,
+              "url": "https://t.co/fyjB1zfNjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061834833169723588",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也来 30 天推歌挑战。我的音乐喜好几乎只有 J-POP 和纯音乐，于是这 30 首估计也会如此。\n\nDay 1 歌名里带有颜色的歌\n「青のすみか」- キタニタツヤ\n\n第一感其实是「群青」，但有点太热门了。于是选了「青のすみか」。歌手也是最近才发现的宝藏，有一种老成的少年音，爱不释耳。 https://t.co/fyjB1zfNjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 122,
+          "like_count": 2167,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1150
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T05:37:59.000Z",
+        "description": "@Whatasiger 备用号｜友男跨顺｜翻车概率为 0!｜「我们生来是为了燃烧的。我们是烟花。」｜🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Whatasiger"
+              }
+            ]
+          }
+        },
+        "id": "1576083963713503232",
+        "name": "Whatasigers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061855369761312768/lCV-grQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 8,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "WhitesugarC",
+        "verified": false
+      }
+    ]
+  }
+}

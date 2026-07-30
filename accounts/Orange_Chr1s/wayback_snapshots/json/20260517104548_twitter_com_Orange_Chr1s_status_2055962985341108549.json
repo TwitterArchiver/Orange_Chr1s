@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055818400769990840",
+    "created_at": "2026-05-17T10:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T11:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055962985341108549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051761383197339648",
+          "start": 0,
+          "username": "TSimehpo"
+        },
+        {
+          "end": 22,
+          "id": "2037915149173182465",
+          "start": 10,
+          "username": "luna_1111__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055962985341108549",
+    "in_reply_to_user_id": "2051761383197339648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055934437553250741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSimehpo @luna_1111__ 薯条薯条薯条薯条薯条薯条薯条！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055818400769990840",
+        "created_at": "2026-05-17T10:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T11:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055962985341108549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051761383197339648",
+              "start": 0,
+              "username": "TSimehpo"
+            },
+            {
+              "end": 22,
+              "id": "2037915149173182465",
+              "start": 10,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055962985341108549",
+        "in_reply_to_user_id": "2051761383197339648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055934437553250741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSimehpo @luna_1111__ 薯条薯条薯条薯条薯条薯条薯条！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051761383197339648",
+        "conversation_id": "2055818400769990840",
+        "created_at": "2026-05-17T08:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055934437553250741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055934437553250741",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055933783354888509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 确实呢薯条虽然好吃但是不能吃太多呢TAT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 101,
+          "like_count": 481,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 328
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T20:30:26.000Z",
+        "description": "用善意对待他人uwu 友跨uwu",
+        "id": "2051761383197339648",
+        "name": "小麦面包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052826594633494529/LjkZT3TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 262,
+          "like_count": 2404,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 713
+        },
+        "username": "TSimehpo",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | ISTP-T | 无性恋 | 繁/简/ENG | 坐标香港🇭🇰",
+        "id": "2037915149173182465",
+        "name": "Luna (极度焦虑ing)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 399,
+          "like_count": 4524,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 641
+        },
+        "username": "luna_1111__",
+        "verified": false
+      }
+    ]
+  }
+}

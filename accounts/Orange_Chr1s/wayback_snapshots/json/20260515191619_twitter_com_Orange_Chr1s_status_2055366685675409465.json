@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055363160396189956",
+    "created_at": "2026-05-15T19:16:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T20:16:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055366685675409465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2048519990425563136",
+          "start": 0,
+          "username": "Wilsonqtih"
+        },
+        {
+          "end": 20,
+          "id": "1944989354239385600",
+          "start": 12,
+          "username": "123mp27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055366685675409465",
+    "in_reply_to_user_id": "2048519990425563136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055366619782889490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wilsonqtih @123mp27 神了🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2055366612367355904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIYhC01asAA78gq.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055363160396189956",
+        "created_at": "2026-05-15T19:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055366685675409465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2048519990425563136",
+              "start": 0,
+              "username": "Wilsonqtih"
+            },
+            {
+              "end": 20,
+              "id": "1944989354239385600",
+              "start": 12,
+              "username": "123mp27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055366685675409465",
+        "in_reply_to_user_id": "2048519990425563136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055366619782889490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilsonqtih @123mp27 神了🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055366612367355904"
+          ]
+        },
+        "author_id": "2048519990425563136",
+        "conversation_id": "2055363160396189956",
+        "created_at": "2026-05-15T19:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T20:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055366619782889490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            },
+            {
+              "end": 22,
+              "id": "1944989354239385600",
+              "start": 14,
+              "username": "123mp27"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8WlK6TfHs",
+              "end": 46,
+              "expanded_url": "https://x.com/Wilsonqtih/status/2055366619782889490/photo/1",
+              "media_key": "3_2055366612367355904",
+              "start": 23,
+              "url": "https://t.co/I8WlK6TfHs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055366619782889490",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055364485708435920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s @123mp27 https://t.co/I8WlK6TfHs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 99,
+          "like_count": 290,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 194
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-26T21:50:40.000Z",
+        "description": "热爱冲浪🏄",
+        "id": "2048519990425563136",
+        "name": "EGG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053567823751139328/_WvEbDBY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 41,
+          "like_count": 175,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 91
+        },
+        "username": "Wilsonqtih",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T05:16:48.000Z",
+        "description": "11年落地组装在河北承德，现居辽宁朝阳(intp)\n/欢迎私信，接受宣泄和游戏，不会泄露\n/实名王艳阳\n/我是低龄大傻逼\n/温和好猫！\n/匿名消息https://t.co/bvZlqGL5P2\n这几天回复信息太多了，被ban了\n很多帖子@123mp27回复",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 118,
+                "username": "123mp27"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/123mp27",
+                "end": 96,
+                "expanded_url": "https://ngl.link/123mp27",
+                "start": 73,
+                "url": "https://t.co/bvZlqGL5P2"
+              }
+            ]
+          }
+        },
+        "id": "1944989354239385600",
+        "location": "互fo需要查成分，只要不是傻逼和重度鉴证就可以",
+        "name": "Rana (痴呆版",
+        "pinned_tweet_id": "2052972523311042954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022327136024252416/SQnOL9qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 482,
+          "like_count": 5589,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 3317
+        },
+        "username": "123mp27",
+        "verified": false
+      }
+    ]
+  }
+}

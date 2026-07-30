@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065318748152905728",
+        "13_2065318758391177216"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2065318958174249270",
+    "created_at": "2026-06-12T06:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T07:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065318958174249270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yPowah4Czf",
+          "end": 102,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2065318958174249270/video/1",
+          "media_key": "3_2065318748152905728",
+          "start": 79,
+          "url": "https://t.co/yPowah4Czf"
+        },
+        {
+          "display_url": "pic.x.com/yPowah4Czf",
+          "end": 102,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2065318958174249270/video/1",
+          "media_key": "13_2065318758391177216",
+          "start": 79,
+          "url": "https://t.co/yPowah4Czf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065318958174249270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "30推歌 DAY 12\n我青春期前的歌\n\nTHE MIDNIGHT - LOST BOY\n\n这个我理解为青春期前出的歌了,不过就算是青春期时听的歌也是这首了 https://t.co/yPowah4Czf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2065318748152905728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKl8dXubwAAPf1A.jpg",
+        "width": 1260
+      },
+      {
+        "duration_ms": 276522,
+        "height": 918,
+        "media_key": "13_2065318758391177216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065318758391177216/img/XvMC5v5W4ZI_MZCq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065318758391177216/vid/avc1/320x320/6GZaScC1NgGyT_4i.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065318758391177216/vid/avc1/540x540/QM1sdwbFtwYka-ww.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065318758391177216/vid/avc1/720x720/RSF7clsn7zg3XV0X.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065318758391177216/pl/0HYUAhumnrGnbMCc.m3u8?tag=14"
+          }
+        ],
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065318748152905728",
+            "13_2065318758391177216"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2065318958174249270",
+        "created_at": "2026-06-12T06:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T07:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065318958174249270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yPowah4Czf",
+              "end": 102,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2065318958174249270/video/1",
+              "media_key": "3_2065318748152905728",
+              "start": 79,
+              "url": "https://t.co/yPowah4Czf"
+            },
+            {
+              "display_url": "pic.x.com/yPowah4Czf",
+              "end": 102,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2065318958174249270/video/1",
+              "media_key": "13_2065318758391177216",
+              "start": 79,
+              "url": "https://t.co/yPowah4Czf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065318958174249270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30推歌 DAY 12\n我青春期前的歌\n\nTHE MIDNIGHT - LOST BOY\n\n这个我理解为青春期前出的歌了,不过就算是青春期时听的歌也是这首了 https://t.co/yPowah4Czf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 129,
+          "like_count": 3276,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1508
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

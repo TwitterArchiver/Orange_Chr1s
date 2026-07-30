@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2062354736683364379",
+    "created_at": "2026-06-04T02:40:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T03:40:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062363953536368882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1388885035927834625",
+          "start": 0,
+          "username": "Triticale_eyyy"
+        },
+        {
+          "end": 28,
+          "id": "1576083963713503232",
+          "start": 16,
+          "username": "WhitesugarC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062363953536368882",
+    "in_reply_to_user_id": "1388885035927834625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062363653773701521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Triticale_eyyy @WhitesugarC 我丢😨，你啱啲😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2062354736683364379",
+        "created_at": "2026-06-04T02:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062363953536368882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1388885035927834625",
+              "start": 0,
+              "username": "Triticale_eyyy"
+            },
+            {
+              "end": 28,
+              "id": "1576083963713503232",
+              "start": 16,
+              "username": "WhitesugarC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062363953536368882",
+        "in_reply_to_user_id": "1388885035927834625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062363653773701521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Triticale_eyyy @WhitesugarC 我丢😨，你啱啲😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1388885035927834625",
+        "conversation_id": "2062354736683364379",
+        "created_at": "2026-06-04T02:39:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062363653773701521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            },
+            {
+              "end": 26,
+              "id": "1576083963713503232",
+              "start": 14,
+              "username": "WhitesugarC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062363653773701521",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062360676979642824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s @WhitesugarC 人家说的是好久吃过肠粉了（\n明明一直在吃啊喂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 126,
+          "like_count": 2416,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1237
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T15:56:28.000Z",
+        "description": "喵帕斯～\n我们所度过的每个平凡的日常，也许就是连续发生的奇迹。\n此次新增：匿名投信箱！\nhttps://t.co/tq2dRuGsAi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/triticale_eyyy",
+                "end": 67,
+                "expanded_url": "https://ngl.link/triticale_eyyy",
+                "start": 44,
+                "url": "https://t.co/tq2dRuGsAi"
+              }
+            ]
+          }
+        },
+        "id": "1388885035927834625",
+        "location": "Rhodes Island Pharmaceutical",
+        "name": "小黑麦",
+        "pinned_tweet_id": "2058260256095166750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862519603106390019/nwubGW9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 774,
+          "like_count": 13991,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 699
+        },
+        "username": "Triticale_eyyy",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-01T05:37:59.000Z",
+        "description": "@Whatasiger 二阶段｜友男跨顺｜翻车概率为 0!｜「我们生来是为了燃烧的。我们是烟花。」｜🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Whatasiger"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 23,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 0,
+                "url": "https://t.co/XdFzuqLNUB"
+              }
+            ]
+          }
+        },
+        "id": "1576083963713503232",
+        "name": "Whatasigers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061855369761312768/lCV-grQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 11,
+          "like_count": 35,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/XdFzuqLNUB",
+        "username": "WhitesugarC",
+        "verified": false
+      }
+    ]
+  }
+}

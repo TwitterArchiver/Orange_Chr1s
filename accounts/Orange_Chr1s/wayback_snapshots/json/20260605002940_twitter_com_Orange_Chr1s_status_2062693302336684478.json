@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062692793097781248",
+        "13_2062692799284482048"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2062693302336684478",
+    "created_at": "2026-06-05T00:29:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:29:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062693302336684478"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HOUw50Txdc",
+          "end": 143,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2062693302336684478/video/1",
+          "media_key": "3_2062692793097781248",
+          "start": 120,
+          "url": "https://t.co/HOUw50Txdc"
+        },
+        {
+          "display_url": "pic.x.com/HOUw50Txdc",
+          "end": 143,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2062693302336684478/video/1",
+          "media_key": "13_2062692799284482048",
+          "start": 120,
+          "url": "https://t.co/HOUw50Txdc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062693302336684478",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "30日推歌\n今天是需要调大音量的歌\n\n银河骑士GalaxyKnight -嘉 禾 天 橙 国 际 大 影 院 . 芬 芳 厅\n\n啊蒸汽波,上次听蒸汽波还是在20年的时候,因为Synthwave而去了解到的音乐,总能带人进入不同的时间和场景 https://t.co/HOUw50Txdc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2062692793097781248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAoKq1aAAAtenm.jpg",
+        "width": 1260
+      },
+      {
+        "duration_ms": 171498,
+        "height": 918,
+        "media_key": "13_2062692799284482048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062692799284482048/img/n-B52E-8QsXIMW63.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062692799284482048/vid/avc1/320x320/fRgisSXWOPQkTNet.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062692799284482048/vid/avc1/540x540/zkgOuEzVYXOJXKtb.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062692799284482048/vid/avc1/720x720/yqmVC2t6Jhv9gzjP.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062692799284482048/pl/cETjl3PjpifmaUjI.m3u8?tag=14"
+          }
+        ],
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062692793097781248",
+            "13_2062692799284482048"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2062693302336684478",
+        "created_at": "2026-06-05T00:29:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:29:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062693302336684478"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOUw50Txdc",
+              "end": 143,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2062693302336684478/video/1",
+              "media_key": "3_2062692793097781248",
+              "start": 120,
+              "url": "https://t.co/HOUw50Txdc"
+            },
+            {
+              "display_url": "pic.x.com/HOUw50Txdc",
+              "end": 143,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2062693302336684478/video/1",
+              "media_key": "13_2062692799284482048",
+              "start": 120,
+              "url": "https://t.co/HOUw50Txdc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062693302336684478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30日推歌\n今天是需要调大音量的歌\n\n银河骑士GalaxyKnight -嘉 禾 天 橙 国 际 大 影 院 . 芬 芳 厅\n\n啊蒸汽波,上次听蒸汽波还是在20年的时候,因为Synthwave而去了解到的音乐,总能带人进入不同的时间和场景 https://t.co/HOUw50Txdc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 128,
+          "like_count": 2561,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1291
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2062442327277441318",
+    "created_at": "2026-06-04T08:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T09:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062444602226033060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1747180238810021888",
+          "start": 0,
+          "username": "wwj23355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062444602226033060",
+    "in_reply_to_user_id": "1747180238810021888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062442327277441318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwj23355 我调半天音量结果发现没声音,我还以为我耳机坏了😇"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7761,
+        "height": 1098,
+        "media_key": "13_2062442315701207040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062442315701207040/img/y29teJ3sP77G8Qrj.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062442315701207040/vid/avc1/320x488/GpJHVfrqemNNKwm1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062442315701207040/vid/avc1/480x732/UinBstUCuMtPgoxF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062442315701207040/vid/avc1/720x1098/kTm6hcMVcwu997BT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062442315701207040/pl/Mpernx6hInwS1meJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2062442327277441318",
+        "created_at": "2026-06-04T08:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T09:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062444602226033060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1747180238810021888",
+              "start": 0,
+              "username": "wwj23355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062444602226033060",
+        "in_reply_to_user_id": "1747180238810021888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062442327277441318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwj23355 我调半天音量结果发现没声音,我还以为我耳机坏了😇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062442315701207040"
+          ]
+        },
+        "author_id": "1747180238810021888",
+        "conversation_id": "2062442327277441318",
+        "created_at": "2026-06-04T07:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062442327277441318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jq506pcKn",
+              "end": 23,
+              "expanded_url": "https://x.com/wwj23355/status/2062442327277441318/video/1",
+              "media_key": "13_2062442315701207040",
+              "start": 0,
+              "url": "https://t.co/7jq506pcKn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062442327277441318",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7jq506pcKn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 126,
+          "like_count": 2465,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1249
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T08:53:40.000Z",
+        "description": "Ciallo～～(∠・ω)⌒☆\n｜重抑重焦｜不od (?) 不割手 (?) 不登校｜183 60的mtf()｜HRT: 26.04.27 - 05.21 |睡眠重度依赖｜满级颓废｜玩车｜BA | CN/EN/KR/JP prob OK |\n｜生产日期：08.09.13｜\n天天发一些负面傻逼言论真的对不起",
+        "id": "1747180238810021888",
+        "name": "WVKI233333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044056098873978883/TB8Ilmi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 471,
+          "like_count": 2866,
+          "listed_count": 2,
+          "media_count": 79,
+          "tweet_count": 1059
+        },
+        "username": "wwj23355",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066765325027459072"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2066765471907729895",
+    "created_at": "2026-06-16T06:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T07:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066765471907729895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Vlf85YrIER",
+          "end": 74,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2066765471907729895/photo/1",
+          "media_key": "3_2066765325027459072",
+          "start": 51,
+          "url": "https://t.co/Vlf85YrIER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066765471907729895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回家第一件事，先吃麦麦，原本我不用等那么久的，我的堡在他们传菜的时候掉地上了😇😇然后他们给我重做了个 https://t.co/Vlf85YrIER"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2066765325027459072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6gHOhbQAALXG-.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066765325027459072"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2066765471907729895",
+        "created_at": "2026-06-16T06:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T07:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066765471907729895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vlf85YrIER",
+              "end": 74,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2066765471907729895/photo/1",
+              "media_key": "3_2066765325027459072",
+              "start": 51,
+              "url": "https://t.co/Vlf85YrIER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066765471907729895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回家第一件事，先吃麦麦，原本我不用等那么久的，我的堡在他们传菜的时候掉地上了😇😇然后他们给我重做了个 https://t.co/Vlf85YrIER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 130,
+          "like_count": 3699,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1595
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

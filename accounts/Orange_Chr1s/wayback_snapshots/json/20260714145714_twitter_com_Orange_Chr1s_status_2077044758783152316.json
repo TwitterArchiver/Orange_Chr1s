@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2077038678225080511",
+    "created_at": "2026-07-14T14:57:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:57:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077044758783152316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1320354023451496450",
+          "start": 0,
+          "username": "OuO02213882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077044758783152316",
+    "in_reply_to_user_id": "1320354023451496450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077038678225080511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OuO02213882 晚安噢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2077038678225080511",
+        "created_at": "2026-07-14T14:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077044758783152316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "OuO02213882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077044758783152316",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077038678225080511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO02213882 晚安噢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1320354023451496450",
+        "conversation_id": "2077038678225080511",
+        "created_at": "2026-07-14T14:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077038678225080511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077038678225080511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不管了喵！ 明天還得早起喵！ \n大家記得刷牙喵！\n喵要把自己裹進被子裡了喵！\n晚安了喵！\n愛妳們🩷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 133,
+          "like_count": 5000,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 1931
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "mtx？（我會焦慮,他不會）/忘了很多事/兩個人格共存（他會保護我）（為什麼我們記憶能互通？）/還在慢慢認識自己喵",
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓QxQ",
+        "pinned_tweet_id": "2074744246817714245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 2095,
+          "like_count": 42351,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1834
+        },
+        "url": "",
+        "username": "OuO02213882",
+        "verified": true
+      }
+    ]
+  }
+}

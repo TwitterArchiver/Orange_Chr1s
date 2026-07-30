@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2057770606574354763",
+    "created_at": "2026-05-22T10:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057771179952541970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1388885035927834625",
+          "start": 0,
+          "username": "Triticale_eyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057771179952541970",
+    "in_reply_to_user_id": "1388885035927834625",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057770606574354763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Triticale_eyyy 好耶！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2057770572575293440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6rbueaQAAeJyH.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2057770572575293441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6rbueaQAEuZTV.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2057770606574354763",
+        "created_at": "2026-05-22T10:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057771179952541970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1388885035927834625",
+              "start": 0,
+              "username": "Triticale_eyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057771179952541970",
+        "in_reply_to_user_id": "1388885035927834625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057770606574354763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Triticale_eyyy 好耶！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057770572575293440",
+            "3_2057770572575293441"
+          ]
+        },
+        "author_id": "1388885035927834625",
+        "conversation_id": "2057770606574354763",
+        "created_at": "2026-05-22T10:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057770606574354763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0HBUcfjr0M",
+              "end": 55,
+              "expanded_url": "https://x.com/Triticale_eyyy/status/2057770606574354763/photo/1",
+              "media_key": "3_2057770572575293440",
+              "start": 32,
+              "url": "https://t.co/0HBUcfjr0M"
+            },
+            {
+              "display_url": "pic.x.com/0HBUcfjr0M",
+              "end": 55,
+              "expanded_url": "https://x.com/Triticale_eyyy/status/2057770606574354763/photo/1",
+              "media_key": "3_2057770572575293441",
+              "start": 32,
+              "url": "https://t.co/0HBUcfjr0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057770606574354763",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天听\nEx-Otogibanashi\n好耶 是超时空辉夜姬！ https://t.co/0HBUcfjr0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 102,
+          "like_count": 1184,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 747
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T15:56:28.000Z",
+        "description": "喵帕斯～/我们所度过的每个平凡的日常，也许就是连续发生的奇迹。",
+        "id": "1388885035927834625",
+        "location": "Rhodes Island Pharmaceutical",
+        "name": "小黑麦",
+        "pinned_tweet_id": "1885336143363006522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862519603106390019/nwubGW9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 726,
+          "like_count": 11734,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 443
+        },
+        "username": "Triticale_eyyy",
+        "verified": true
+      }
+    ]
+  }
+}

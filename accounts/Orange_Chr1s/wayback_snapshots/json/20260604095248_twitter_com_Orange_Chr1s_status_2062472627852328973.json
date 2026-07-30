@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2062461143625687151",
+    "created_at": "2026-06-04T09:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062472627852328973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1426079620906975232",
+          "start": 0,
+          "username": "fan_rbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062472627852328973",
+    "in_reply_to_user_id": "1426079620906975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062472478413504767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan_rbq 轮子能摔坏这得多大力😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2062461143625687151",
+        "created_at": "2026-06-04T09:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062472627852328973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426079620906975232",
+              "start": 0,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062472627852328973",
+        "in_reply_to_user_id": "1426079620906975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062472478413504767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_rbq 轮子能摔坏这得多大力😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426079620906975232",
+        "conversation_id": "2062461143625687151",
+        "created_at": "2026-06-04T09:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062472478413504767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062472478413504767",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062471809493279145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 是的轮子掉了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 126,
+          "like_count": 2495,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1262
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  戒🔪  不od   intp  想发啥发啥👿  有一丢丢负能量 碎碎念 小号：@qiLu54522246",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "qiLu54522246"
+              }
+            ]
+          }
+        },
+        "id": "1426079620906975232",
+        "name": "饭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 138,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 374
+        },
+        "username": "fan_rbq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062004396452691968"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062004399690641729",
+    "created_at": "2026-06-03T02:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T03:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062004399690641729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1rYxtKMbqi",
+          "end": 34,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2062004399690641729/photo/1",
+          "media_key": "3_2062004396452691968",
+          "start": 11,
+          "url": "https://t.co/1rYxtKMbqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062004399690641729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "肠粉肠粉肠粉肠粉肠粉 https://t.co/1rYxtKMbqi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1538,
+        "media_key": "3_2062004396452691968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ22EtfbQAANH3K.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062004396452691968"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062004399690641729",
+        "created_at": "2026-06-03T02:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T03:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062004399690641729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1rYxtKMbqi",
+              "end": 34,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2062004399690641729/photo/1",
+              "media_key": "3_2062004396452691968",
+              "start": 11,
+              "url": "https://t.co/1rYxtKMbqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062004399690641729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "肠粉肠粉肠粉肠粉肠粉 https://t.co/1rYxtKMbqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 125,
+          "like_count": 2198,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1163
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

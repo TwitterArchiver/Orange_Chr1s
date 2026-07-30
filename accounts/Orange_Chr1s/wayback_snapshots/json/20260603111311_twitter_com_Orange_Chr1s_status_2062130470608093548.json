@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2062130157423628664",
+    "created_at": "2026-06-03T11:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062130470608093548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051761383197339648",
+          "start": 0,
+          "username": "TSimehpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062130470608093548",
+    "in_reply_to_user_id": "2051761383197339648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062130157423628664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSimehpo 第一那张ngl官方发的没轻没重的，老发些奇怪的的话题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062130154126868480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4ocxVagAAp2mj.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062130154760175616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4oczsaAAAMxBn.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2062130157423628664",
+        "created_at": "2026-06-03T11:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062130470608093548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051761383197339648",
+              "start": 0,
+              "username": "TSimehpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062130470608093548",
+        "in_reply_to_user_id": "2051761383197339648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062130157423628664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSimehpo 第一那张ngl官方发的没轻没重的，老发些奇怪的的话题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062130154126868480",
+            "3_2062130154760175616"
+          ]
+        },
+        "author_id": "2051761383197339648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2062130157423628664",
+        "created_at": "2026-06-03T11:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062130157423628664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ubmxkd7Z6E",
+              "end": 61,
+              "expanded_url": "https://x.com/TSimehpo/status/2062130157423628664/photo/1",
+              "media_key": "3_2062130154126868480",
+              "start": 38,
+              "url": "https://t.co/Ubmxkd7Z6E"
+            },
+            {
+              "display_url": "pic.x.com/Ubmxkd7Z6E",
+              "end": 61,
+              "expanded_url": "https://x.com/TSimehpo/status/2062130157423628664/photo/1",
+              "media_key": "3_2062130154760175616",
+              "start": 38,
+              "url": "https://t.co/Ubmxkd7Z6E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062130157423628664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你的喜欢😇\n玩过的游戏有很多,但最喜欢的应该还是Minecraft吧😇 https://t.co/Ubmxkd7Z6E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 126,
+          "like_count": 2328,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1208
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T20:30:26.000Z",
+        "description": "用善意对待世界的小麦面包🍞 uwu | 日常碎碎念 | 友跨",
+        "id": "2051761383197339648",
+        "name": "小麦面包",
+        "pinned_tweet_id": "2061995125715419256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052826594633494529/LjkZT3TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 492,
+          "like_count": 5205,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 1062
+        },
+        "username": "TSimehpo",
+        "verified": true
+      }
+    ]
+  }
+}

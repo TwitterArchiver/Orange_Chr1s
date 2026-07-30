@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2054968109879169512",
+    "created_at": "2026-05-14T17:02:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T18:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054970530974019861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2051761383197339648",
+          "start": 0,
+          "username": "TSimehpo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054970530974019861",
+    "in_reply_to_user_id": "2051761383197339648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054970130590032067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TSimehpo 因为再吃薯条就要破产了😠😡，过阵子再吃( ^▽^ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2054968109879169512",
+        "created_at": "2026-05-14T17:02:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054970530974019861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2051761383197339648",
+              "start": 0,
+              "username": "TSimehpo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054970530974019861",
+        "in_reply_to_user_id": "2051761383197339648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054970130590032067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TSimehpo 因为再吃薯条就要破产了😠😡，过阵子再吃( ^▽^ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051761383197339648",
+        "conversation_id": "2054968109879169512",
+        "created_at": "2026-05-14T17:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054970130590032067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054970130590032067",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054969869788217727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 发生什么了？店家忘给了吗？uwu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\n✨ Outrunner • Synth-head ✨\nThe Midnight fan 🎷\n\n🍔麦门永存🍔\n不听歌就会死掉 7*24听着歌\nCantonese || 广东 »»»\n抑郁过，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 88,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 56
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-05T20:30:26.000Z",
+        "description": "用善意对待他人uwu 友跨uwu",
+        "id": "2051761383197339648",
+        "name": "小麦面包",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052826594633494529/LjkZT3TN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 217,
+          "like_count": 1682,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 567
+        },
+        "username": "TSimehpo",
+        "verified": true
+      }
+    ]
+  }
+}

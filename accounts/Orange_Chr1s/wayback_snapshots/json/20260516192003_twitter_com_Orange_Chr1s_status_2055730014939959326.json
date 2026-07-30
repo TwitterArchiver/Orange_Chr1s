@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055729471572131860",
+    "created_at": "2026-05-16T19:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T20:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055730014939959326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1816508247651860480",
+          "start": 0,
+          "username": "DUAN4100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055730014939959326",
+    "in_reply_to_user_id": "1816508247651860480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055729471572131860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DUAN4100 别死，很多东西都是阶段性的，我之前还担心我没学上，结果船到桥头自然直"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055729471572131860",
+        "created_at": "2026-05-16T19:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055730014939959326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816508247651860480",
+              "start": 0,
+              "username": "DUAN4100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055730014939959326",
+        "in_reply_to_user_id": "1816508247651860480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055729471572131860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DUAN4100 别死，很多东西都是阶段性的，我之前还担心我没学上，结果船到桥头自然直"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816508247651860480",
+        "conversation_id": "2055729471572131860",
+        "created_at": "2026-05-16T19:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T20:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055729471572131860"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055729471572131860",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 109,
+          "like_count": 429,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 294
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T16:18:17.000Z",
+        "description": "我要转生了想找我的私信我会看\n他妈的我咋这么倒霉",
+        "id": "1816508247651860480",
+        "location": "门67/167/267纯绿无区别",
+        "name": "大骰目",
+        "pinned_tweet_id": "2055722409337200830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054204654331064320/4cq8X0jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 393,
+          "like_count": 13732,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 3351
+        },
+        "username": "DUAN4100",
+        "verified": false
+      }
+    ]
+  }
+}

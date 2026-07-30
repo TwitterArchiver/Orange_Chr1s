@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2060066588695622138",
+    "created_at": "2026-05-28T19:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060080895416213803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060050991370891265",
+          "start": 0,
+          "username": "XYNshioochi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060080895416213803",
+    "in_reply_to_user_id": "2060050991370891265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060066588695622138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XYNshioochi 只要不再发那些弔东西就不会,我之前都被晶过,都快两周年了,然后不发乱七八糟的东西就行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2060066588695622138",
+        "created_at": "2026-05-28T19:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060080895416213803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060050991370891265",
+              "start": 0,
+              "username": "XYNshioochi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060080895416213803",
+        "in_reply_to_user_id": "2060050991370891265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060066588695622138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XYNshioochi 只要不再发那些弔东西就不会,我之前都被晶过,都快两周年了,然后不发乱七八糟的东西就行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060050991370891265",
+        "conversation_id": "2060066588695622138",
+        "created_at": "2026-05-28T18:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060066588695622138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XYNshioochi/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/XYNshioochi/status/2060052526184181907",
+              "start": 18,
+              "url": "https://t.co/Q7D44Bd7lF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060066588695622138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060052526184181907",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "睡了。说不定明天一觉醒来就被晶了😰 https://t.co/Q7D44Bd7lF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 120,
+          "like_count": 1700,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 995
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720｜你们觉得我这次能活吗",
+        "id": "2060050991370891265",
+        "name": "汐落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 27,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "XYNshioochi",
+        "verified": false
+      }
+    ]
+  }
+}

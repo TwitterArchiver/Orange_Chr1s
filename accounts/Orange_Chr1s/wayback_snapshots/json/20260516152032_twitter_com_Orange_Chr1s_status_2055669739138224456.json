@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055635370059207114",
+    "created_at": "2026-05-16T15:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T16:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055669739138224456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1514955957515784193",
+          "start": 0,
+          "username": "FuzzyndLatency"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055669739138224456",
+    "in_reply_to_user_id": "1514955957515784193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055667793685881338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuzzyndLatency 我有很多种方法不让内耗自己，比如我现在在骑车😘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055635370059207114",
+        "created_at": "2026-05-16T15:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055669739138224456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1514955957515784193",
+              "start": 0,
+              "username": "FuzzyndLatency"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055669739138224456",
+        "in_reply_to_user_id": "1514955957515784193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055667793685881338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuzzyndLatency 我有很多种方法不让内耗自己，比如我现在在骑车😘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514955957515784193",
+        "conversation_id": "2055635370059207114",
+        "created_at": "2026-05-16T15:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T16:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055667793685881338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055667793685881338",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055637219847905664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 在当今互联网环境这样的人倒是不吃香了，服了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 107,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 264
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:09.000Z",
+        "description": "",
+        "id": "1514955957515784193",
+        "name": ", . ?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984606581141745664/V67p_IJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 2369,
+          "like_count": 10469,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2461
+        },
+        "username": "FuzzyndLatency",
+        "verified": false
+      }
+    ]
+  }
+}

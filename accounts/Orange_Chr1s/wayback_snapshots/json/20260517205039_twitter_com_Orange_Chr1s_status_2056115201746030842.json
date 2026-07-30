@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055984783923229178",
+    "created_at": "2026-05-17T20:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T21:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056115201746030842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1985039526201565184",
+          "start": 0,
+          "username": "hajizhen2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056115201746030842",
+    "in_reply_to_user_id": "1985039526201565184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056108701619257453",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hajizhen2778 那我就要给交警9分了😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055984783923229178",
+        "created_at": "2026-05-17T20:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056115201746030842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1985039526201565184",
+              "start": 0,
+              "username": "hajizhen2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056115201746030842",
+        "in_reply_to_user_id": "1985039526201565184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056108701619257453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hajizhen2778 那我就要给交警9分了😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985039526201565184",
+        "conversation_id": "2055984783923229178",
+        "created_at": "2026-05-17T20:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T21:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056108701619257453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056108701619257453",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055984783923229178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 你牌照要是觉得外面太热进车里躲躲你就会发现你畅通无阻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 101,
+          "like_count": 544,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 401
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T17:41:31.000Z",
+        "description": "",
+        "id": "1985039526201565184",
+        "name": "hajizhen2778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021311975742205952/FapjgW3p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 44,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 37
+        },
+        "username": "hajizhen2778",
+        "verified": false
+      }
+    ]
+  }
+}

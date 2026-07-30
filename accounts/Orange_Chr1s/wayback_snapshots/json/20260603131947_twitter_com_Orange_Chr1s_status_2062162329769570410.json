@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2062161749500211244",
+    "created_at": "2026-06-03T13:19:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T14:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062162329769570410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1823315089686142977",
+          "start": 0,
+          "username": "amnssb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062162329769570410",
+    "in_reply_to_user_id": "1823315089686142977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062162191294337287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amnssb1 嗯呐，一直刷新看看有谁发推了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2062161749500211244",
+        "created_at": "2026-06-03T13:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062162329769570410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1823315089686142977",
+              "start": 0,
+              "username": "amnssb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062162329769570410",
+        "in_reply_to_user_id": "1823315089686142977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062162191294337287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amnssb1 嗯呐，一直刷新看看有谁发推了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823315089686142977",
+        "conversation_id": "2062161749500211244",
+        "created_at": "2026-06-03T13:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062162191294337287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062162191294337287",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062162102056620439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 一直刷吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 126,
+          "like_count": 2352,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1214
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T11:06:16.000Z",
+        "description": "发癫的而已别在意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "js96110.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.js96110.com.cn",
+                "start": 0,
+                "url": "https://t.co/U4yCQBSf6P"
+              }
+            ]
+          }
+        },
+        "id": "1823315089686142977",
+        "location": "月球",
+        "name": "amnssb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973252076748800/0lRmhUVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 83,
+          "like_count": 959,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/U4yCQBSf6P",
+        "username": "amnssb1",
+        "verified": true
+      }
+    ]
+  }
+}

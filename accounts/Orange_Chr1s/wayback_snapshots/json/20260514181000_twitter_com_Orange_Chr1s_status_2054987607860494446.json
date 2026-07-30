@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2054987607860494446",
+    "created_at": "2026-05-14T18:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T19:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054987607860494446"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054987607860494446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在的状态\n抽烟 \n听歌 \n看会推,没啥看的😑\n抽烟 \n喝茶\n听歌 \n看会QQ,该睡的都睡了😑\n看会抖音,没啥看的😅\n抽烟 \n喝茶\n听歌 \n看会TK,全是风景,羡慕了😇\n看会B站,为什么我的B站那么难看😡😡\n抽烟 \n听歌 \n发推 \n喝茶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2054987607860494446",
+        "created_at": "2026-05-14T18:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T19:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054987607860494446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054987607860494446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在的状态\n抽烟 \n听歌 \n看会推,没啥看的😑\n抽烟 \n喝茶\n听歌 \n看会QQ,该睡的都睡了😑\n看会抖音,没啥看的😅\n抽烟 \n喝茶\n听歌 \n看会TK,全是风景,羡慕了😇\n看会B站,为什么我的B站那么难看😡😡\n抽烟 \n听歌 \n发推 \n喝茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\n✨ Outrunner • Synth-head ✨\nThe Midnight fan 🎷\n\n🍔麦门永存🍔 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 88,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 56
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

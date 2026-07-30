@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059108712246398976"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2059108721515741473",
+    "created_at": "2026-05-26T03:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T04:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059108721515741473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IHL0tTY0sX",
+          "end": 33,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2059108721515741473/photo/1",
+          "media_key": "3_2059108712246398976",
+          "start": 10,
+          "url": "https://t.co/IHL0tTY0sX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059108721515741473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "麦！吃个麦再出发😋 https://t.co/IHL0tTY0sX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2059108712246398976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNsdtNb0AAWAuK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059108712246398976"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2059108721515741473",
+        "created_at": "2026-05-26T03:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059108721515741473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IHL0tTY0sX",
+              "end": 33,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2059108721515741473/photo/1",
+              "media_key": "3_2059108712246398976",
+              "start": 10,
+              "url": "https://t.co/IHL0tTY0sX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059108721515741473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦！吃个麦再出发😋 https://t.co/IHL0tTY0sX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 118,
+          "like_count": 1509,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 921
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

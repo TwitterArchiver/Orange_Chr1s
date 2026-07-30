@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2064659342985757005",
+    "created_at": "2026-06-10T14:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064712132223283645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1426079620906975232",
+          "start": 0,
+          "username": "fan_rbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064712132223283645",
+    "in_reply_to_user_id": "1426079620906975232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064659342985757005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan_rbq 成习惯的话就算有瘾,比如没事干,第一反应是抽一口烟,那就算有瘾,主要不在于多少根,而是在于成没成习惯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2064659342985757005",
+        "created_at": "2026-06-10T14:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064712132223283645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426079620906975232",
+              "start": 0,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064712132223283645",
+        "in_reply_to_user_id": "1426079620906975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064659342985757005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_rbq 成习惯的话就算有瘾,比如没事干,第一反应是抽一口烟,那就算有瘾,主要不在于多少根,而是在于成没成习惯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426079620906975232",
+        "conversation_id": "2064659342985757005",
+        "created_at": "2026-06-10T10:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064659342985757005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064659342985757005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好奇要抽多少的烟才会有瘾，我只有嗑药的时候才会抽，平时都不抽烟的，也没有欲望去抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 127,
+          "like_count": 3137,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1482
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  戒🔪  不od   infp  想发啥发啥👿  有一丢丢负能量 碎碎念",
+        "id": "1426079620906975232",
+        "name": "饭🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 141,
+          "like_count": 1432,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 451
+        },
+        "username": "fan_rbq",
+        "verified": false
+      }
+    ]
+  }
+}

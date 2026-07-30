@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062334534914564096",
+        "13_2062334565692399616"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2062335037622947993",
+    "created_at": "2026-06-04T00:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062335037622947993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n2CYqMpxZM",
+          "end": 77,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2062335037622947993/video/1",
+          "media_key": "3_2062334534914564096",
+          "start": 54,
+          "url": "https://t.co/n2CYqMpxZM"
+        },
+        {
+          "display_url": "pic.x.com/n2CYqMpxZM",
+          "end": 77,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2062335037622947993/video/1",
+          "media_key": "13_2062334565692399616",
+          "start": 54,
+          "url": "https://t.co/n2CYqMpxZM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062335037622947993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "30日推歌 \"让你想起你宁愿忘记的人的歌\"\n今天是 Home - Pyxis\n其实我想起的都是游戏内的人物 https://t.co/n2CYqMpxZM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2062334534914564096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ7iVTGaYAADwcm.jpg",
+        "width": 1260
+      },
+      {
+        "duration_ms": 217130,
+        "height": 918,
+        "media_key": "13_2062334565692399616",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062334565692399616/img/1nC10cMOIL2DABne.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062334565692399616/vid/avc1/320x320/Jp8zn0b-SZGfWVNC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062334565692399616/vid/avc1/540x540/ma0ewwxeuZUvS6gE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062334565692399616/vid/avc1/720x720/YqHEV4T4z7UIeT6d.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062334565692399616/pl/zo0PPd0sQmAvIb3i.m3u8?tag=14"
+          }
+        ],
+        "width": 918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062334534914564096",
+            "13_2062334565692399616"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2062335037622947993",
+        "created_at": "2026-06-04T00:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062335037622947993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2CYqMpxZM",
+              "end": 77,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2062335037622947993/video/1",
+              "media_key": "3_2062334534914564096",
+              "start": 54,
+              "url": "https://t.co/n2CYqMpxZM"
+            },
+            {
+              "display_url": "pic.x.com/n2CYqMpxZM",
+              "end": 77,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2062335037622947993/video/1",
+              "media_key": "13_2062334565692399616",
+              "start": 54,
+              "url": "https://t.co/n2CYqMpxZM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062335037622947993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30日推歌 \"让你想起你宁愿忘记的人的歌\"\n今天是 Home - Pyxis\n其实我想起的都是游戏内的人物 https://t.co/n2CYqMpxZM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 126,
+          "like_count": 2393,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1227
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

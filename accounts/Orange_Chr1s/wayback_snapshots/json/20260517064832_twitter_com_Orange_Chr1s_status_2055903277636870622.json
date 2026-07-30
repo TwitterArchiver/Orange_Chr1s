@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055898654234517716",
+    "created_at": "2026-05-17T06:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055903277636870622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1514955957515784193",
+          "start": 0,
+          "username": "FuzzyndLatency"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055903277636870622",
+    "in_reply_to_user_id": "1514955957515784193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055902925025878428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FuzzyndLatency 眼好尖😮主要是习惯了🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055898654234517716",
+        "created_at": "2026-05-17T06:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055903277636870622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1514955957515784193",
+              "start": 0,
+              "username": "FuzzyndLatency"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055903277636870622",
+        "in_reply_to_user_id": "1514955957515784193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055902925025878428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FuzzyndLatency 眼好尖😮主要是习惯了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1514955957515784193",
+        "conversation_id": "2055898654234517716",
+        "created_at": "2026-05-17T06:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055902925025878428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055902925025878428",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055898654234517716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 少抽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 101,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 314
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:09.000Z",
+        "description": "",
+        "id": "1514955957515784193",
+        "name": ", . ?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984606581141745664/V67p_IJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 2369,
+          "like_count": 10491,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 2470
+        },
+        "username": "FuzzyndLatency",
+        "verified": false
+      }
+    ]
+  }
+}

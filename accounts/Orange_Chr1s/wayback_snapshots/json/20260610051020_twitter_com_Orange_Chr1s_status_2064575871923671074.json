@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064575618877145088",
+        "13_2064575646052093952"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2064575871923671074",
+    "created_at": "2026-06-10T05:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T06:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064575871923671074"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5rPcTDLQs0",
+          "end": 67,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2064575871923671074/video/1",
+          "media_key": "3_2064575618877145088",
+          "start": 44,
+          "url": "https://t.co/5rPcTDLQs0"
+        },
+        {
+          "display_url": "pic.x.com/5rPcTDLQs0",
+          "end": 67,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2064575871923671074/video/1",
+          "media_key": "13_2064575646052093952",
+          "start": 44,
+          "url": "https://t.co/5rPcTDLQs0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064575871923671074",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "30日推歌 Day 10\n能让你感到悲伤的歌\n\nkabocha - gooey sun https://t.co/5rPcTDLQs0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2064575618877145088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbYljcawAA62B0.jpg",
+        "width": 1260
+      },
+      {
+        "duration_ms": 81002,
+        "height": 500,
+        "media_key": "13_2064575646052093952",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2064575646052093952/img/rEIVaZ_JXgysWYSP.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064575646052093952/vid/avc1/320x320/t3m9_US9LiKPwLP9.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2064575646052093952/vid/avc1/500x500/9iIEwNm628EGtvQS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2064575646052093952/pl/C7qjKY8jEmPXjiln.m3u8?tag=14"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064575618877145088",
+            "13_2064575646052093952"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2064575871923671074",
+        "created_at": "2026-06-10T05:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T06:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064575871923671074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rPcTDLQs0",
+              "end": 67,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2064575871923671074/video/1",
+              "media_key": "3_2064575618877145088",
+              "start": 44,
+              "url": "https://t.co/5rPcTDLQs0"
+            },
+            {
+              "display_url": "pic.x.com/5rPcTDLQs0",
+              "end": 67,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2064575871923671074/video/1",
+              "media_key": "13_2064575646052093952",
+              "start": 44,
+              "url": "https://t.co/5rPcTDLQs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064575871923671074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30日推歌 Day 10\n能让你感到悲伤的歌\n\nkabocha - gooey sun https://t.co/5rPcTDLQs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 128,
+          "like_count": 3095,
+          "listed_count": 0,
+          "media_count": 192,
+          "tweet_count": 1472
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

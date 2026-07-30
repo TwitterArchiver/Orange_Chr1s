@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2056760967011430418",
+    "created_at": "2026-05-19T15:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056761089023672693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040496770602487809",
+          "start": 0,
+          "username": "ragan70814"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056761089023672693",
+    "in_reply_to_user_id": "2040496770602487809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056760967011430418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ragan70814 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2056760967011430418",
+        "created_at": "2026-05-19T15:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056761089023672693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040496770602487809",
+              "start": 0,
+              "username": "ragan70814"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056761089023672693",
+        "in_reply_to_user_id": "2040496770602487809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056760967011430418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ragan70814 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496770602487809",
+        "conversation_id": "2056760967011430418",
+        "created_at": "2026-05-19T15:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056760967011430418"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056760967011430418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡觉了拜拜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 101,
+          "like_count": 738,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 527
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T18:28:53.000Z",
+        "description": "10年1月3，一个活死人，取向不正常，精神神似变态，男的",
+        "id": "2040496770602487809",
+        "name": "念真",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049368082725167104/Sqntw5mQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 74,
+          "like_count": 917,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 268
+        },
+        "username": "ragan70814",
+        "verified": false
+      }
+    ]
+  }
+}

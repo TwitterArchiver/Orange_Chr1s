@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071046953350414337",
+        "13_2071046981309591552"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2071047070182789134",
+    "created_at": "2026-06-28T01:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071047070182789134"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HQLEvx8rNt",
+          "end": 66,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2071047070182789134/video/1",
+          "media_key": "3_2071046953350414337",
+          "start": 43,
+          "url": "https://t.co/HQLEvx8rNt"
+        },
+        {
+          "display_url": "pic.x.com/HQLEvx8rNt",
+          "end": 66,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2071047070182789134/video/1",
+          "media_key": "13_2071046981309591552",
+          "start": 43,
+          "url": "https://t.co/HQLEvx8rNt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071047070182789134",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "30日推歌 DAY 28\n来自以为你超喜欢Ta声音的艺术家的歌\n音速行星 - 路尽头 https://t.co/HQLEvx8rNt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2071046953350414337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3WOy-bQAE49FF.jpg",
+        "width": 1260
+      },
+      {
+        "duration_ms": 225320,
+        "height": 500,
+        "media_key": "13_2071046981309591552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2071046981309591552/img/EWJMad5mnoRI9lvz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071046981309591552/vid/avc1/320x320/ltDAOrchiW6FLJYd.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2071046981309591552/vid/avc1/500x500/erxXNuKBWEQGfxi0.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2071046981309591552/pl/6Vn8r8CeBNXuoe57.m3u8?tag=14"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071046953350414337",
+            "13_2071046981309591552"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2071047070182789134",
+        "created_at": "2026-06-28T01:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071047070182789134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HQLEvx8rNt",
+              "end": 66,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2071047070182789134/video/1",
+              "media_key": "3_2071046953350414337",
+              "start": 43,
+              "url": "https://t.co/HQLEvx8rNt"
+            },
+            {
+              "display_url": "pic.x.com/HQLEvx8rNt",
+              "end": 66,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2071047070182789134/video/1",
+              "media_key": "13_2071046981309591552",
+              "start": 43,
+              "url": "https://t.co/HQLEvx8rNt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071047070182789134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30日推歌 DAY 28\n来自以为你超喜欢Ta声音的艺术家的歌\n音速行星 - 路尽头 https://t.co/HQLEvx8rNt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 133,
+          "like_count": 4606,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1835
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2064253286656725058",
+    "created_at": "2026-06-09T13:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T14:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064345946897752342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060050991370891265",
+          "start": 0,
+          "username": "Shioochicqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064345946897752342",
+    "in_reply_to_user_id": "2060050991370891265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064342623746490722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochicqwq 蜜雪冰城薄荷味奶绿，我称之为牙膏味😰，完了，现在除了吸打火机油现在还来个喝牙膏😰😰😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2064253286656725058",
+        "created_at": "2026-06-09T13:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064345946897752342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060050991370891265",
+              "start": 0,
+              "username": "Shioochicqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064345946897752342",
+        "in_reply_to_user_id": "2060050991370891265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064342623746490722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochicqwq 蜜雪冰城薄荷味奶绿，我称之为牙膏味😰，完了，现在除了吸打火机油现在还来个喝牙膏😰😰😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060050991370891265",
+        "conversation_id": "2064253286656725058",
+        "created_at": "2026-06-09T13:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064342623746490722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064342623746490722",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064253286656725058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 喝牙膏？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 128,
+          "like_count": 3046,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1461
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720🍥｜你们觉得我这次能活吗",
+        "id": "2060050991370891265",
+        "name": "汐落",
+        "pinned_tweet_id": "2060223149778817434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 242,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 238
+        },
+        "username": "Shioochicqwq",
+        "verified": false
+      }
+    ]
+  }
+}

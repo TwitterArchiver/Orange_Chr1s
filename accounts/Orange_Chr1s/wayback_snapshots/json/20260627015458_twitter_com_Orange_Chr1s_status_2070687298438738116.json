@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070687135976603648",
+        "13_2070687136203067392"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2070687298438738116",
+    "created_at": "2026-06-27T01:54:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070687298438738116"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZaDIXOPf4b",
+          "end": 81,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2070687298438738116/video/1",
+          "media_key": "3_2070687135976603648",
+          "start": 58,
+          "url": "https://t.co/ZaDIXOPf4b"
+        },
+        {
+          "display_url": "pic.x.com/ZaDIXOPf4b",
+          "end": 81,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2070687298438738116/video/1",
+          "media_key": "13_2070687136203067392",
+          "start": 58,
+          "url": "https://t.co/ZaDIXOPf4b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070687298438738116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "30日推歌 DAY 27\n让我心碎的歌\nHome - Dream Head\n某个游戏的结束曲,所以对我来说是心碎的 https://t.co/ZaDIXOPf4b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2070687135976603648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyO-qzbQAAyqHa.jpg",
+        "width": 1260
+      },
+      {
+        "duration_ms": 199080,
+        "height": 500,
+        "media_key": "13_2070687136203067392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070687136203067392/img/ozg67dsKviSKGOWf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070687136203067392/vid/avc1/320x320/yp7QcjYmIhxCE_Ed.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070687136203067392/vid/avc1/500x500/_I3BbcLOx8exkAVM.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070687136203067392/pl/toORzBSUvKsArPj9.m3u8?tag=14"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070687135976603648",
+            "13_2070687136203067392"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2070687298438738116",
+        "created_at": "2026-06-27T01:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070687298438738116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZaDIXOPf4b",
+              "end": 81,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2070687298438738116/video/1",
+              "media_key": "3_2070687135976603648",
+              "start": 58,
+              "url": "https://t.co/ZaDIXOPf4b"
+            },
+            {
+              "display_url": "pic.x.com/ZaDIXOPf4b",
+              "end": 81,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2070687298438738116/video/1",
+              "media_key": "13_2070687136203067392",
+              "start": 58,
+              "url": "https://t.co/ZaDIXOPf4b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070687298438738116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30日推歌 DAY 27\n让我心碎的歌\nHome - Dream Head\n某个游戏的结束曲,所以对我来说是心碎的 https://t.co/ZaDIXOPf4b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 131,
+          "like_count": 4574,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1829
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2062048173947064674",
+    "created_at": "2026-06-03T05:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T06:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062048173947064674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576083963713503232",
+          "start": 3,
+          "username": "WhitesugarC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062048173947064674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062043526628815332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WhitesugarC: 很矛盾。\n\n不喜欢睾酮带来的几乎所有影响，但又下不了决心做任何实质性的改变。只是凑合着，不去想，试图忽略。\n\n我前十几年一直都是这么过来的吧。为什么不能就这样继续呢？\n\n对性别认同的探索到底是让我更幸福还是更烦恼了呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2062048173947064674",
+        "created_at": "2026-06-03T05:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062048173947064674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576083963713503232",
+              "start": 3,
+              "username": "WhitesugarC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062048173947064674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062043526628815332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WhitesugarC: 很矛盾。\n\n不喜欢睾酮带来的几乎所有影响，但又下不了决心做任何实质性的改变。只是凑合着，不去想，试图忽略。\n\n我前十几年一直都是这么过来的吧。为什么不能就这样继续呢？\n\n对性别认同的探索到底是让我更幸福还是更烦恼了呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576083963713503232",
+        "conversation_id": "2062043526628815332",
+        "created_at": "2026-06-03T05:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T06:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062043526628815332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062043526628815332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很矛盾。\n\n不喜欢睾酮带来的几乎所有影响，但又下不了决心做任何实质性的改变。只是凑合着，不去想，试图忽略。\n\n我前十几年一直都是这么过来的吧。为什么不能就这样继续呢？\n\n对性别认同的探索到底是让我更幸福还是更烦恼了呢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 126,
+          "like_count": 2255,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1186
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-01T05:37:59.000Z",
+        "description": "@Whatasiger 备用号｜友男跨顺｜翻车概率为 0!｜「我们生来是为了燃烧的。我们是烟花。」｜🏳️‍🌈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Whatasiger"
+              }
+            ]
+          }
+        },
+        "id": "1576083963713503232",
+        "name": "Whatasigers",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061855369761312768/lCV-grQ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 9,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "WhitesugarC",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055305839985250541",
+    "created_at": "2026-05-15T15:39:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055312126319984680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2044278314970595328",
+          "start": 0,
+          "username": "imtrblng"
+        },
+        {
+          "end": 19,
+          "id": "1816508247651860480",
+          "start": 10,
+          "username": "DUAN4100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055312126319984680",
+    "in_reply_to_user_id": "2044278314970595328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055311828310426084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imtrblng @DUAN4100 我记得一个笑话就跟这个有关hhhhh,因为这酒的后劲导致很多人分享的时候只记得-一百九十几,所以会有叫错的🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055305839985250541",
+        "created_at": "2026-05-15T15:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055312126319984680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2044278314970595328",
+              "start": 0,
+              "username": "imtrblng"
+            },
+            {
+              "end": 19,
+              "id": "1816508247651860480",
+              "start": 10,
+              "username": "DUAN4100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055312126319984680",
+        "in_reply_to_user_id": "2044278314970595328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055311828310426084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imtrblng @DUAN4100 我记得一个笑话就跟这个有关hhhhh,因为这酒的后劲导致很多人分享的时候只记得-一百九十几,所以会有叫错的🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044278314970595328",
+        "conversation_id": "2055305839985250541",
+        "created_at": "2026-05-15T15:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055311828310426084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1816508247651860480",
+              "start": 0,
+              "username": "DUAN4100"
+            },
+            {
+              "end": 23,
+              "id": "1545782617240653825",
+              "start": 10,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055311828310426084",
+        "in_reply_to_user_id": "1816508247651860480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055311653076603208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DUAN4100 @Orange_Chr1s 没喝我单纯健忘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 93,
+          "like_count": 242,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 132
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T04:55:49.000Z",
+        "description": "鱼backup",
+        "id": "2044278314970595328",
+        "location": "x.com/lilmonix3",
+        "name": "IamTrembling",
+        "pinned_tweet_id": "2045879036673687857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044278954052460544/PNeDmwp9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 65,
+          "like_count": 2087,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 218
+        },
+        "username": "imtrblng",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-25T16:18:17.000Z",
+        "description": "我要转生了想找我的私信我会看\n他妈的我咋这么倒霉",
+        "id": "1816508247651860480",
+        "location": "门67/167/267纯绿无区别",
+        "name": "大骰目",
+        "pinned_tweet_id": "2054055285824852342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054204654331064320/4cq8X0jW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 391,
+          "like_count": 13570,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 3290
+        },
+        "username": "DUAN4100",
+        "verified": false
+      }
+    ]
+  }
+}

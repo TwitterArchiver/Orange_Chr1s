@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055232750064726016"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2055232903655891364",
+    "created_at": "2026-05-15T10:24:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T11:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055232903655891364"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p15ly0zczK",
+          "end": 39,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2055232903655891364/photo/1",
+          "media_key": "3_2055232750064726016",
+          "start": 16,
+          "url": "https://t.co/p15ly0zczK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055232903655891364",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "空调,听歌,氛围灯,再喝口茶🥰 https://t.co/p15ly0zczK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2055232750064726016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIWnTA5bcAAWS91.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055232750064726016"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055232903655891364",
+        "created_at": "2026-05-15T10:24:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T11:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055232903655891364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p15ly0zczK",
+              "end": 39,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2055232903655891364/photo/1",
+              "media_key": "3_2055232750064726016",
+              "start": 16,
+              "url": "https://t.co/p15ly0zczK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055232903655891364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "空调,听歌,氛围灯,再喝口茶🥰 https://t.co/p15ly0zczK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here.🌌 || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好，休过两年学 ‖ 友跨 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 92,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 84
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2059819126659686427",
+    "created_at": "2026-05-28T02:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T03:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059827784835584309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 24,
+          "id": "1823315089686142977",
+          "start": 16,
+          "username": "amnssb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059827784835584309",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059827574503887064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen @amnssb1 这个真蚌埠住了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2059819126659686427",
+        "created_at": "2026-05-28T02:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059827784835584309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 24,
+              "id": "1823315089686142977",
+              "start": 16,
+              "username": "amnssb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059827784835584309",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059827574503887064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen @amnssb1 这个真蚌埠住了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918274202580467713",
+        "conversation_id": "2059819126659686427",
+        "created_at": "2026-05-28T02:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059827574503887064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1823315089686142977",
+              "start": 0,
+              "username": "amnssb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059827574503887064",
+        "in_reply_to_user_id": "1823315089686142977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059827341187219513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amnssb1 ！？中中？！\n不过環状線认为可以加个粤语到汉语的翻译，有时候实在看不懂香港人的粤语推文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 118,
+          "like_count": 1658,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 990
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2057756896728436791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4234,
+          "following_count": 858,
+          "like_count": 22707,
+          "listed_count": 11,
+          "media_count": 1206,
+          "tweet_count": 6745
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-13T11:06:16.000Z",
+        "description": "发癫的而已别在意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "js96110.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.js96110.com.cn",
+                "start": 0,
+                "url": "https://t.co/U4yCQBSf6P"
+              }
+            ]
+          }
+        },
+        "id": "1823315089686142977",
+        "location": "月球",
+        "name": "amnssb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973252076748800/0lRmhUVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 67,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 418
+        },
+        "url": "https://t.co/U4yCQBSf6P",
+        "username": "amnssb1",
+        "verified": true
+      }
+    ]
+  }
+}

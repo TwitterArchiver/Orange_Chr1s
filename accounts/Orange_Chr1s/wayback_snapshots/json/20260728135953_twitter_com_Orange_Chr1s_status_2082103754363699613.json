@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082103498725011456"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2082103754363699613",
+    "created_at": "2026-07-28T13:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082103754363699613"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VkjboYFL9q",
+          "end": 87,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2082103754363699613/photo/1",
+          "media_key": "3_2082103498725011456",
+          "start": 64,
+          "url": "https://t.co/VkjboYFL9q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082103754363699613",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对不起噢，我也不知道该说些什么，我的情感问题也是一团糟捏🧐，不过不开心的时候我都会去吃一份薯条，你也可以试一下！祝你天天开心捏 https://t.co/VkjboYFL9q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2082103498725011456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUeGcMaMAANQZI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082103498725011456"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082103754363699613",
+        "created_at": "2026-07-28T13:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082103754363699613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VkjboYFL9q",
+              "end": 87,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2082103754363699613/photo/1",
+              "media_key": "3_2082103498725011456",
+              "start": 64,
+              "url": "https://t.co/VkjboYFL9q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082103754363699613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对不起噢，我也不知道该说些什么，我的情感问题也是一团糟捏🧐，不过不开心的时候我都会去吃一份薯条，你也可以试一下！祝你天天开心捏 https://t.co/VkjboYFL9q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 134,
+          "like_count": 5540,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 2009
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

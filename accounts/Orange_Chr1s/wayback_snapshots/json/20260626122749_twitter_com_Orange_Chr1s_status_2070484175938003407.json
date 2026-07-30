@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2070470216732037194",
+    "created_at": "2026-06-26T12:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T13:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070484175938003407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688792465292374016",
+          "start": 0,
+          "username": "unitedly_37400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070484175938003407",
+    "in_reply_to_user_id": "1688792465292374016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070470216732037194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@unitedly_37400 披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_2070470093826658304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvJlJybkAAA18P.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2070470216732037194",
+        "created_at": "2026-06-26T12:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T13:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070484175938003407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688792465292374016",
+              "start": 0,
+              "username": "unitedly_37400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070484175938003407",
+        "in_reply_to_user_id": "1688792465292374016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070470216732037194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unitedly_37400 披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨披萨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070470093826658304"
+          ]
+        },
+        "author_id": "1688792465292374016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1689677431769112596",
+              "name": "Hawaii wildfires"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Hawaii",
+              "id": "856861547208916992",
+              "name": "Hawaii"
+            }
+          }
+        ],
+        "conversation_id": "2070470216732037194",
+        "created_at": "2026-06-26T11:32:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:31:53.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070470099379655063",
+          "2070470216732037194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUiPPWeM4y",
+              "end": 62,
+              "expanded_url": "https://x.com/unitedly_37400/status/2070470216732037194/photo/1",
+              "media_key": "3_2070470093826658304",
+              "start": 39,
+              "url": "https://t.co/CUiPPWeM4y"
+            },
+            {
+              "display_url": "x.com/unitedly_37400…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/unitedly_37400/status/2070167788455633288",
+              "start": 63,
+              "url": "https://t.co/NXKWTSbnO7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070470216732037194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070167788455633288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已暴风吸入\n披萨好吃，可乐好喝\n不过不知道为什么从以前到现在吃薯片都会犯恶心 https://t.co/CUiPPWeM4y https://t.co/NXKWTSbnO7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 132,
+          "like_count": 4538,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1812
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-08T06:01:32.000Z",
+        "description": "念作なかい つるみ😼称呼我鹤宝就好😋｜大阪人🥰｜（以前的）名字看着像假账号但我懒得改（划掉）终于改名了 ｜🇯🇵🏳️‍⚧️｜微微查成分，ok就都会回fo😽😽😽｜小号@tsurumi_37400 欢迎关注喵｜最好的伙伴 @tomo9487｜thankyou @arashi5official｜DC链接在下面",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "tsurumi_37400"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "username": "tomo9487"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "arashi5official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/da4B7bSnC",
+                "end": 23,
+                "expanded_url": "https://discord.gg/da4B7bSnC",
+                "start": 0,
+                "url": "https://t.co/QrtZ8v9W7F"
+              }
+            ]
+          }
+        },
+        "id": "1688792465292374016",
+        "location": "滋賀県 草津市",
+        "name": "中井鶴見)⌒★",
+        "pinned_tweet_id": "2069067539976794518",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060737570250891264/5ckknA3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 548,
+          "like_count": 80316,
+          "listed_count": 1,
+          "media_count": 204,
+          "tweet_count": 1671
+        },
+        "url": "https://t.co/QrtZ8v9W7F",
+        "username": "unitedly_37400",
+        "verified": true
+      }
+    ]
+  }
+}

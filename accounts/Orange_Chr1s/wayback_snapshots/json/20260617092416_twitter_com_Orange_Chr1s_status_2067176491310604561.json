@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2067175519834227162",
+    "created_at": "2026-06-17T09:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067176491310604561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1388885035927834625",
+          "start": 0,
+          "username": "Triticale_eyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067176491310604561",
+    "in_reply_to_user_id": "1388885035927834625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067175519834227162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Triticale_eyyy 图三猫怎么那么凶的感觉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3060,
+        "media_key": "3_2067175458274504704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAVIH7bcAAZ-xq.jpg",
+        "width": 4080
+      },
+      {
+        "height": 3060,
+        "media_key": "3_2067175473483010048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAVJAla0AAuCJ1.jpg",
+        "width": 4080
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2067175490507739136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAVKAAbkAAk29K.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2432,
+        "media_key": "3_2067175508736163840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAVLD6bQAAMGp-.jpg",
+        "width": 3232
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2067175519834227162",
+        "created_at": "2026-06-17T09:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067176491310604561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1388885035927834625",
+              "start": 0,
+              "username": "Triticale_eyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067176491310604561",
+        "in_reply_to_user_id": "1388885035927834625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067175519834227162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Triticale_eyyy 图三猫怎么那么凶的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067175458274504704",
+            "3_2067175473483010048",
+            "3_2067175490507739136",
+            "3_2067175508736163840"
+          ]
+        },
+        "author_id": "1388885035927834625",
+        "conversation_id": "2067175519834227162",
+        "created_at": "2026-06-17T09:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067175519834227162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LwZ42u9F3R",
+              "end": 34,
+              "expanded_url": "https://x.com/Triticale_eyyy/status/2067175519834227162/photo/1",
+              "media_key": "3_2067175458274504704",
+              "start": 11,
+              "url": "https://t.co/LwZ42u9F3R"
+            },
+            {
+              "display_url": "pic.x.com/LwZ42u9F3R",
+              "end": 34,
+              "expanded_url": "https://x.com/Triticale_eyyy/status/2067175519834227162/photo/1",
+              "media_key": "3_2067175473483010048",
+              "start": 11,
+              "url": "https://t.co/LwZ42u9F3R"
+            },
+            {
+              "display_url": "pic.x.com/LwZ42u9F3R",
+              "end": 34,
+              "expanded_url": "https://x.com/Triticale_eyyy/status/2067175519834227162/photo/1",
+              "media_key": "3_2067175490507739136",
+              "start": 11,
+              "url": "https://t.co/LwZ42u9F3R"
+            },
+            {
+              "display_url": "pic.x.com/LwZ42u9F3R",
+              "end": 34,
+              "expanded_url": "https://x.com/Triticale_eyyy/status/2067175519834227162/photo/1",
+              "media_key": "3_2067175508736163840",
+              "start": 11,
+              "url": "https://t.co/LwZ42u9F3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067175519834227162",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小孩子不懂事瞎拍的（ https://t.co/LwZ42u9F3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 130,
+          "like_count": 3833,
+          "listed_count": 0,
+          "media_count": 219,
+          "tweet_count": 1620
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-02T15:56:28.000Z",
+        "description": "喵帕斯～\n我们所度过的每个平凡的日常，也许就是连续发生的奇迹。\n此次新增：匿名投信箱！\nhttps://t.co/tq2dRuGsAi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/triticale_eyyy",
+                "end": 67,
+                "expanded_url": "https://ngl.link/triticale_eyyy",
+                "start": 44,
+                "url": "https://t.co/tq2dRuGsAi"
+              }
+            ]
+          }
+        },
+        "id": "1388885035927834625",
+        "location": "Rhodes Island Pharmaceutical",
+        "name": "小黑麦",
+        "pinned_tweet_id": "2058260256095166750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862519603106390019/nwubGW9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 806,
+          "like_count": 16167,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 933
+        },
+        "username": "Triticale_eyyy",
+        "verified": true
+      }
+    ]
+  }
+}

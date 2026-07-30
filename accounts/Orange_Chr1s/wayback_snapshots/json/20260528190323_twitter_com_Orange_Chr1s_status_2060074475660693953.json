@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2060074475660693953",
+    "created_at": "2026-05-28T19:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T20:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060074475660693953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XYNshioochi/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/XYNshioochi/status/2060061637927923943",
+          "start": 7,
+          "url": "https://t.co/jbe5zrECCY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060074475660693953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060061637927923943",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "汐落复活啦😇 https://t.co/jbe5zrECCY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2060074475660693953",
+        "created_at": "2026-05-28T19:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060074475660693953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XYNshioochi/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/XYNshioochi/status/2060061637927923943",
+              "start": 7,
+              "url": "https://t.co/jbe5zrECCY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060074475660693953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060061637927923943",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "汐落复活啦😇 https://t.co/jbe5zrECCY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060050991370891265",
+        "conversation_id": "2060061637927923943",
+        "created_at": "2026-05-28T18:12:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T19:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060061637927923943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuerQwQ/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/yuerQwQ/status/2059864263959953524",
+              "start": 36,
+              "url": "https://t.co/c2qGdeHWDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060061637927923943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059864263959953524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想当女孩😭😭😭\n男性躯壳太难受了😭😭😭\n每次看到女性身体都羡慕得要死 https://t.co/c2qGdeHWDh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 120,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 994
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-28T17:32:35.000Z",
+        "description": "09｜小证含糖半家长党｜小证260117｜hrt250720｜你们觉得我这次能活吗",
+        "id": "2060050991370891265",
+        "name": "汐落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060051875358261249/Bpop1uMR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 27,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "username": "XYNshioochi",
+        "verified": false
+      }
+    ]
+  }
+}

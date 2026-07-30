@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2070567208879788151",
+    "created_at": "2026-06-26T17:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T18:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070567208879788151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "MysticOrange🌆’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1rGmq…",
+          "end": 27,
+          "expanded_url": "https://x.com/i/spaces/1rGmqqnvyPMGy",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2070567210746339328/yxUwKSCq?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2070567210746339328/yxUwKSCq?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 4,
+          "status": 200,
+          "title": "Happening now: 不知道",
+          "unwound_url": "https://twitter.com/i/spaces/1rGmqqnvyPMGy/peek",
+          "url": "https://t.co/646bhmN6Dt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070567208879788151",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道 https://t.co/646bhmN6Dt"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2070567208879788151",
+        "created_at": "2026-06-26T17:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T18:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070567208879788151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "MysticOrange🌆’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1rGmq…",
+              "end": 27,
+              "expanded_url": "https://x.com/i/spaces/1rGmqqnvyPMGy",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2070567210746339328/yxUwKSCq?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2070567210746339328/yxUwKSCq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 4,
+              "status": 200,
+              "title": "Happening now: 不知道",
+              "unwound_url": "https://twitter.com/i/spaces/1rGmqqnvyPMGy/peek",
+              "url": "https://t.co/646bhmN6Dt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070567208879788151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道 https://t.co/646bhmN6Dt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 131,
+          "like_count": 4556,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 1823
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

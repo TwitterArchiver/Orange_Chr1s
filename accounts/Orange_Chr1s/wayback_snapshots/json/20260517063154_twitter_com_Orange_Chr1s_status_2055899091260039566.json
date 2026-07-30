@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055549944988328309",
+    "created_at": "2026-05-17T06:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055899091260039566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1969407639621943296",
+          "start": 0,
+          "username": "UKIMevoli1145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055899091260039566",
+    "in_reply_to_user_id": "1969407639621943296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055897202896302557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UKIMevoli1145 但是去掉这三个之后，汉堡会变得有嚼劲，也就是有点硬，你要看着点🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055549944988328309",
+        "created_at": "2026-05-17T06:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055899091260039566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1969407639621943296",
+              "start": 0,
+              "username": "UKIMevoli1145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055899091260039566",
+        "in_reply_to_user_id": "1969407639621943296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055897202896302557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UKIMevoli1145 但是去掉这三个之后，汉堡会变得有嚼劲，也就是有点硬，你要看着点🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1969407639621943296",
+        "conversation_id": "2055549944988328309",
+        "created_at": "2026-05-17T06:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055897202896302557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055897202896302557",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055894535184826550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 好吧，现在我又变成最挑食的了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 101,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 312
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-20T14:26:02.000Z",
+        "description": "666遇到营养师队友了",
+        "id": "1969407639621943296",
+        "location": "我不知道",
+        "name": "UKIMevoli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028095513023905792/Sifpv0rN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 83,
+          "like_count": 1031,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 831
+        },
+        "username": "UKIMevoli1145",
+        "verified": false
+      }
+    ]
+  }
+}

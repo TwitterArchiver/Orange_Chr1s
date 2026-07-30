@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2064311842852446344",
+    "created_at": "2026-06-09T12:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T13:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064320144307077174"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042276998668525573",
+          "start": 0,
+          "username": "SakurabaAya514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064320144307077174",
+    "in_reply_to_user_id": "2042276998668525573",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064320014942150678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurabaAya514 3瓶不会两瓶是中的吧？😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2064311842852446344",
+        "created_at": "2026-06-09T12:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064320144307077174"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "SakurabaAya514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064320144307077174",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064320014942150678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurabaAya514 3瓶不会两瓶是中的吧？😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042276998668525573",
+        "conversation_id": "2064311842852446344",
+        "created_at": "2026-06-09T12:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T13:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064320014942150678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064320014942150678",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064312519750201443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 买东鹏特饮又中了一瓶一元乐享，这下不得不再买瓶喝了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 128,
+          "like_count": 3031,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1456
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "来自坎通国（现居巴蜀）/东方project/魔裁/Arcaea/舞萌/键政⚠️/双相情感障碍⚠️/亚文化B/欢迎互fo（会看成分致歉）/LGBTQ+🏳️‍🌈友好/友跨🏳️‍⚧️\n主要在X上网冲浪评论搞抽象为主，发帖主要是日常生活和碎碎念，以及负面推文⚠️",
+        "id": "2042276998668525573",
+        "location": "哦他们扔了你的世界，去成为更好的人类！",
+        "name": "赤月",
+        "pinned_tweet_id": "2063643511128522806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062600655634907136/sl1r5PSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 507,
+          "like_count": 7128,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 2167
+        },
+        "username": "SakurabaAya514",
+        "verified": false
+      }
+    ]
+  }
+}

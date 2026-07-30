@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065860836523233280"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2065860898074624511",
+    "created_at": "2026-06-13T18:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T19:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065860898074624511"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EbS2O2vjq1",
+          "end": 34,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2065860898074624511/video/1",
+          "media_key": "13_2065860836523233280",
+          "start": 11,
+          "url": "https://t.co/EbS2O2vjq1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065860898074624511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给这个视频配了个歌🥰 https://t.co/EbS2O2vjq1"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14912,
+        "height": 720,
+        "media_key": "13_2065860836523233280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065860836523233280/img/96cOx9qHvbBGcZcs.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065860836523233280/vid/avc1/480x270/5nDinwxy9zGqnIWK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065860836523233280/vid/avc1/640x360/A-qqL2ynzh-7hzRy.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065860836523233280/vid/avc1/1280x720/CcIfsb-jPxry_vy6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065860836523233280/pl/TTlARHGrdT3YipjC.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065860836523233280"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2065860898074624511",
+        "created_at": "2026-06-13T18:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065860898074624511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EbS2O2vjq1",
+              "end": 34,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2065860898074624511/video/1",
+              "media_key": "13_2065860836523233280",
+              "start": 11,
+              "url": "https://t.co/EbS2O2vjq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065860898074624511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给这个视频配了个歌🥰 https://t.co/EbS2O2vjq1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 130,
+          "like_count": 3430,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1542
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

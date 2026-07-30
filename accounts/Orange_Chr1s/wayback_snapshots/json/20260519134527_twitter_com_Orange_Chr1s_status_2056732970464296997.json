@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2056728846771290190",
+    "created_at": "2026-05-19T13:45:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056732970464296997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2045025548401823744",
+          "start": 0,
+          "username": "ShiXiaomeiMoYa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056732970464296997",
+    "in_reply_to_user_id": "2045025548401823744",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056732879347195988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiXiaomeiMoYa 😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2056728846771290190",
+        "created_at": "2026-05-19T13:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056732970464296997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2045025548401823744",
+              "start": 0,
+              "username": "ShiXiaomeiMoYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056732970464296997",
+        "in_reply_to_user_id": "2045025548401823744",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056732879347195988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiXiaomeiMoYa 😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045025548401823744",
+        "conversation_id": "2056728846771290190",
+        "created_at": "2026-05-19T13:45:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:45:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056732879347195988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056732879347195988",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056732444943171628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 我說的就是那個人勉強趕上我，嘻嘻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 101,
+          "like_count": 709,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 515
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-17T06:24:35.000Z",
+        "description": "門52，只收wechat\n愛～～～你～～～們～～～//🩷🩷🩷//\n一個缺愛b，有人主動給我發消息我會很開心的😭😭😭",
+        "id": "2045025548401823744",
+        "name": "小魔女～～～",
+        "pinned_tweet_id": "2056651100267348024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055848264709312514/Xwr3t1Pa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 38,
+          "like_count": 238,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 387
+        },
+        "username": "ShiXiaomeiMoYa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2061714411157610601",
+    "created_at": "2026-06-02T07:41:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:41:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061714715538317381"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061714715538317381",
+    "in_reply_to_user_id": "1545782617240653825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061714411157610601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "几乎没有苦味,真的,微甜,卧槽,我真不知道怎么形容了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2061714279708200960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyuNsZbkAAAzHY.jpg",
+        "width": 689
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2061714411157610601",
+        "created_at": "2026-06-02T07:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061714715538317381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061714715538317381",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061714411157610601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "几乎没有苦味,真的,微甜,卧槽,我真不知道怎么形容了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061714279708200960"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061714411157610601",
+        "created_at": "2026-06-02T07:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061714411157610601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nfttVJHzV",
+              "end": 169,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2061714411157610601/photo/1",
+              "media_key": "3_2061714279708200960",
+              "start": 146,
+              "url": "https://t.co/2nfttVJHzV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061714411157610601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽,没得讲\n蜜雪旗下那个福鹿家真没话讲\n\n我买的不是德式小麦的啤酒,我买的应该就是国产的鲜啤\n但是店员说可以试喝,我就喝了一点那个德式小麦,很可以,很浓的味道,不是像外面买的那种水啤,而且性价比没的说\n\n我买的这个他有种,花香还是什么香在里面,没有水啤那种水味,一喝就知道,对得起这个价格 https://t.co/2nfttVJHzV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 121,
+          "like_count": 2108,
+          "listed_count": 0,
+          "media_count": 163,
+          "tweet_count": 1129
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

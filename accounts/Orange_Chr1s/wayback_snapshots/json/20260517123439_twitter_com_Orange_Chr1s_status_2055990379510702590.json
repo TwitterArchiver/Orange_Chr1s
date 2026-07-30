@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2055988761981530580",
+    "created_at": "2026-05-17T12:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T13:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055990379510702590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2042276998668525573",
+          "start": 0,
+          "username": "SakurabaAya514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055990379510702590",
+    "in_reply_to_user_id": "2042276998668525573",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055988761981530580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SakurabaAya514 我要吃我要吃我要吃！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2055988750396829696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhW4BmaMAA_5pP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2055988761981530580",
+        "created_at": "2026-05-17T12:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055990379510702590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2042276998668525573",
+              "start": 0,
+              "username": "SakurabaAya514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055990379510702590",
+        "in_reply_to_user_id": "2042276998668525573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055988761981530580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakurabaAya514 我要吃我要吃我要吃！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055988750396829696"
+          ]
+        },
+        "author_id": "2042276998668525573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055988761981530580",
+        "created_at": "2026-05-17T12:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T13:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055988761981530580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5BIgxzmH3t",
+              "end": 31,
+              "expanded_url": "https://x.com/SakurabaAya514/status/2055988761981530580/photo/1",
+              "media_key": "3_2055988750396829696",
+              "start": 8,
+              "url": "https://t.co/5BIgxzmH3t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055988761981530580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "土豆咖喱拌饭😋 https://t.co/5BIgxzmH3t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 100,
+          "like_count": 491,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 338
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T16:22:54.000Z",
+        "description": "来自中国大陆/东方project/古明地こいし激推/Arcaea/舞萌DX/中二节奏/键政嘉豪/运动嘉豪/可互fo/LGBTQ+🏳️‍🌈友好\n主要在X上网冲浪评论搞抽象为主，发帖主要是日常生活和碎碎念",
+        "id": "2042276998668525573",
+        "name": "桜羽アヤ",
+        "pinned_tweet_id": "2052075129140834573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055385614082797569/AilgBjUp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 203,
+          "like_count": 2588,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 871
+        },
+        "username": "SakurabaAya514",
+        "verified": false
+      }
+    ]
+  }
+}

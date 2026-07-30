@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2059664960264024072",
+    "created_at": "2026-05-27T15:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059665269459710161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2051965726043635712",
+          "start": 0,
+          "username": "whatasiger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059665269459710161",
+    "in_reply_to_user_id": "2051965726043635712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059664960264024072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whatasiger 哇超富哥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059664892295307264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVmTpWa4AAbC49.jpg",
+        "width": 1067
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2059664892286889984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJVmTpUacAA5v8V.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2059664960264024072",
+        "created_at": "2026-05-27T15:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059665269459710161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2051965726043635712",
+              "start": 0,
+              "username": "whatasiger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059665269459710161",
+        "in_reply_to_user_id": "2051965726043635712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059664960264024072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whatasiger 哇超富哥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059664892295307264",
+            "3_2059664892286889984"
+          ]
+        },
+        "author_id": "2051965726043635712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059664960264024072",
+        "created_at": "2026-05-27T15:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059664960264024072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ypUBxtcU3f",
+              "end": 61,
+              "expanded_url": "https://x.com/whatasiger/status/2059664960264024072/photo/1",
+              "media_key": "3_2059664892295307264",
+              "start": 38,
+              "url": "https://t.co/ypUBxtcU3f"
+            },
+            {
+              "display_url": "pic.x.com/ypUBxtcU3f",
+              "end": 61,
+              "expanded_url": "https://x.com/whatasiger/status/2059664960264024072/photo/1",
+              "media_key": "3_2059664892286889984",
+              "start": 38,
+              "url": "https://t.co/ypUBxtcU3f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059664960264024072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考前喊楼仪式，高二高三交换礼物。学长直接掏出一张 RTX 5090D…… https://t.co/ypUBxtcU3f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 118,
+          "like_count": 1639,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 985
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T10:02:16.000Z",
+        "description": "2008-10｜人类?｜LGBTQ+ 友好｜写点小说｜ACG 相关（Bangumi）：https://t.co/KrQeYLLYXa｜个人博客＆作品：https://t.co/EhqryVku36 ｜头发焦虑",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bgm.tv/user/whatasiger",
+                "end": 66,
+                "expanded_url": "https://bgm.tv/user/whatasiger",
+                "start": 43,
+                "url": "https://t.co/KrQeYLLYXa"
+              },
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 98,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 75,
+                "url": "https://t.co/EhqryVku36"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Whatasiger.XYZ",
+                "end": 23,
+                "expanded_url": "http://Whatasiger.XYZ",
+                "start": 0,
+                "url": "https://t.co/EhqryVku36"
+              }
+            ]
+          }
+        },
+        "id": "2051965726043635712",
+        "location": "Tokyo-to, Japan",
+        "name": "Whatasiger",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051966277821022208/On2McT3J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 85,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/EhqryVku36",
+        "username": "whatasiger",
+        "verified": false
+      }
+    ]
+  }
+}

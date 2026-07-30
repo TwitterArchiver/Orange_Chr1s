@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2069032042721870286",
+    "created_at": "2026-06-22T12:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T13:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069036134496350325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1823315089686142977",
+          "start": 0,
+          "username": "amnssb1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069036134496350325",
+    "in_reply_to_user_id": "1823315089686142977",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069033685832122654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amnssb1 勇士"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2069032042721870286",
+        "created_at": "2026-06-22T12:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069036134496350325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1823315089686142977",
+              "start": 0,
+              "username": "amnssb1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069036134496350325",
+        "in_reply_to_user_id": "1823315089686142977",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069033685832122654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amnssb1 勇士"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823315089686142977",
+        "conversation_id": "2069032042721870286",
+        "created_at": "2026-06-22T12:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T13:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069033685832122654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069033685832122654",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069032266035241158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 132,
+          "like_count": 4265,
+          "listed_count": 0,
+          "media_count": 233,
+          "tweet_count": 1736
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T11:06:16.000Z",
+        "description": "发癫的而已别在意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "js96110.com.cn",
+                "end": 23,
+                "expanded_url": "http://www.js96110.com.cn",
+                "start": 0,
+                "url": "https://t.co/U4yCQBSf6P"
+              }
+            ]
+          }
+        },
+        "id": "1823315089686142977",
+        "location": "月球",
+        "name": "amnssb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973252076748800/0lRmhUVq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 99,
+          "like_count": 1200,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1175
+        },
+        "url": "https://t.co/U4yCQBSf6P",
+        "username": "amnssb1",
+        "verified": true
+      }
+    ]
+  }
+}

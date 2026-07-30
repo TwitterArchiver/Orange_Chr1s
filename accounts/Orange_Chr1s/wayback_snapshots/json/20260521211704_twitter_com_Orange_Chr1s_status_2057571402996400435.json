@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2057571402996400435",
+    "created_at": "2026-05-21T21:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T22:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057571402996400435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2055911737208315904",
+          "start": 3,
+          "username": "omgnowihasfish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057571402996400435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057392531542036631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @omgnowihasfish: 推特还能培养好感度的吗\n怎么一直和我聊天的推友在我的主页出现率更高呀\n推特是不是一款Galgame呀🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2057571402996400435",
+        "created_at": "2026-05-21T21:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T22:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057571402996400435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2055911737208315904",
+              "start": 3,
+              "username": "omgnowihasfish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057571402996400435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057392531542036631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @omgnowihasfish: 推特还能培养好感度的吗\n怎么一直和我聊天的推友在我的主页出现率更高呀\n推特是不是一款Galgame呀🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055911737208315904",
+        "conversation_id": "2057392531542036631",
+        "created_at": "2026-05-21T09:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057392531542036631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057392531542036631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2807,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特还能培养好感度的吗\n怎么一直和我聊天的推友在我的主页出现率更高呀\n推特是不是一款Galgame呀🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 103,
+          "like_count": 1124,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 724
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T07:23:39.000Z",
+        "description": "座標台灣台中市(謝謝你喜歡台灣😭😭😭❤️❤️)\n2009/12/24\n我已急哭😂😭",
+        "id": "2055911737208315904",
+        "name": "黃瓜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055912532402216960/jnl7BbH6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 298,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 91
+        },
+        "username": "omgnowihasfish",
+        "verified": false
+      }
+    ]
+  }
+}

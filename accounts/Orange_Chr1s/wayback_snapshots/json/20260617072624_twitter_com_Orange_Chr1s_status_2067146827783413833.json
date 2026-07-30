@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066921113406644224"
+      ],
+      "media_source_tweet_id": [
+        "2066921117940683038"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2067146827783413833",
+    "created_at": "2026-06-17T07:26:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T08:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067146827783413833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044764915865669632",
+          "start": 3,
+          "username": "Eztupido70"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uMYeNsALKR",
+          "end": 72,
+          "expanded_url": "https://x.com/Eztupido70/status/2066921117940683038/photo/1",
+          "media_key": "3_2066921113406644224",
+          "start": 49,
+          "url": "https://t.co/uMYeNsALKR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067146827783413833",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1877
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066921117940683038",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Eztupido70: Experiencia típica fumando solo: https://t.co/uMYeNsALKR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 254,
+        "media_key": "3_2066921113406644224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8tzTdboAAYmiE.jpg",
+        "width": 280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066921113406644224"
+          ],
+          "media_source_tweet_id": [
+            "2066921117940683038"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2067146827783413833",
+        "created_at": "2026-06-17T07:26:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T08:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067146827783413833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044764915865669632",
+              "start": 3,
+              "username": "Eztupido70"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMYeNsALKR",
+              "end": 72,
+              "expanded_url": "https://x.com/Eztupido70/status/2066921117940683038/photo/1",
+              "media_key": "3_2066921113406644224",
+              "start": 49,
+              "url": "https://t.co/uMYeNsALKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067146827783413833",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1877
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066921117940683038",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Eztupido70: Experiencia típica fumando solo: https://t.co/uMYeNsALKR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066921113406644224"
+          ]
+        },
+        "author_id": "2044764915865669632",
+        "conversation_id": "2066921117940683038",
+        "created_at": "2026-06-16T16:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066921117940683038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uMYeNsALKR",
+              "end": 56,
+              "expanded_url": "https://x.com/Eztupido70/status/2066921117940683038/photo/1",
+              "media_key": "3_2066921113406644224",
+              "start": 33,
+              "url": "https://t.co/uMYeNsALKR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066921117940683038",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 340,
+          "impression_count": 110973,
+          "like_count": 12877,
+          "quote_count": 37,
+          "reply_count": 21,
+          "retweet_count": 1877
+        },
+        "reply_settings": "everyone",
+        "text": "Experiencia típica fumando solo: https://t.co/uMYeNsALKR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 130,
+          "like_count": 3811,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 1614
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-16T13:09:15.000Z",
+        "description": "I’m prolly high off my mind rn\n#drugtwt #obslovetwt #subtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 39,
+                "start": 31,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 51,
+                "start": 40,
+                "tag": "obslovetwt"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "tag": "subtwt"
+              }
+            ]
+          }
+        },
+        "id": "2044764915865669632",
+        "location": "sadico",
+        "name": "Enzo :v",
+        "pinned_tweet_id": "2057686240540111067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052749619931791360/jaxr4YXy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 320,
+          "like_count": 7365,
+          "listed_count": 2,
+          "media_count": 177,
+          "tweet_count": 2774
+        },
+        "username": "Eztupido70",
+        "verified": false
+      }
+    ]
+  }
+}

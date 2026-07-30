@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2063522739122470947",
+    "created_at": "2026-06-07T09:36:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T10:36:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063555631383285961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942136939735560192",
+          "start": 0,
+          "username": "picxis63594"
+        },
+        {
+          "end": 22,
+          "id": "193648759",
+          "start": 13,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063555631383285961",
+    "in_reply_to_user_id": "1942136939735560192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063555457541951834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@picxis63594 @ripo0079 你老唐号刚刚又封了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2063522739122470947",
+        "created_at": "2026-06-07T09:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063555631383285961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942136939735560192",
+              "start": 0,
+              "username": "picxis63594"
+            },
+            {
+              "end": 22,
+              "id": "193648759",
+              "start": 13,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063555631383285961",
+        "in_reply_to_user_id": "1942136939735560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063555457541951834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@picxis63594 @ripo0079 你老唐号刚刚又封了😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942136939735560192",
+        "conversation_id": "2063522739122470947",
+        "created_at": "2026-06-07T09:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063555457541951834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "193648759",
+              "start": 0,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063555457541951834",
+        "in_reply_to_user_id": "1942136939735560192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063554048981397753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ripo0079 太抽象了，这个tyw不知道包括但不限于给自己嘎蛋然后详细记录在网络上；人家17老婆自杀死的时候直接开骂(为了炒作)，然后现在tm把17强行送精卫还给人账号注销了，据说在里边天天被绑，中国的精卫也是很难评啊我因为跨性别天天被家长无病送到精卫跟tm扭转机构一样(也许整个中国就是一个巨大的扭转机构)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 128,
+          "like_count": 2859,
+          "listed_count": 0,
+          "media_count": 185,
+          "tweet_count": 1400
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "MtF/ADHDer/炒鸡大社恐\n互fo喵  贴贴喵/\n断糖了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/subdronexyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/subdronexyn",
+                "start": 0,
+                "url": "https://t.co/WeT6TnNIgW"
+              }
+            ]
+          }
+        },
+        "id": "1942136939735560192",
+        "location": "床上",
+        "name": "SubDrone无人机潜水",
+        "pinned_tweet_id": "2062132531491930435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056641418433826816/eoLLRBCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 318,
+          "like_count": 315,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/WeT6TnNIgW",
+        "username": "picxis63594",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2035310430252581331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11783,
+          "following_count": 1426,
+          "like_count": 73976,
+          "listed_count": 132,
+          "media_count": 4439,
+          "tweet_count": 54813
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

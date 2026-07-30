@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2061225661600317660",
+    "created_at": "2026-06-08T11:30:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T12:30:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063946767889236329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1507774505166417922",
+          "start": 0,
+          "username": "scddd15"
+        },
+        {
+          "end": 24,
+          "id": "1514955957515784193",
+          "start": 9,
+          "username": "FuzzyndLatency"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063946767889236329",
+    "in_reply_to_user_id": "1507774505166417922",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063945686207602921",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@scddd15 @FuzzyndLatency 11.84.0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2061225661600317660",
+        "created_at": "2026-06-08T11:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063946767889236329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1507774505166417922",
+              "start": 0,
+              "username": "scddd15"
+            },
+            {
+              "end": 24,
+              "id": "1514955957515784193",
+              "start": 9,
+              "username": "FuzzyndLatency"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063946767889236329",
+        "in_reply_to_user_id": "1507774505166417922",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063945686207602921",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@scddd15 @FuzzyndLatency 11.84.0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507774505166417922",
+        "conversation_id": "2061225661600317660",
+        "created_at": "2026-06-08T11:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T12:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063945686207602921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            },
+            {
+              "end": 29,
+              "id": "1514955957515784193",
+              "start": 14,
+              "username": "FuzzyndLatency"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063945686207602921",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061293259004297603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s @FuzzyndLatency 请问下的是哪个版本啊，我也遇到这个问题了😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 128,
+          "like_count": 2933,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1426
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T17:40:41.000Z",
+        "description": "",
+        "id": "1507774505166417922",
+        "name": "小欧奥考",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507774637505081348/Q2VAvhgB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 137,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "scddd15",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-15T13:17:09.000Z",
+        "description": "",
+        "id": "1514955957515784193",
+        "name": ", . ?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984606581141745664/V67p_IJd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 2472,
+          "like_count": 11379,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 2669
+        },
+        "username": "FuzzyndLatency",
+        "verified": false
+      }
+    ]
+  }
+}

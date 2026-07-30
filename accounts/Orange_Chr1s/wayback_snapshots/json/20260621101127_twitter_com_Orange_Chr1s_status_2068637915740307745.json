@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068637554698821632",
+        "3_2068637550412193792",
+        "3_2068637550416384001",
+        "3_2068637550420561920"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2068637915740307745",
+    "created_at": "2026-06-21T10:11:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T11:11:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068637915740307745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aiORtTCIs7",
+          "end": 60,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2068637915740307745/photo/1",
+          "media_key": "3_2068637554698821632",
+          "start": 37,
+          "url": "https://t.co/aiORtTCIs7"
+        },
+        {
+          "display_url": "pic.x.com/aiORtTCIs7",
+          "end": 60,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2068637915740307745/photo/1",
+          "media_key": "3_2068637550412193792",
+          "start": 37,
+          "url": "https://t.co/aiORtTCIs7"
+        },
+        {
+          "display_url": "pic.x.com/aiORtTCIs7",
+          "end": 60,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2068637915740307745/photo/1",
+          "media_key": "3_2068637550416384001",
+          "start": 37,
+          "url": "https://t.co/aiORtTCIs7"
+        },
+        {
+          "display_url": "pic.x.com/aiORtTCIs7",
+          "end": 60,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2068637915740307745/photo/1",
+          "media_key": "3_2068637550420561920",
+          "start": 37,
+          "url": "https://t.co/aiORtTCIs7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068637915740307745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天父亲节，被家里人拉去当司机开车出去吃，这家店吃着还算好吃吧🤔没走味😋 https://t.co/aiORtTCIs7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068637554698821632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVG5VjbIAAYIWX.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2068637550412193792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVG5FlaYAAXwv4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1538,
+        "media_key": "3_2068637550416384001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVG5FmaUAEVRjq.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2068637550420561920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLVG5FnaEAAn6xB.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068637554698821632",
+            "3_2068637550412193792",
+            "3_2068637550416384001",
+            "3_2068637550420561920"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068637915740307745",
+        "created_at": "2026-06-21T10:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068637915740307745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aiORtTCIs7",
+              "end": 60,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2068637915740307745/photo/1",
+              "media_key": "3_2068637554698821632",
+              "start": 37,
+              "url": "https://t.co/aiORtTCIs7"
+            },
+            {
+              "display_url": "pic.x.com/aiORtTCIs7",
+              "end": 60,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2068637915740307745/photo/1",
+              "media_key": "3_2068637550412193792",
+              "start": 37,
+              "url": "https://t.co/aiORtTCIs7"
+            },
+            {
+              "display_url": "pic.x.com/aiORtTCIs7",
+              "end": 60,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2068637915740307745/photo/1",
+              "media_key": "3_2068637550416384001",
+              "start": 37,
+              "url": "https://t.co/aiORtTCIs7"
+            },
+            {
+              "display_url": "pic.x.com/aiORtTCIs7",
+              "end": 60,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2068637915740307745/photo/1",
+              "media_key": "3_2068637550420561920",
+              "start": 37,
+              "url": "https://t.co/aiORtTCIs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068637915740307745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天父亲节，被家里人拉去当司机开车出去吃，这家店吃着还算好吃吧🤔没走味😋 https://t.co/aiORtTCIs7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 132,
+          "like_count": 4190,
+          "listed_count": 0,
+          "media_count": 229,
+          "tweet_count": 1716
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

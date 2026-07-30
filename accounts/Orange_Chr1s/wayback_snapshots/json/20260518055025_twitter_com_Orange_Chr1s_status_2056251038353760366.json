@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2056245242039550442",
+    "created_at": "2026-05-18T05:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056251038353760366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412013339115360258",
+          "start": 0,
+          "username": "gaoxiaojiede"
+        },
+        {
+          "end": 29,
+          "id": "1810873766119100416",
+          "start": 14,
+          "username": "RainEngine2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056251038353760366",
+    "in_reply_to_user_id": "1412013339115360258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056247605420790257",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaoxiaojiede @RainEngine2024 电动车50"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2056245242039550442",
+        "created_at": "2026-05-18T05:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056251038353760366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412013339115360258",
+              "start": 0,
+              "username": "gaoxiaojiede"
+            },
+            {
+              "end": 29,
+              "id": "1810873766119100416",
+              "start": 14,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056251038353760366",
+        "in_reply_to_user_id": "1412013339115360258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056247605420790257",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaoxiaojiede @RainEngine2024 电动车50"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1412013339115360258",
+        "conversation_id": "2056245242039550442",
+        "created_at": "2026-05-18T05:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056247605420790257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1810873766119100416",
+              "start": 0,
+              "username": "RainEngine2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056247605420790257",
+        "in_reply_to_user_id": "1810873766119100416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056245242039550442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2024 这个有点贵呀，正常不是应该20块钱吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 101,
+          "like_count": 552,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 406
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-05T11:40:01.000Z",
+        "description": "秉忠贞之志 守谦退之节",
+        "id": "1412013339115360258",
+        "name": "高小姐的皮卡丘",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033790613246877696/cCaAKxy1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 63,
+          "like_count": 1702,
+          "listed_count": 2,
+          "media_count": 328,
+          "tweet_count": 5848
+        },
+        "username": "gaoxiaojiede",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T03:08:51.000Z",
+        "description": "RainEngine联合创始人/曾小米项目部运营/SimpleUX维护者/喜欢摄影/喜欢折腾各类的Android手机/偶尔发些日常/GMT+8/PM前请征得同意否则Ban/追求源于热爱，极致源于梦想",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainengine2024",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainengine2024",
+                "start": 0,
+                "url": "https://t.co/BhlP53QlZL"
+              }
+            ]
+          }
+        },
+        "id": "1810873766119100416",
+        "name": "雨晴酱_Official",
+        "pinned_tweet_id": "2036689318245531849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052221080052674560/erKoHu5y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10146,
+          "following_count": 954,
+          "like_count": 88299,
+          "listed_count": 24,
+          "media_count": 1746,
+          "tweet_count": 12230
+        },
+        "url": "https://t.co/BhlP53QlZL",
+        "username": "RainEngine2024",
+        "verified": true
+      }
+    ]
+  }
+}

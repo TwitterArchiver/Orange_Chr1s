@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057779968609013760",
+        "13_2057779968600625152",
+        "13_2057779968600690688"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2057780063484150072",
+    "created_at": "2026-05-22T11:06:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T12:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057780063484150072"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MqNz2j7O5R",
+          "end": 62,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2057780063484150072/video/1",
+          "media_key": "13_2057779968609013760",
+          "start": 39,
+          "url": "https://t.co/MqNz2j7O5R"
+        },
+        {
+          "display_url": "pic.x.com/MqNz2j7O5R",
+          "end": 62,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2057780063484150072/video/1",
+          "media_key": "13_2057779968600625152",
+          "start": 39,
+          "url": "https://t.co/MqNz2j7O5R"
+        },
+        {
+          "display_url": "pic.x.com/MqNz2j7O5R",
+          "end": 62,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2057780063484150072/video/1",
+          "media_key": "13_2057779968600690688",
+          "start": 39,
+          "url": "https://t.co/MqNz2j7O5R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057780063484150072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看到广东其他地方都水浸街了,我就在相册翻到去年我这里也水浸街的视频了hhhh https://t.co/MqNz2j7O5R"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8068,
+        "height": 1920,
+        "media_key": "13_2057779968609013760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057779968609013760/img/fzWZF7MDyX3e5nSN.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057779968609013760/vid/avc1/320x568/htvCM5CV5Zt6O1vk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057779968609013760/vid/avc1/480x852/B7wcfVHlBsWbq-3G.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057779968609013760/vid/avc1/720x1280/0NO1w4b1KTuI18W2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057779968609013760/pl/a81ixqsnWS7jiqHI.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 20864,
+        "height": 1080,
+        "media_key": "13_2057779968600625152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057779968600625152/img/5Tr1jlAZas_xQfrx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057779968600625152/vid/avc1/480x270/OmK03ZZXKk8SKAM4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057779968600625152/vid/avc1/640x360/kJfLcrG-TCwWn1-U.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057779968600625152/vid/avc1/1280x720/6ICSprQLklZg-CJn.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057779968600625152/pl/hk5UiQC-YHFYTbab.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 6377,
+        "height": 1080,
+        "media_key": "13_2057779968600690688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057779968600690688/img/M83-6IXpT0VOc2Mr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057779968600690688/vid/avc1/480x270/5keUn_FMTZYw-HLP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057779968600690688/vid/avc1/640x360/U3sz07oIVXHMRQcc.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057779968600690688/vid/avc1/1280x720/C_4_07RJtHAN--Cb.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057779968600690688/pl/1Hob1atRyMoTlvPD.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057779968609013760",
+            "13_2057779968600625152",
+            "13_2057779968600690688"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2057780063484150072",
+        "created_at": "2026-05-22T11:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T12:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057780063484150072"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MqNz2j7O5R",
+              "end": 62,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2057780063484150072/video/1",
+              "media_key": "13_2057779968609013760",
+              "start": 39,
+              "url": "https://t.co/MqNz2j7O5R"
+            },
+            {
+              "display_url": "pic.x.com/MqNz2j7O5R",
+              "end": 62,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2057780063484150072/video/1",
+              "media_key": "13_2057779968600625152",
+              "start": 39,
+              "url": "https://t.co/MqNz2j7O5R"
+            },
+            {
+              "display_url": "pic.x.com/MqNz2j7O5R",
+              "end": 62,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2057780063484150072/video/1",
+              "media_key": "13_2057779968600690688",
+              "start": 39,
+              "url": "https://t.co/MqNz2j7O5R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057780063484150072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到广东其他地方都水浸街了,我就在相册翻到去年我这里也水浸街的视频了hhhh https://t.co/MqNz2j7O5R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2055637219847905664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 102,
+          "like_count": 1187,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 749
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066537322108329984"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2066537737680031986",
+    "created_at": "2026-06-15T15:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066537737680031986"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7CPdsdSFQ9",
+          "end": 104,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2066537737680031986/photo/1",
+          "media_key": "3_2066537322108329984",
+          "start": 81,
+          "url": "https://t.co/7CPdsdSFQ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066537737680031986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "30日推歌 DAY 15\n你喜欢的由别的艺术家翻唱的歌\nFarizki,Orfeo - Somebody That I Used to Know - Remix https://t.co/7CPdsdSFQ9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1430,
+        "media_key": "3_2066537322108329984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3QvtdaoAASols.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066537322108329984"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2066537737680031986",
+        "created_at": "2026-06-15T15:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066537737680031986"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7CPdsdSFQ9",
+              "end": 104,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2066537737680031986/photo/1",
+              "media_key": "3_2066537322108329984",
+              "start": 81,
+              "url": "https://t.co/7CPdsdSFQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066537737680031986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "30日推歌 DAY 15\n你喜欢的由别的艺术家翻唱的歌\nFarizki,Orfeo - Somebody That I Used to Know - Remix https://t.co/7CPdsdSFQ9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\nOutrunner • Synth-head\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥 =^▽^=",
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 130,
+          "like_count": 3647,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1583
+        },
+        "username": "Orange_Chr1s",
+        "verified": false
+      }
+    ]
+  }
+}
