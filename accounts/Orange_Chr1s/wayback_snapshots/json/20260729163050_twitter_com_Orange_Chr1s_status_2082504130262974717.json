@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2082492447209517140",
+    "created_at": "2026-07-29T16:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082504130262974717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897592714226753536",
+          "start": 0,
+          "username": "xioboqi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082504130262974717",
+    "in_reply_to_user_id": "1897592714226753536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082492447209517140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xioboqi 麦麦卖麦麦麦麦麦麦麦麦麦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2082492413654994944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZ_0RNaEAAdMMw.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2082492447209517140",
+        "created_at": "2026-07-29T16:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082504130262974717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897592714226753536",
+              "start": 0,
+              "username": "xioboqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082504130262974717",
+        "in_reply_to_user_id": "1897592714226753536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082492447209517140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xioboqi 麦麦卖麦麦麦麦麦麦麦麦麦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082492413654994944"
+          ]
+        },
+        "author_id": "1897592714226753536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082492447209517140",
+        "created_at": "2026-07-29T15:44:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082492447209517140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qt9judjGrV",
+              "end": 27,
+              "expanded_url": "https://x.com/xioboqi/status/2082492447209517140/photo/1",
+              "media_key": "3_2082492413654994944",
+              "start": 4,
+              "url": "https://t.co/Qt9judjGrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082492447209517140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦门🙏 https://t.co/Qt9judjGrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨顺南🍥|| 对我很好的人 @fan_rbq =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 137,
+                "username": "fan_rbq"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 135,
+          "like_count": 5677,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 2045
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T10:19:09.000Z",
+        "description": "",
+        "id": "1897592714226753536",
+        "name": "小波奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897592859827847168/pbG9OsyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 29,
+          "like_count": 2480,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "xioboqi",
+        "verified": false
+      }
+    ]
+  }
+}

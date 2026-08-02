@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2082416058615636311",
+    "created_at": "2026-07-29T11:37:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T12:37:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082430251016331280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927018923649564674",
+          "start": 0,
+          "username": "dddddd10792941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082430251016331280",
+    "in_reply_to_user_id": "1927018923649564674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082416058615636311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddd10792941 不要哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2388,
+        "media_key": "3_2082416002097426432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOY6Uh-bMAA3gvq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2388,
+        "media_key": "3_2082416002160300032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOY6UiNakAAsh1j.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2082416058615636311",
+        "created_at": "2026-07-29T11:37:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:37:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082430251016331280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927018923649564674",
+              "start": 0,
+              "username": "dddddd10792941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082430251016331280",
+        "in_reply_to_user_id": "1927018923649564674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082416058615636311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddd10792941 不要哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082416002097426432",
+            "3_2082416002160300032"
+          ]
+        },
+        "author_id": "1927018923649564674",
+        "conversation_id": "2082416058615636311",
+        "created_at": "2026-07-29T10:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082416058615636311"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uWNVrrHyYx",
+              "end": 32,
+              "expanded_url": "https://x.com/dddddd10792941/status/2082416058615636311/photo/1",
+              "media_key": "3_2082416002097426432",
+              "start": 9,
+              "url": "https://t.co/uWNVrrHyYx"
+            },
+            {
+              "display_url": "pic.x.com/uWNVrrHyYx",
+              "end": 32,
+              "expanded_url": "https://x.com/dddddd10792941/status/2082416058615636311/photo/1",
+              "media_key": "3_2082416002160300032",
+              "start": 9,
+              "url": "https://t.co/uWNVrrHyYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082416058615636311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "或许…有办法了… https://t.co/uWNVrrHyYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Nothing here. || Eng beginner\n🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨🍥|| 对我很好的人 @fan_rbq =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 135,
+                "username": "fan_rbq"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 135,
+          "like_count": 5612,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 2028
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-26T15:08:23.000Z",
+        "description": "一个无建模，无经济，无背景的外道魔像\n马上就死了，互fo过的想取关的我不会拦着的\n不再渴求爱\n希望下辈子变成腿白，身材不胖建模好，声音中性的男生然后穿上女装当男娘\n希望之后会倒在自己的血泊中无人在意\n我讨厌谎言 我这辈子最他妈讨厌的就是他妈的谎言……\n我绝不会原谅背着爱人对外卖身的家伙，一辈子也不会…下辈子也不会原谅！",
+        "id": "1927018923649564674",
+        "location": "红色的“液体床”",
+        "name": "就以死亡来救赎哥布林那“绝望”的心灵吧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082011179296436224/_bdaooXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 197,
+          "like_count": 1376,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 722
+        },
+        "url": "",
+        "username": "dddddd10792941",
+        "verified": false
+      }
+    ]
+  }
+}
