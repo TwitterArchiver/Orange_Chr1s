@@ -1,7 +1,7 @@
 {
   "name": "MysticOrange🌆",
   "username": "@Orange_Chr1s",
-  "bio": "Nothing here. || Eng beginner 🌠The Midnight fan   🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»» 抑郁过.没完全好,休过两年学 ‖ 友跨🍥|| 对我很好的人 @fan_rbq =^▽^=",
+  "bio": "Eng beginner ||🌠The Midnight fan   🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»» 抑郁过.没完全好,休过两年学 ‖ 友跨顺南🍥||  对我很好的人 @fan_rbq  老婆 @chu_00b2 =^▽^=",
   "location": "任何地方",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,9 +10,14 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 143,
-        "start": 135,
+        "end": 131,
+        "start": 123,
         "username": "fan_rbq"
+      },
+      {
+        "end": 145,
+        "start": 136,
+        "username": "chu_00b2"
       }
     ]
   },
