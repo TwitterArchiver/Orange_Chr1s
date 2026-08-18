@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2083935597333238175",
+    "created_at": "2026-08-02T15:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T16:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083936633699909791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045797662478286848",
+          "start": 0,
+          "username": "yuer0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083936633699909791",
+    "in_reply_to_user_id": "2045797662478286848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083935597333238175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuer0721 本来就是可爱的xyn😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2083935597333238175",
+        "created_at": "2026-08-02T15:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083936633699909791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045797662478286848",
+              "start": 0,
+              "username": "yuer0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083936633699909791",
+        "in_reply_to_user_id": "2045797662478286848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083935597333238175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuer0721 本来就是可爱的xyn😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045797662478286848",
+        "conversation_id": "2083935597333238175",
+        "created_at": "2026-08-02T15:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T16:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083935597333238175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuer0721/statu…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/yuer0721/status/2083575597285224959",
+              "start": 71,
+              "url": "https://t.co/b0hIcUgsJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083935597333238175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083575597285224959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有这样高速运转的大脑—\n\n现在，就算我最近拿不到小证\n\n哪怕我不算作跨了\n……\n只要我还有糖，我就永远都是xyn😠😡😡\n\n（小白羽赢麻了😶） https://t.co/b0hIcUgsJJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨顺南🍥|| \n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 135,
+          "like_count": 6415,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 2513
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T09:33:19.000Z",
+        "description": "我可爱的老婆@wu31878 | 喜欢的熊@A_Asystem | 我亲爱的宝宝@picxis63594 | 主人@huihui_mikumi | 大号/梗图号@yuerQwQ | ——这里是小白羽的生活号qwq，无意义的碎碎念将会发布在这里awa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "wu31878"
+              },
+              {
+                "end": 31,
+                "start": 21,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 52,
+                "start": 40,
+                "username": "picxis63594"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "huihui_mikumi"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "2045797662478286848",
+        "location": "最后的思绪",
+        "name": "白羽儿yuer🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2076943618305413348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060940291872546816/_ia-IVk3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 66,
+          "like_count": 376,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 93
+        },
+        "url": "",
+        "username": "yuer0721",
+        "verified": false
+      }
+    ]
+  }
+}

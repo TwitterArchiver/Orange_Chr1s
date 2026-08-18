@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2084394715836023071",
+    "created_at": "2026-08-03T22:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T23:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084407935439081737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1927018923649564674",
+          "start": 0,
+          "username": "dddddd10792941"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084407935439081737",
+    "in_reply_to_user_id": "1927018923649564674",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084394715836023071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dddddd10792941 魔爪魔爪魔爪魔爪魔爪魔爪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2084394698236686336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1B7zga8AATbVt.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2084394715836023071",
+        "created_at": "2026-08-03T22:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T23:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084407935439081737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1927018923649564674",
+              "start": 0,
+              "username": "dddddd10792941"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084407935439081737",
+        "in_reply_to_user_id": "1927018923649564674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084394715836023071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dddddd10792941 魔爪魔爪魔爪魔爪魔爪魔爪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084394698236686336"
+          ]
+        },
+        "author_id": "1927018923649564674",
+        "conversation_id": "2084394715836023071",
+        "created_at": "2026-08-03T21:43:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:43:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084394715836023071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JDO4bBYjxJ",
+              "end": 57,
+              "expanded_url": "https://x.com/dddddd10792941/status/2084394715836023071/photo/1",
+              "media_key": "3_2084394698236686336",
+              "start": 34,
+              "url": "https://t.co/JDO4bBYjxJ"
+            },
+            {
+              "display_url": "x.com/dddddd10792941…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/dddddd10792941/status/2084298367845449779",
+              "start": 58,
+              "url": "https://t.co/sCnpunnlOt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084394715836023071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084298367845449779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我超了这魔爪有力气 想睡觉在床上躺了半天除了太热冒点汗一点困意没有 https://t.co/JDO4bBYjxJ https://t.co/sCnpunnlOt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨顺南🍥|| \n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 139,
+          "like_count": 6522,
+          "listed_count": 0,
+          "media_count": 292,
+          "tweet_count": 2568
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-26T15:08:23.000Z",
+        "description": "一个无建模，无经济，无背景的外道魔像，推上的好宝宝都不要死\n不敢主动去爱了…会有人真心救我爱我吗\n希望下辈子变成腿白，身材不胖建模好，声音中性的男生然后穿上女装当南梁\n疯癫到最后…一朵千疮百孔的空心玫瑰挂在了那个夜晚的绳索\n我这辈子最讨厌的就是他妈的谎言\n绝不会原谅背着爱人对外卖身的家伙，一辈子也不会…下辈子也不会原谅",
+        "id": "1927018923649564674",
+        "location": "红色的“液体床”",
+        "name": "疯掉的哥布林渴望真心实意的钥匙解开内心的小孩",
+        "pinned_tweet_id": "2083126388782166465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082011179296436224/_bdaooXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 209,
+          "like_count": 1463,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 776
+        },
+        "url": "",
+        "username": "dddddd10792941",
+        "verified": false
+      }
+    ]
+  }
+}

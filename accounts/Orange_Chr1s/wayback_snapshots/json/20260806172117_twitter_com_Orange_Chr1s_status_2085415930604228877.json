@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085415890607394816"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085415930604228877",
+    "created_at": "2026-08-06T17:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T18:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085415930604228877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/95o6g2damS",
+          "end": 38,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2085415930604228877/photo/1",
+          "media_key": "3_2085415890607394816",
+          "start": 15,
+          "url": "https://t.co/95o6g2damS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085415930604228877",
+    "lang": "no",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "prprprprprprpr https://t.co/95o6g2damS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2460,
+        "media_key": "3_2085415890607394816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDitBib0AANtNJ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085415890607394816"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085415930604228877",
+        "created_at": "2026-08-06T17:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T18:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085415930604228877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/95o6g2damS",
+              "end": 38,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2085415930604228877/photo/1",
+              "media_key": "3_2085415890607394816",
+              "start": 15,
+              "url": "https://t.co/95o6g2damS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085415930604228877",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "prprprprprprpr https://t.co/95o6g2damS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨顺南🍥|| \n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 142,
+          "like_count": 6753,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 2698
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true
+      }
+    ]
+  }
+}

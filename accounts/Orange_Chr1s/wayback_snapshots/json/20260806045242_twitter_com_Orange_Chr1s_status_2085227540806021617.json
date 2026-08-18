@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2085218720235061389",
+    "created_at": "2026-08-06T04:52:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085227540806021617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2034972955294539781",
+          "start": 0,
+          "username": "FliexLanPACZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085227540806021617",
+    "in_reply_to_user_id": "2034972955294539781",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085218720235061389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FliexLanPACZ 被ghost ban了🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085218706393874432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAvXZGbQAA-p-l.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085218705362006016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAvXVQaMAAnBIb.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085218705861206016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAvXXHbYAA-D1D.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2085218720235061389",
+        "created_at": "2026-08-06T04:52:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085227540806021617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2034972955294539781",
+              "start": 0,
+              "username": "FliexLanPACZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085227540806021617",
+        "in_reply_to_user_id": "2034972955294539781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085218720235061389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FliexLanPACZ 被ghost ban了🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085218706393874432",
+            "3_2085218705362006016",
+            "3_2085218705861206016"
+          ]
+        },
+        "author_id": "2034972955294539781",
+        "conversation_id": "2085218720235061389",
+        "created_at": "2026-08-06T04:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085218720235061389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X63sG7JOS1",
+              "end": 158,
+              "expanded_url": "https://x.com/FliexLanPACZ/status/2085218720235061389/photo/1",
+              "media_key": "3_2085218706393874432",
+              "start": 135,
+              "url": "https://t.co/X63sG7JOS1"
+            },
+            {
+              "display_url": "pic.x.com/X63sG7JOS1",
+              "end": 158,
+              "expanded_url": "https://x.com/FliexLanPACZ/status/2085218720235061389/photo/1",
+              "media_key": "3_2085218705362006016",
+              "start": 135,
+              "url": "https://t.co/X63sG7JOS1"
+            },
+            {
+              "display_url": "pic.x.com/X63sG7JOS1",
+              "end": 158,
+              "expanded_url": "https://x.com/FliexLanPACZ/status/2085218720235061389/photo/1",
+              "media_key": "3_2085218705861206016",
+              "start": 135,
+              "url": "https://t.co/X63sG7JOS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085218720235061389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emmmmm，x的吞评论有点过分了，如图一我在我的小号所查看的帖子界面并无评论。如图二，我的评论在我查看图一所示界面的时候已经发送，如图三我的评论在发送之后直接从原帖的评论区消失，如此可以证明推特的吞评论机制是发送后几秒内如不出现即视为吞评论（不严谨测试，可能出误差） https://t.co/X63sG7JOS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨顺南🍥|| \n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 141,
+          "like_count": 6681,
+          "listed_count": 0,
+          "media_count": 309,
+          "tweet_count": 2653
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-20T12:39:05.000Z",
+        "description": "是空二澜雨丫「そらじ らんう（soraji ran’u）」异瞳（右眼白色，左眼红色）喜欢打游戏 梦想是当鼓手，失忆症双向情感障碍/中度抑郁，PTSD无性别主义者，友人@qianye_zhenyu名片画师\n@e01i3UStwnQjtSd\n可以在我的ngl问一些我接受说问题喵\n\n豪猫大人！rua！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "qianye_zhenyu"
+              },
+              {
+                "end": 118,
+                "start": 102,
+                "username": "e01i3UStwnQjtSd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fliexlanpacz1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fliexlanpacz1",
+                "start": 0,
+                "url": "https://t.co/W8j3YsHtZQ"
+              }
+            ]
+          }
+        },
+        "id": "2034972955294539781",
+        "location": "Kanagawa-ken, Japan",
+        "name": "空二澜雨FliexRunVso-Lan🌈📎",
+        "pinned_tweet_id": "2083210127457579194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053506570215202816/-j8XON6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 295,
+          "like_count": 952,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1194
+        },
+        "url": "https://t.co/W8j3YsHtZQ",
+        "username": "FliexLanPACZ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085748821267746817"
+      ],
+      "media_source_tweet_id": [
+        "2085749032799109132"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085749111366762705",
+    "created_at": "2026-08-07T15:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085749111366762705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1426079620906975232",
+          "start": 3,
+          "username": "fan_rbq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5rXYuVLMT8",
+          "end": 44,
+          "expanded_url": "https://x.com/fan_rbq/status/2085749032799109132/photo/1",
+          "media_key": "3_2085748821267746817",
+          "start": 21,
+          "url": "https://t.co/5rXYuVLMT8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085749111366762705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085749032799109132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fan_rbq: 偷拍作战成功~ https://t.co/5rXYuVLMT8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2085748821267746817",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIRgI5akAEZ_jz.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085748821267746817"
+          ]
+        },
+        "author_id": "1426079620906975232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085749032799109132",
+        "created_at": "2026-08-07T15:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085749032799109132"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rXYuVLMT8",
+              "end": 31,
+              "expanded_url": "https://x.com/fan_rbq/status/2085749032799109132/photo/1",
+              "media_key": "3_2085748821267746817",
+              "start": 8,
+              "url": "https://t.co/5rXYuVLMT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085749032799109132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "偷拍作战成功~ https://t.co/5rXYuVLMT8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085748821267746817"
+          ],
+          "media_source_tweet_id": [
+            "2085749032799109132"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085749111366762705",
+        "created_at": "2026-08-07T15:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085749111366762705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1426079620906975232",
+              "start": 3,
+              "username": "fan_rbq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5rXYuVLMT8",
+              "end": 44,
+              "expanded_url": "https://x.com/fan_rbq/status/2085749032799109132/photo/1",
+              "media_key": "3_2085748821267746817",
+              "start": 21,
+              "url": "https://t.co/5rXYuVLMT8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085749111366762705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085749032799109132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fan_rbq: 偷拍作战成功~ https://t.co/5rXYuVLMT8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||🌠The Midnight fan \n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese || 广东 »»»\n抑郁过.没完全好,休过两年学 ‖ 友跨顺南🍥|| \n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 123,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 145,
+                "start": 136,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "location": "任何地方",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 143,
+          "like_count": 6860,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 2756
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  不🔪  od   infp  想发啥发啥👿  有一丢丢负能量 碎碎念",
+        "id": "1426079620906975232",
+        "location": "哦齁齁齁齁齁齁",
+        "name": "饭🍥",
+        "pinned_tweet_id": "2084163751637619013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 160,
+          "like_count": 2330,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 911
+        },
+        "url": "",
+        "username": "fan_rbq",
+        "verified": true
+      }
+    ]
+  }
+}
