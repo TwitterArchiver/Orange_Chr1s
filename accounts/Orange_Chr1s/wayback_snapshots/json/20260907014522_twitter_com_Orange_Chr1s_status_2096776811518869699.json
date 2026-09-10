@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2096741352134574135",
+    "created_at": "2026-09-07T01:45:22.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:45:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096776811518869699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2066758908233027584",
+          "start": 0,
+          "username": "a_username_owo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096776811518869699",
+    "in_reply_to_user_id": "2066758908233027584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096771656379486602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_username_owo 早~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2096741352134574135",
+        "created_at": "2026-09-07T01:45:22.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096776811518869699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2066758908233027584",
+              "start": 0,
+              "username": "a_username_owo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096776811518869699",
+        "in_reply_to_user_id": "2066758908233027584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096771656379486602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_username_owo 早~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066758908233027584",
+        "conversation_id": "2096741352134574135",
+        "created_at": "2026-09-07T01:24:53.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096771656379486602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096771656379486602",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096741352134574135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 早~上~好~喵～"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 od ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2096776811518869699",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 164,
+          "like_count": 9909,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 3881
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T05:45:35.000Z",
+        "description": "主人喵：@BlueBird54539 （@djx00919）\n哥哥喵：@LinQi_AWA （不是親哥喵）\n對象喵：@",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 4,
+                "username": "BlueBird54539"
+              },
+              {
+                "end": 29,
+                "start": 20,
+                "username": "djx00919"
+              },
+              {
+                "end": 45,
+                "start": 35,
+                "username": "LinQi_AWA"
+              }
+            ]
+          }
+        },
+        "id": "2066758908233027584",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096776490885304381",
+        "name": "可愛的小男孩",
+        "pinned_tweet_id": "2093057659893387775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066758908233027584/1786120525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084977115293003776/BXHR2rR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 135,
+          "like_count": 24584,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2171
+        },
+        "url": "",
+        "username": "a_username_owo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

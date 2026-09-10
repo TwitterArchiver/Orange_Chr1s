@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090222362608484353"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090223361494548636",
+    "created_at": "2026-08-19T23:44:18.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T00:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090223361494548636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FHJeIyB6Ty",
+          "end": 134,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2090223361494548636/photo/1",
+          "media_key": "3_2090222362608484353",
+          "start": 111,
+          "url": "https://t.co/FHJeIyB6Ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090223361494548636",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090222362608484353"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喵喵喵！喝Mon3tr！🥰\n还有3瓶酒！\n虽然我觉得大早上喝酒不好啦？\n买都买了🤔\n便利店老板还给我递了根烟！\n然后刚刚下楼去移车的时候原来没有放手刹！！！\n我以为我放了手刹\n我移完位置了才发现我顶着手刹开了一会🥺！！！ https://t.co/FHJeIyB6Ty"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 919,
+        "media_key": "3_2090222362608484353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQH2KhDbQAEPqq3.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090222362608484353"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090223361494548636",
+        "created_at": "2026-08-19T23:44:18.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T00:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090223361494548636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FHJeIyB6Ty",
+              "end": 134,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2090223361494548636/photo/1",
+              "media_key": "3_2090222362608484353",
+              "start": 111,
+              "url": "https://t.co/FHJeIyB6Ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090223361494548636",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090222362608484353"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喵喵喵！喝Mon3tr！🥰\n还有3瓶酒！\n虽然我觉得大早上喝酒不好啦？\n买都买了🤔\n便利店老板还给我递了根烟！\n然后刚刚下楼去移车的时候原来没有放手刹！！！\n我以为我放了手刹\n我移完位置了才发现我顶着手刹开了一会🥺！！！ https://t.co/FHJeIyB6Ty"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||🌠The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 抑郁 od ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 126,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 148,
+                "start": 139,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2090223361494548636",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 154,
+          "like_count": 8369,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 3443
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

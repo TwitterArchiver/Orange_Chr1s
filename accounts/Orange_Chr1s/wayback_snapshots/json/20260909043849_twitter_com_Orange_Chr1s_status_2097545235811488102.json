@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097545226336473088"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2097495648123908281",
+    "created_at": "2026-09-09T04:38:49.000Z",
+    "display_text_range": [
+      16,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T05:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097545235811488102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083649484962361345",
+          "start": 0,
+          "username": "y30105"
+        },
+        {
+          "end": 16,
+          "id": "1426079620906975232",
+          "start": 8,
+          "username": "fan_rbq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/viBAbw9BOe",
+          "end": 40,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2097545235811488102/photo/1",
+          "media_key": "3_2097545226336473088",
+          "start": 17,
+          "url": "https://t.co/viBAbw9BOe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097545235811488102",
+    "in_reply_to_user_id": "2083649484962361345",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2097545226336473088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097544040858161297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y30105 @fan_rbq https://t.co/viBAbw9BOe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2097545226336473088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRv6RSQaEAAOo4P.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097545226336473088"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2097495648123908281",
+        "created_at": "2026-09-09T04:38:49.000Z",
+        "display_text_range": [
+          16,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097545235811488102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083649484962361345",
+              "start": 0,
+              "username": "y30105"
+            },
+            {
+              "end": 16,
+              "id": "1426079620906975232",
+              "start": 8,
+              "username": "fan_rbq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/viBAbw9BOe",
+              "end": 40,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2097545235811488102/photo/1",
+              "media_key": "3_2097545226336473088",
+              "start": 17,
+              "url": "https://t.co/viBAbw9BOe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097545235811488102",
+        "in_reply_to_user_id": "2083649484962361345",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2097545226336473088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097544040858161297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y30105 @fan_rbq https://t.co/viBAbw9BOe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083649484962361345",
+        "conversation_id": "2097495648123908281",
+        "created_at": "2026-09-09T04:34:04.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097544040858161297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426079620906975232",
+              "start": 0,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097544040858161297",
+        "in_reply_to_user_id": "1426079620906975232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097495648123908281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_rbq 我靠..今天我跟你喝一樣的..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 od ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2097545235811488102",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 164,
+          "like_count": 10106,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 3949
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T20:23:35.000Z",
+        "description": "你看什么看~我才不可爱！\n\n導演頻道👉🏻@wanliyan3\n\n@qian67068 你個病嬌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "wanliyan3"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "qian67068"
+              }
+            ]
+          }
+        },
+        "id": "2083649484962361345",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2097544638257406223",
+        "name": "拿鐵組長🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083649484962361345/1788559707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095998298876416000/svvEfe9I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 164,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "y30105",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  不🔪  od   infp  想发啥发啥👿  有一丢丢负能量 碎碎念",
+        "id": "1426079620906975232",
+        "is_identity_verified": false,
+        "location": "哦齁齁齁齁齁齁",
+        "most_recent_tweet_id": "2097507890731106503",
+        "name": "饭🍥",
+        "pinned_tweet_id": "2084163751637619013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426079620906975232/1745597548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 176,
+          "like_count": 3091,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 1175
+        },
+        "url": "",
+        "username": "fan_rbq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2096739334426927110",
+    "created_at": "2026-09-06T23:16:27.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T00:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096739334426927110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1942136939735560192",
+          "start": 3,
+          "username": "noonecomes_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096739334426927110",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096625702892458462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noonecomes_qwq: 我决定策划一场位于2027.5.1的盛大离场"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2096739334426927110",
+        "created_at": "2026-09-06T23:16:27.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T00:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096739334426927110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1942136939735560192",
+              "start": 3,
+              "username": "noonecomes_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096739334426927110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096625702892458462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noonecomes_qwq: 我决定策划一场位于2027.5.1的盛大离场"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942136939735560192",
+        "conversation_id": "2096625702892458462",
+        "created_at": "2026-09-06T15:44:55.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096625702892458462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096625702892458462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我决定策划一场位于2027.5.1的盛大离场"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 od ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2096739334426927110",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 163,
+          "like_count": 9930,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 3877
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T08:21:59.000Z",
+        "description": "transgirl/enby | 泛性恋 | 08 18th Sep - 27 1st May | 跨物种企鹅（持有南极洲护照）|  INFP |  ADHD  | バカ | 普通话/胶辽官话 | 荒诞主义  |  \n“我的痛苦不断在反复，生命就是硬走下这一条血路”\n“自由意志永远神圣不容侵犯”",
+        "id": "1942136939735560192",
+        "is_identity_verified": false,
+        "location": "未实现的心愿",
+        "most_recent_tweet_id": "2096665764015296919",
+        "name": "NOCs🏳️‍⚧️NoOneComes🍥",
+        "pinned_tweet_id": "2062132531491930435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942136939735560192/1786375054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086729958907645952/VN6Q9eKg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 397,
+          "like_count": 585,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 624
+        },
+        "url": "",
+        "username": "noonecomes_qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2095030674021569011",
+    "created_at": "2026-09-02T06:06:51.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T07:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095030674021569011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Orange_Chr1s/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Orange_Chr1s/status/2094752793034944825",
+          "start": 20,
+          "url": "https://t.co/E2rrFtPNmK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095030674021569011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094752793034944825",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要出去\n我要出去\n我要出去\n我要出去 https://t.co/E2rrFtPNmK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 92,
+        "media_key": "3_2094752172982550528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIOALsaQAAsvl0.png",
+        "width": 309
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2095030674021569011",
+        "created_at": "2026-09-02T06:06:51.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095030674021569011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Orange_Chr1s/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Orange_Chr1s/status/2094752793034944825",
+              "start": 20,
+              "url": "https://t.co/E2rrFtPNmK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095030674021569011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094752793034944825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要出去\n我要出去\n我要出去\n我要出去 https://t.co/E2rrFtPNmK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094752172982550528"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2094752793034944825",
+        "created_at": "2026-09-01T11:42:39.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094752793034944825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohc4EAfCI1",
+              "end": 169,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2094752793034944825/photo/1",
+              "media_key": "3_2094752172982550528",
+              "start": 146,
+              "url": "https://t.co/ohc4EAfCI1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094752793034944825",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094752172982550528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "操你妈老子要出院\n一个星期用了1w多\n操你妈真他妈烦\n\nMD老子抽烟就在楼下多呆了会\n上来有个男护工在这说我们\n说你们看都过了多长时间了还按按按按那个门铃\n然后我刚好看了花了多少钱又不爽\n我跟他讲那怎样\n反正老子过阵子出院了\n然后那叼毛还在那说\n我就说 他妈的我又不是没给钱\n然后他就收声了\n\n操你妈的老子要出院 操你妈"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 691,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈老子要出院\n一个星期用了1w多\n操你妈真他妈烦\n\nMD老子抽烟就在楼下多呆了会\n上来有个男护工在这说我们\n说你们看都过了多长时间了还按按按按那个门铃\n然后我刚好看了花了多少钱又不爽\n我跟他讲那怎样\n反正老子过阵子出院了\n然后那叼毛还在那说\n我就说 他妈的我又不是没给钱\n然后他就收声了 https://t.co/ohc4EAfCI1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 od ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2095030674021569011",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 161,
+          "like_count": 9579,
+          "listed_count": 0,
+          "media_count": 365,
+          "tweet_count": 3787
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

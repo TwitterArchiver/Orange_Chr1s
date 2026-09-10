@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097468145212731392"
+      ]
+    },
+    "author_id": "1545782617240653825",
+    "conversation_id": "2097123999193108742",
+    "created_at": "2026-09-08T23:32:31.000Z",
+    "display_text_range": [
+      7,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T00:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097468154381508687"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083649484962361345",
+          "start": 0,
+          "username": "y30105"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/viOfseeodp",
+          "end": 31,
+          "expanded_url": "https://x.com/Orange_Chr1s/status/2097468154381508687/photo/1",
+          "media_key": "3_2097468145212731392",
+          "start": 8,
+          "url": "https://t.co/viOfseeodp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097468154381508687",
+    "in_reply_to_user_id": "2083649484962361345",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2097468145212731392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097366048035283294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y30105 https://t.co/viOfseeodp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 650,
+        "media_key": "3_2097468145212731392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRu0KksaMAAoEuE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097468145212731392"
+          ]
+        },
+        "author_id": "1545782617240653825",
+        "conversation_id": "2097123999193108742",
+        "created_at": "2026-09-08T23:32:31.000Z",
+        "display_text_range": [
+          7,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T00:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097468154381508687"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083649484962361345",
+              "start": 0,
+              "username": "y30105"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/viOfseeodp",
+              "end": 31,
+              "expanded_url": "https://x.com/Orange_Chr1s/status/2097468154381508687/photo/1",
+              "media_key": "3_2097468145212731392",
+              "start": 8,
+              "url": "https://t.co/viOfseeodp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097468154381508687",
+        "in_reply_to_user_id": "2083649484962361345",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2097468145212731392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097366048035283294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y30105 https://t.co/viOfseeodp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083649484962361345",
+        "conversation_id": "2097123999193108742",
+        "created_at": "2026-09-08T16:46:47.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097366048035283294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097366048035283294",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097352184073699524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 我有這樣說過🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 od ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2097468154381508687",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 164,
+          "like_count": 10070,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 3942
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T20:23:35.000Z",
+        "description": "你看什么看~我才不可爱！\n\n導演頻道👉🏻@wanliyan3\n\n@qian67068 你個病嬌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "wanliyan3"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "username": "qian67068"
+              }
+            ]
+          }
+        },
+        "id": "2083649484962361345",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2097383018881253478",
+        "name": "拿鐵組長🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083649484962361345/1788559707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095998298876416000/svvEfe9I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 163,
+          "like_count": 406,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 311
+        },
+        "url": "",
+        "username": "y30105",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

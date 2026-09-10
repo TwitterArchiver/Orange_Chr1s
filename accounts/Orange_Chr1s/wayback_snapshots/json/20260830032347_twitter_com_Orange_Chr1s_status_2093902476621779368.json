@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2093892616693882956",
+    "created_at": "2026-08-30T03:23:47.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T04:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093902476621779368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938537315586244608",
+          "start": 0,
+          "username": "ruoruoruoMing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093902476621779368",
+    "in_reply_to_user_id": "1938537315586244608",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093892616693882956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ruoruoruoMing 好喵好喵！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2093892607256764416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8AO31bIAA6ND2.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2093892607214784512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8AO3rakAAv-1R.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093892607256711169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8AO31aUAESCYv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2093892616693882956",
+        "created_at": "2026-08-30T03:23:47.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093902476621779368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938537315586244608",
+              "start": 0,
+              "username": "ruoruoruoMing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093902476621779368",
+        "in_reply_to_user_id": "1938537315586244608",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093892616693882956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ruoruoruoMing 好喵好喵！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093892607256764416",
+            "3_2093892607214784512",
+            "3_2093892607256711169"
+          ]
+        },
+        "author_id": "1938537315586244608",
+        "conversation_id": "2093892616693882956",
+        "created_at": "2026-08-30T02:44:37.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T03:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093892616693882956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wi6LxEtpkG",
+              "end": 33,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2093892616693882956/photo/1",
+              "media_key": "3_2093892607256764416",
+              "start": 10,
+              "url": "https://t.co/Wi6LxEtpkG"
+            },
+            {
+              "display_url": "pic.x.com/Wi6LxEtpkG",
+              "end": 33,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2093892616693882956/photo/1",
+              "media_key": "3_2093892607214784512",
+              "start": 10,
+              "url": "https://t.co/Wi6LxEtpkG"
+            },
+            {
+              "display_url": "pic.x.com/Wi6LxEtpkG",
+              "end": 33,
+              "expanded_url": "https://x.com/ruoruoruoMing/status/2093892616693882956/photo/1",
+              "media_key": "3_2093892607256711169",
+              "start": 10,
+              "url": "https://t.co/Wi6LxEtpkG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093892616693882956",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093892607256764416"
+          },
+          {
+            "media_key": "3_2093892607214784512"
+          },
+          {
+            "media_key": "3_2093892607256711169"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "高 级 四 人 寝 https://t.co/Wi6LxEtpkG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 od ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2093902476621779368",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 161,
+          "like_count": 9365,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 3723
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "GDUT|INFP|十分社恐|交通迷|F1梅奔+法拉利粉|音游|天际线\nmtx?|🏳️‍⚧️友跨|含糖🍥\n互fo喵\n另一个号@feng_sulfone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 62,
+                "username": "feng_sulfone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo_ming",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo_ming",
+                "start": 0,
+                "url": "https://t.co/1YBPxsvHb8"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "is_identity_verified": false,
+        "location": "广州/天津",
+        "most_recent_tweet_id": "2093892616693882956",
+        "name": "ruo_Ming",
+        "pinned_tweet_id": "2090021250399965331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938537315586244608/1772355120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 959,
+          "like_count": 5471,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1699
+        },
+        "url": "https://t.co/1YBPxsvHb8",
+        "username": "ruoruoruoMing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

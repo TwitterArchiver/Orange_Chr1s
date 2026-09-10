@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2093204931654103358",
+    "created_at": "2026-08-28T05:14:25.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T06:14:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093205540117926132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2088281025604616192",
+          "start": 0,
+          "username": "XunyuX74232"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093205540117926132",
+    "in_reply_to_user_id": "2088281025604616192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093204931654103358",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XunyuX74232 下午好~"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2093204931654103358].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2093204931654103358",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2093204931654103358"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2093204931654103358",
+        "created_at": "2026-08-28T05:14:25.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093205540117926132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2088281025604616192",
+              "start": 0,
+              "username": "XunyuX74232"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093205540117926132",
+        "in_reply_to_user_id": "2088281025604616192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093204931654103358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XunyuX74232 下午好~"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 od ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2093205540117926132",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 161,
+          "like_count": 9179,
+          "listed_count": 0,
+          "media_count": 357,
+          "tweet_count": 3681
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T15:11:27.000Z",
+        "description": "你好，这里是迅羽。交个朋友，如何？\n2008.01生人 | 友跨🏳️‍⚧️ | 不聊政治 | 学习公共写作 | 试图找回自己的声音(哪个?) | 戏谑但有时会过头 | 生活+评论 | 飞猪！|",
+        "id": "2088281025604616192",
+        "is_identity_verified": false,
+        "location": "猜猜看？",
+        "most_recent_tweet_id": "2092472344854106616",
+        "name": "迅羽—Xunyu",
+        "pinned_tweet_id": "2088534942905139671",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088281025604616192/1786722474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092472583933636609/lauKDrRF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 485,
+          "like_count": 2897,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1867
+        },
+        "url": "",
+        "username": "XunyuX74232",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

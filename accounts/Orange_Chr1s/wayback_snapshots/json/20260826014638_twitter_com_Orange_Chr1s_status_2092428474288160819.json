@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2092428135782564200",
+    "created_at": "2026-08-26T01:46:38.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T02:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092428474288160819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045797662478286848",
+          "start": 0,
+          "username": "yuer0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092428474288160819",
+    "in_reply_to_user_id": "2045797662478286848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092428135782564200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuer0721 好多好多好多"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092428059291140096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnMO9gbwAAqQcp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092428059324620800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnMO9oaoAAXfPf.jpg",
+        "width": 1628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2092428135782564200",
+        "created_at": "2026-08-26T01:46:38.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092428474288160819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045797662478286848",
+              "start": 0,
+              "username": "yuer0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092428474288160819",
+        "in_reply_to_user_id": "2045797662478286848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092428135782564200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuer0721 好多好多好多"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092428059291140096",
+            "3_2092428059324620800"
+          ]
+        },
+        "author_id": "2045797662478286848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092428135782564200",
+        "created_at": "2026-08-26T01:45:17.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092428135782564200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YcFK2LYpAr",
+              "end": 36,
+              "expanded_url": "https://x.com/yuer0721/status/2092428135782564200/photo/1",
+              "media_key": "3_2092428059291140096",
+              "start": 13,
+              "url": "https://t.co/YcFK2LYpAr"
+            },
+            {
+              "display_url": "pic.x.com/YcFK2LYpAr",
+              "end": 36,
+              "expanded_url": "https://x.com/yuer0721/status/2092428135782564200/photo/1",
+              "media_key": "3_2092428059324620800",
+              "start": 13,
+              "url": "https://t.co/YcFK2LYpAr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092428135782564200",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092428059291140096"
+          },
+          {
+            "media_key": "3_2092428059324620800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多好多的补佳乐~\n🤤🤤 https://t.co/YcFK2LYpAr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 od ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2092428474288160819",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 161,
+          "like_count": 9065,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 3667
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-19T09:33:19.000Z",
+        "description": "18岁 | 新生：2026.4.17丨情感冷淡丨ADHD丨请你远离我，你会被我伤到的……",
+        "id": "2045797662478286848",
+        "is_identity_verified": false,
+        "location": "最后的思绪",
+        "most_recent_tweet_id": "2092428135782564200",
+        "name": "轻羽 yuer",
+        "pinned_tweet_id": "2089451564415234509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045797662478286848/1776594410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088786738483539968/pwoKzMxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 159,
+          "like_count": 804,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "yuer0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
