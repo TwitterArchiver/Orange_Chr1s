@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2102781558104936952",
+    "created_at": "2026-09-24T00:02:49.000Z",
+    "display_text_range": [
+      11,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T01:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102911597211742691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1512456859776851972",
+          "start": 0,
+          "username": "wanliyan3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102911597211742691",
+    "in_reply_to_user_id": "1512456859776851972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102910874994545063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanliyan3 你的表演像个小丑一样自顾自的在没人看的马戏团里扭曲舞动🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2102781558104936952",
+        "created_at": "2026-09-24T00:02:49.000Z",
+        "display_text_range": [
+          11,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T01:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102911597211742691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1512456859776851972",
+              "start": 0,
+              "username": "wanliyan3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102911597211742691",
+        "in_reply_to_user_id": "1512456859776851972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102910874994545063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanliyan3 你的表演像个小丑一样自顾自的在没人看的马戏团里扭曲舞动🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512456859776851972",
+        "conversation_id": "2102781558104936952",
+        "created_at": "2026-09-23T23:59:57.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T00:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102910874994545063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1545782617240653825",
+              "start": 0,
+              "username": "Orange_Chr1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102910874994545063",
+        "in_reply_to_user_id": "1545782617240653825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102910748280406054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orange_Chr1s 看我接下來的表演唄"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 OD ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2102911597211742691",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 162,
+          "like_count": 10703,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 4095
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "這裡是組長拿鐵",
+        "id": "1512456859776851972",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2102910874994545063",
+        "name": "拿铁🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512456859776851972/1785590479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098415298408017920/C1BSicbH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 511,
+          "like_count": 2223,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 1689
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

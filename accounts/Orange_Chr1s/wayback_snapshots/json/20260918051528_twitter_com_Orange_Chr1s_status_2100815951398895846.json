@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2100804668335194555",
+    "created_at": "2026-09-18T05:15:28.000Z",
+    "display_text_range": [
+      16,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T06:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100815951398895846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1414259680612818951",
+          "start": 0,
+          "username": "RainEngine2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100815951398895846",
+    "in_reply_to_user_id": "1414259680612818951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100804668335194555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RainEngine2021 叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2100804655307706368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSeOtBYaUAAKxWn.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2100804668335194555",
+        "created_at": "2026-09-18T05:15:28.000Z",
+        "display_text_range": [
+          16,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T06:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100815951398895846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1414259680612818951",
+              "start": 0,
+              "username": "RainEngine2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100815951398895846",
+        "in_reply_to_user_id": "1414259680612818951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100804668335194555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainEngine2021 叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧叉烧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100804655307706368"
+          ]
+        },
+        "author_id": "1414259680612818951",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100804668335194555",
+        "created_at": "2026-09-18T04:30:38.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100804668335194555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/syWG49YDsv",
+              "end": 27,
+              "expanded_url": "https://x.com/RainEngine2021/status/2100804668335194555/photo/1",
+              "media_key": "3_2100804655307706368",
+              "start": 4,
+              "url": "https://t.co/syWG49YDsv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100804668335194555",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100804655307706368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "叉烧饭 https://t.co/syWG49YDsv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 124,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2100815951398895846",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 163,
+          "like_count": 10426,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 4039
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-11T16:26:11.000Z",
+        "description": "雨擎项目组设计总监/小米合作伙伴/07年小朋友/Dancing Line饭制作者/貌似不是学生/来自广东东莞/喜欢拍照记录生活/喜欢折腾数码产品/永远相信美好的事情即将发生/很高兴认识大家/欢迎互fo",
+        "id": "1414259680612818951",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100810786558169511",
+        "name": "她说话一股孩子气",
+        "pinned_tweet_id": "2097398579115765985",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414259680612818951/1789238274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100767177762852865/QKMQ8SqQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 679,
+          "following_count": 279,
+          "like_count": 3219,
+          "listed_count": 3,
+          "media_count": 124,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "RainEngine2021",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

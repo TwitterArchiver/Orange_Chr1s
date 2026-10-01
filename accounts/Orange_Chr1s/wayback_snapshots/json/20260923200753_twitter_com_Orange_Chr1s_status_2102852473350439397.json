@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2102781558104936952",
+    "created_at": "2026-09-23T20:07:53.000Z",
+    "display_text_range": [
+      20,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T21:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102852473350439397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1512456859776851972",
+          "start": 0,
+          "username": "wanliyan3"
+        },
+        {
+          "end": 19,
+          "id": "1426079620906975232",
+          "start": 11,
+          "username": "fan_rbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102852473350439397",
+    "in_reply_to_user_id": "1512456859776851972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102785072667734397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wanliyan3 @fan_rbq 关你p事？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2102781558104936952",
+        "created_at": "2026-09-23T20:07:53.000Z",
+        "display_text_range": [
+          20,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T21:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102852473350439397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1512456859776851972",
+              "start": 0,
+              "username": "wanliyan3"
+            },
+            {
+              "end": 19,
+              "id": "1426079620906975232",
+              "start": 11,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102852473350439397",
+        "in_reply_to_user_id": "1512456859776851972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102785072667734397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wanliyan3 @fan_rbq 关你p事？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512456859776851972",
+        "conversation_id": "2102781558104936952",
+        "created_at": "2026-09-23T15:40:03.000Z",
+        "display_text_range": [
+          9,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102785072667734397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426079620906975232",
+              "start": 0,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102785072667734397",
+        "in_reply_to_user_id": "1426079620906975232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102784668382933298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_rbq 你就不要明天又繼續發割手的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 OD ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2102852473350439397",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 162,
+          "like_count": 10672,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 4083
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-08T15:48:30.000Z",
+        "description": "這裡是組長拿鐵",
+        "id": "1512456859776851972",
+        "is_identity_verified": false,
+        "location": "高雄",
+        "most_recent_tweet_id": "2102828825436737924",
+        "name": "拿铁🇹🇼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512456859776851972/1785590479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098415298408017920/C1BSicbH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 514,
+          "like_count": 2215,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 1682
+        },
+        "url": "",
+        "username": "wanliyan3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  不🔪  od   infp  想发啥发啥👿  有一丢丢负能量 碎碎念",
+        "id": "1426079620906975232",
+        "is_identity_verified": false,
+        "location": "哦齁齁齁齁齁齁",
+        "most_recent_tweet_id": "2102784668382933298",
+        "name": "饭🍥",
+        "pinned_tweet_id": "2084163751637619013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426079620906975232/1745597548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 181,
+          "like_count": 3362,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1298
+        },
+        "url": "",
+        "username": "fan_rbq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2104147168382882234",
+    "created_at": "2026-09-27T10:01:53.000Z",
+    "display_text_range": [
+      9,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T11:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104149518216565201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1426079620906975232",
+          "start": 0,
+          "username": "fan_rbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104149518216565201",
+    "in_reply_to_user_id": "1426079620906975232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104147168382882234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fan_rbq 依旧makeup"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2104147155879665664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNusKVbIAAUEiZ.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2104147168382882234",
+        "created_at": "2026-09-27T10:01:53.000Z",
+        "display_text_range": [
+          9,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104149518216565201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1426079620906975232",
+              "start": 0,
+              "username": "fan_rbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104149518216565201",
+        "in_reply_to_user_id": "1426079620906975232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104147168382882234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fan_rbq 依旧makeup"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104147155879665664"
+          ]
+        },
+        "author_id": "1426079620906975232",
+        "conversation_id": "2104147168382882234",
+        "created_at": "2026-09-27T09:52:32.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:52:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104147168382882234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJWg0AUReD",
+              "end": 35,
+              "expanded_url": "https://x.com/fan_rbq/status/2104147168382882234/photo/1",
+              "media_key": "3_2104147155879665664",
+              "start": 12,
+              "url": "https://t.co/EJWg0AUReD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104147168382882234",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104147155879665664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "sfx make up https://t.co/EJWg0AUReD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 OD ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 149,
+                "start": 140,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2104149518216565201",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 164,
+          "like_count": 10910,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 4135
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  不🔪  od   infp  想发啥发啥👿  有一丢丢负能量 碎碎念",
+        "id": "1426079620906975232",
+        "is_identity_verified": false,
+        "location": "哦齁齁齁齁齁齁",
+        "most_recent_tweet_id": "2104147168382882234",
+        "name": "饭🍥",
+        "pinned_tweet_id": "2084163751637619013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426079620906975232/1745597548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 181,
+          "like_count": 3398,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1316
+        },
+        "url": "",
+        "username": "fan_rbq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1545782617240653825",
+    "conversation_id": "2100745072132460929",
+    "created_at": "2026-09-18T00:33:49.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T01:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100745072132460929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fan_rbq/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/fan_rbq/status/2100743485364322671",
+          "start": 14,
+          "url": "https://t.co/uI1vBAM0Pn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100745072132460929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100743485364322671",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "麦麦麦麦麦麦麦麦麦麦麦麦麦 https://t.co/uI1vBAM0Pn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2100743472986882048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdXDveagAAFlRB.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545782617240653825",
+        "conversation_id": "2100745072132460929",
+        "created_at": "2026-09-18T00:33:49.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T01:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100745072132460929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fan_rbq/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/fan_rbq/status/2100743485364322671",
+              "start": 14,
+              "url": "https://t.co/uI1vBAM0Pn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100745072132460929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100743485364322671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "麦麦麦麦麦麦麦麦麦麦麦麦麦 https://t.co/uI1vBAM0Pn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100743472986882048"
+          ]
+        },
+        "author_id": "1426079620906975232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100743485364322671",
+        "created_at": "2026-09-18T00:27:31.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T01:27:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100743485364322671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/46HgENtgz5",
+              "end": 42,
+              "expanded_url": "https://x.com/fan_rbq/status/2100743485364322671/photo/1",
+              "media_key": "3_2100743472986882048",
+              "start": 19,
+              "url": "https://t.co/46HgENtgz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100743485364322671",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100743472986882048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃完早餐去医院ദ്ദി◝ ⩊ ◜.ᐟ https://t.co/46HgENtgz5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-07-09T14:51:23.000Z",
+        "description": "Eng beginner ||The Midnight fan\n\n🍔麦门永存🍔‖ 🍟薯条脑袋🍟 ‖ 不听歌就会死掉 7*24听着歌 ‖ Cantonese 广东 || 06 ‖ 重度抑郁 ‖ 休过两年学 ‖ 友跨顺南🍥|| 不键政\n\n对我很好的人 @fan_rbq \n老婆 @chu_00b2 =^▽^=",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 124,
+                "username": "fan_rbq"
+              },
+              {
+                "end": 146,
+                "start": 137,
+                "username": "chu_00b2"
+              }
+            ]
+          }
+        },
+        "id": "1545782617240653825",
+        "is_identity_verified": false,
+        "location": "任何地方",
+        "most_recent_tweet_id": "2100745072132460929",
+        "name": "MysticOrange🌆",
+        "pinned_tweet_id": "2058266210274541676",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1545782617240653825/1786141615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054512075079315458/0_zVXT1E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 163,
+          "like_count": 10413,
+          "listed_count": 0,
+          "media_count": 379,
+          "tweet_count": 4033
+        },
+        "url": "",
+        "username": "Orange_Chr1s",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-13T07:14:18.000Z",
+        "description": "08  生日10.05  167/52  休学ing  不🔪  od   infp  想发啥发啥👿  有一丢丢负能量 碎碎念",
+        "id": "1426079620906975232",
+        "is_identity_verified": false,
+        "location": "哦齁齁齁齁齁齁",
+        "most_recent_tweet_id": "2100743485364322671",
+        "name": "饭🍥",
+        "pinned_tweet_id": "2084163751637619013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426079620906975232/1745597548",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017660079424868352/io_4mzAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 180,
+          "like_count": 3269,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 1249
+        },
+        "url": "",
+        "username": "fan_rbq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
